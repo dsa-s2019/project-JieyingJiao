@@ -1,0 +1,866 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Jimmy Butler","Minnesota Timberwolves",2017-10-18,2017,6430,1610612750,400974440,3,11,19,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",-5,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,1,5,50,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Indiana Pacers",8,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-06,2017,6430,1610612750,400975113,2,6,47,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Los Angeles Clippers",-14,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-27,2017,6430,1610612750,400974825,1,8,08,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Oklahoma City Thunder",7,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-29,2017,6430,1610612750,400975060,2,3,46,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"New Orleans Pelicans",12,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-11,2017,6430,1610612750,400975584,3,10,18,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Sacramento Kings",5,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,1,9,58,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,1,7,08,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Denver Nuggets",-4,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,2,1,14,1,"Alley Oop Layup shot","2PT Field Goal",5,"Miami Heat",-50,32,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,2,6,48,1,"Alley Oop Layup shot","2PT Field Goal",1,"Orlando Magic",8,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,2,3,03,1,"Alley Oop Layup shot","2PT Field Goal",0,"Atlanta Hawks",-1,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,4,6,12,1,"Alley Oop Layup shot","2PT Field Goal",1,"Phoenix Suns",-5,-10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-06,2017,6430,1610612750,400975113,2,10,36,1,"Alley Oop Layup shot","2PT Field Goal",1,"Los Angeles Clippers",15,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,4,5,50,1,"Alley Oop Layup shot","2PT Field Goal",1,"Phoenix Suns",17,9,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,2,3,19,0,"Alley Oop Layup shot","2PT Field Goal",1,"Washington Wizards",-4,19,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,2,0,57,0,"Alley Oop Layup shot","2PT Field Goal",0,"Phoenix Suns",5,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,3,3,34,1,"Cutting Dunk Shot","2PT Field Goal",0,"Phoenix Suns",2,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,4,3,45,1,"Cutting Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",6,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,2,6,51,1,"Cutting Dunk Shot","2PT Field Goal",2,"Denver Nuggets",18,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,1,4,58,1,"Cutting Dunk Shot","2PT Field Goal",1,"Phoenix Suns",5,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,3,11,47,0,"Cutting Dunk Shot","2PT Field Goal",1,"Oklahoma City Thunder",-11,-4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,2,2,35,1,"Cutting Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",3,9,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-11,2017,6430,1610612750,400975584,1,7,56,1,"Cutting Layup Shot","2PT Field Goal",2,"Sacramento Kings",-3,20,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-09,2017,6430,1610612750,400975955,2,8,14,1,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",0,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,3,3,22,1,"Cutting Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",10,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,4,8,41,1,"Cutting Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",25,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-06,2017,6430,1610612750,400975936,4,10,29,1,"Cutting Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",24,26,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,3,3,38,1,"Cutting Layup Shot","2PT Field Goal",1,"Houston Rockets",0,-11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,4,8,07,1,"Cutting Layup Shot","2PT Field Goal",2,"San Antonio Spurs",19,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-27,2017,6430,1610612750,400974825,4,4,09,1,"Cutting Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-25,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,3,10,59,1,"Cutting Layup Shot","2PT Field Goal",2,"Houston Rockets",-18,9,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,2,2,26,1,"Cutting Layup Shot","2PT Field Goal",2,"Detroit Pistons",-2,20,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,2,6,49,1,"Cutting Layup Shot","2PT Field Goal",2,"Houston Rockets",-25,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,3,10,44,1,"Cutting Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",9,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-04,2017,6430,1610612750,400974885,1,6,34,0,"Cutting Layup Shot","2PT Field Goal",1,"Dallas Mavericks",0,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-12,2017,6430,1610612750,400975369,2,0,03,1,"Cutting Layup Shot","2PT Field Goal",0,"New York Knicks",-4,9,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,1,5,54,0,"Driving Dunk Shot","2PT Field Goal",0,"Phoenix Suns",2,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,2,1,32,1,"Driving Dunk Shot","2PT Field Goal",1,"New Orleans Pelicans",-6,9,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,4,3,35,1,"Driving Dunk Shot","2PT Field Goal",1,"New Orleans Pelicans",-9,-5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-12,2017,6430,1610612750,400975369,3,2,23,1,"Driving Dunk Shot","2PT Field Goal",1,"New York Knicks",0,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,1,6,30,1,"Driving Dunk Shot","2PT Field Goal",1,"New Orleans Pelicans",-2,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,4,4,51,1,"Driving Finger Roll Layup Shot","2PT Field Goal",5,"Los Angeles Clippers",2,50,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,4,1,10,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",18,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,4,3,57,0,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Phoenix Suns",-1,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,4,6,11,0,"Driving Floating Bank Jump Shot","2PT Field Goal",7,"Miami Heat",62,41,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,3,4,43,0,"Driving Floating Bank Jump Shot","2PT Field Goal",8,"Los Angeles Lakers",63,54,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,2,8,03,1,"Driving Floating Bank Jump Shot","2PT Field Goal",2,"Los Angeles Lakers",-13,27,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,1,6,47,1,"Driving Floating Bank Jump Shot","2PT Field Goal",11,"Miami Heat",63,95,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,2,4,52,1,"Driving Floating Bank Jump Shot","2PT Field Goal",8,"Los Angeles Lakers",57,69,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,3,7,47,1,"Driving Floating Bank Jump Shot","2PT Field Goal",2,"San Antonio Spurs",12,19,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,1,2,20,1,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",48,34,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,2,11,16,0,"Driving Floating Bank Jump Shot","2PT Field Goal",4,"Oklahoma City Thunder",-36,27,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,5,4,41,1,"Driving Floating Bank Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",37,25,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,4,9,16,1,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"Houston Rockets",40,33,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-14,2017,6430,1610612750,400975383,2,1,25,1,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",49,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,1,11,39,0,"Driving Floating Bank Jump Shot","2PT Field Goal",6,"Brooklyn Nets",61,31,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,1,10,02,1,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"Orlando Magic",46,29,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,3,4,42,0,"Driving Floating Bank Jump Shot","2PT Field Goal",12,"Chicago Bulls",119,38,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,1,2,55,0,"Driving Floating Bank Jump Shot","2PT Field Goal",3,"Denver Nuggets",17,32,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,4,10,10,1,"Driving Floating Bank Jump Shot","2PT Field Goal",6,"Phoenix Suns",62,20,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-27,2017,6430,1610612750,400974825,2,6,17,1,"Driving Floating Bank Jump Shot","2PT Field Goal",4,"Oklahoma City Thunder",44,19,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,1,3,55,1,"Driving Floating Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",65,85,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-05,2017,6430,1610612750,400975316,4,2,46,0,"Driving Floating Jump Shot","2PT Field Goal",7,"Boston Celtics",65,29,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,1,9,46,1,"Driving Floating Jump Shot","2PT Field Goal",11,"Brooklyn Nets",2,116,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,3,3,52,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Brooklyn Nets",-20,75,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,4,5,15,1,"Driving Floating Jump Shot","2PT Field Goal",11,"Atlanta Hawks",1,114,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,3,6,33,0,"Driving Floating Jump Shot","2PT Field Goal",10,"Houston Rockets",90,60,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,4,8,20,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Milwaukee Bucks",-8,70,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,4,4,32,1,"Driving Floating Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",24,33,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,4,3,01,1,"Driving Floating Jump Shot","2PT Field Goal",2,"Phoenix Suns",2,24,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,4,6,32,0,"Driving Floating Jump Shot","2PT Field Goal",5,"Los Angeles Clippers",9,54,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,1,10,53,0,"Driving Floating Jump Shot","2PT Field Goal",2,"Dallas Mavericks",-24,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,3,11,38,0,"Driving Floating Jump Shot","2PT Field Goal",7,"Toronto Raptors",47,52,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,5,0,01,0,"Driving Floating Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",-41,25,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-06,2017,6430,1610612750,400975113,3,3,53,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Los Angeles Clippers",29,52,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,2,10,12,1,"Driving Floating Jump Shot","2PT Field Goal",11,"Los Angeles Lakers",31,115,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,3,6,16,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",-2,92,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,4,9,17,1,"Driving Floating Jump Shot","2PT Field Goal",14,"Brooklyn Nets",33,146,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,2,1,14,1,"Driving Floating Jump Shot","2PT Field Goal",8,"Oklahoma City Thunder",85,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,1,5,21,0,"Driving Floating Jump Shot","2PT Field Goal",10,"Houston Rockets",-15,99,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,3,4,12,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",9,65,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,3,2,33,0,"Driving Floating Jump Shot","2PT Field Goal",3,"Toronto Raptors",20,25,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,1,4,05,1,"Driving Floating Jump Shot","2PT Field Goal",10,"Toronto Raptors",38,103,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,2,5,22,0,"Driving Layup Shot","2PT Field Goal",4,"Detroit Pistons",-4,45,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,1,9,51,1,"Driving Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",21,23,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,4,9,11,0,"Driving Layup Shot","2PT Field Goal",7,"Memphis Grizzlies",49,50,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,2,0,09,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",4,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,4,0,21,1,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-9,-2,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,2,2,24,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,4,0,49,1,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-6,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,2,3,52,0,"Driving Layup Shot","2PT Field Goal",0,"San Antonio Spurs",0,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-06,2017,6430,1610612750,400975936,2,8,34,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",3,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-06,2017,6430,1610612750,400975936,1,8,18,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-12,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,3,10,56,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",2,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-14,2017,6430,1610612750,400975167,2,1,23,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",12,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,2,4,29,0,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",-2,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,1,1,38,0,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",1,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,3,3,22,0,"Driving Layup Shot","2PT Field Goal",4,"Houston Rockets",6,47,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,1,6,10,0,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",0,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,1,4,30,0,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",-6,-3,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,1,1,52,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-9,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,1,4,51,0,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-16,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,4,4,35,0,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",4,20,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-29,2017,6430,1610612750,400975060,4,6,01,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",27,12,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,3,9,08,0,"Driving Layup Shot","2PT Field Goal",3,"Phoenix Suns",-3,34,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-14,2017,6430,1610612750,400975383,1,9,15,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-9,12,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,1,6,59,1,"Driving Layup Shot","2PT Field Goal",0,"Chicago Bulls",8,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,1,7,42,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",10,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,4,2,15,0,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",11,19,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,1,7,32,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",2,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,2,0,12,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",13,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,4,0,21,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-20,9,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,4,1,05,0,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",7,27,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,4,4,54,0,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-3,20,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,1,10,30,0,"Driving Layup Shot","2PT Field Goal",3,"Houston Rockets",-27,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,3,9,16,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-13,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,3,3,06,0,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",29,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,3,6,38,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",9,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,4,4,36,0,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",2,22,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,4,10,29,0,"Driving Layup Shot","2PT Field Goal",3,"Houston Rockets",27,22,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,4,3,25,0,"Driving Layup Shot","2PT Field Goal",4,"Denver Nuggets",-19,37,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,4,1,48,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",19,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,3,9,54,0,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",-1,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,2,2,01,0,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",1,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-18,2017,6430,1610612750,400974440,4,6,49,0,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-20,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-18,2017,6430,1610612750,400974440,1,6,00,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-4,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,5,3,22,1,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-5,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,4,0,01,0,"Driving Layup Shot","2PT Field Goal",3,"Phoenix Suns",20,32,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,4,1,08,0,"Driving Layup Shot","2PT Field Goal",3,"Phoenix Suns",1,30,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,1,6,46,1,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",-6,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-18,2017,6430,1610612750,400974440,2,4,21,0,"Driving Layup Shot","2PT Field Goal",3,"San Antonio Spurs",36,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-05,2017,6430,1610612750,400974894,3,3,09,0,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",8,22,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,1,5,38,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",13,14,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-09,2017,6430,1610612750,400975955,1,9,15,0,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",2,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-11,2017,6430,1610612750,400975584,3,4,01,0,"Driving Layup Shot","2PT Field Goal",4,"Sacramento Kings",38,23,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-12,2017,6430,1610612750,400975369,4,4,49,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",-13,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,4,7,30,0,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",2,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,3,6,58,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",9,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,4,0,20,1,"Driving Layup Shot","2PT Field Goal",3,"Orlando Magic",30,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,1,6,52,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-2,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,4,0,38,1,"Driving Layup Shot","2PT Field Goal",3,"Orlando Magic",36,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,2,0,24,0,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,4,2,32,1,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-2,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,1,6,07,0,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-15,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,4,8,27,0,"Driving Layup Shot","2PT Field Goal",5,"Miami Heat",41,31,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,5,4,04,0,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-6,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,3,7,46,0,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",11,12,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,4,8,41,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-4,22,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,1,10,14,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-13,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,4,0,14,0,"Driving Layup Shot","2PT Field Goal",6,"Phoenix Suns",-1,64,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,2,4,03,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-2,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,1,0,11,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-6,24,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,3,0,37,0,"Driving Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",0,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,3,1,46,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",9,12,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,10,49,1,"Driving Layup Shot","2PT Field Goal",3,"Philadelphia 76ers",-30,20,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,1,10,28,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",4,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,1,4,51,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",6,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,1,6,14,0,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-4,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,4,11,43,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",3,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,11,17,1,"Driving Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",-5,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,1,5,10,1,"Driving Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",3,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,2,6,24,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",2,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,2,7,24,0,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-6,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,3,3,59,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-5,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,3,9,48,1,"Driving Layup Shot","2PT Field Goal",5,"Detroit Pistons",-5,50,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,3,8,55,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",9,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,3,8,15,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",3,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,3,22,1,"Driving Reverse Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,2,1,46,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Houston Rockets",-5,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-11,2017,6430,1610612750,400975584,3,7,30,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Sacramento Kings",-2,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-05,2017,6430,1610612750,400975316,2,4,17,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Boston Celtics",18,20,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-11,2017,6430,1610612750,400975584,3,7,53,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Sacramento Kings",4,12,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,3,10,15,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Phoenix Suns",-1,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,4,1,18,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",18,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,1,10,37,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",1,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,2,8,53,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-9,22,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,3,8,42,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-18,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,2,3,16,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Toronto Raptors",17,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,3,4,48,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Denver Nuggets",-13,12,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,3,11,43,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-5,9,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,3,10,32,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Denver Nuggets",-9,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,2,7,57,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Phoenix Suns",-5,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,1,5,43,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Phoenix Suns",6,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,3,4,29,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",8,-4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,4,7,08,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",8,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,1,6,28,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Phoenix Suns",2,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-18,2017,6430,1610612750,400974440,1,10,32,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-11,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-04,2017,6430,1610612750,400974885,4,3,28,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",14,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-14,2017,6430,1610612750,400975383,1,8,54,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",4,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,1,6,20,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Orlando Magic",9,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,4,1,36,0,"Driving Reverse Layup Shot","2PT Field Goal",3,"Denver Nuggets",-1,33,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,3,3,03,1,"Dunk Shot","2PT Field Goal",2,"Indiana Pacers",4,27,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,2,1,54,1,"Dunk Shot","2PT Field Goal",1,"New Orleans Pelicans",6,19,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,2,3,16,1,"Dunk Shot","2PT Field Goal",1,"Denver Nuggets",0,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-29,2017,6430,1610612750,400975060,2,2,31,1,"Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,2,2,17,1,"Dunk Shot","2PT Field Goal",1,"Orlando Magic",5,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-14,2017,6430,1610612750,400975383,3,5,53,1,"Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",1,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,2,1,00,1,"Dunk Shot","2PT Field Goal",1,"Orlando Magic",1,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,1,8,13,1,"Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",2,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-14,2017,6430,1610612750,400975167,1,9,13,1,"Dunk Shot","2PT Field Goal",0,"Sacramento Kings",1,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-13,2017,6430,1610612750,400974948,4,6,13,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Utah Jazz",-132,90,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,3,6,09,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Miami Heat",-11,197,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,3,2,27,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Toronto Raptors",44,194,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,2,1,11,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Los Angeles Lakers",25,113,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,2,1,18,0,"Fadeaway Jump Shot","2PT Field Goal",6,"Milwaukee Bucks",63,19,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-08,2017,6430,1610612750,400974914,2,5,11,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Golden State Warriors",0,103,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,4,1,01,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Denver Nuggets",120,64,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,4,2,47,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Houston Rockets",157,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-13,2017,6430,1610612750,400974948,4,6,38,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Utah Jazz",-109,96,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-06,2017,6430,1610612750,400975936,3,11,23,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Los Angeles Lakers",-86,71,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,4,0,32,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Denver Nuggets",101,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,3,1,19,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-107,149,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,2,0,46,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",-117,34,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-27,2017,6430,1610612750,400974825,1,0,58,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",-141,-8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,4,6,37,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Toronto Raptors",120,39,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,2,3,12,0,"Fadeaway Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",84,148,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,3,7,28,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-154,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,1,5,04,1,"Fadeaway Jump Shot","2PT Field Goal",8,"Houston Rockets",-80,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-05,2017,6430,1610612750,400975316,3,10,05,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Boston Celtics",-116,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,2,5,21,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Utah Jazz",2,149,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,1,4,30,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",190,50,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,1,11,06,0,"Floating Jump shot","2PT Field Goal",5,"Brooklyn Nets",51,20,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,1,10,04,0,"Floating Jump shot","2PT Field Goal",6,"Phoenix Suns",24,59,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,1,5,36,1,"Floating Jump shot","2PT Field Goal",5,"Phoenix Suns",22,49,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,4,1,18,1,"Floating Jump shot","2PT Field Goal",10,"Phoenix Suns",43,98,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,5,2,19,0,"Floating Jump shot","2PT Field Goal",13,"Philadelphia 76ers",130,-21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,2,0,00,1,"Floating Jump shot","2PT Field Goal",15,"Detroit Pistons",68,137,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-11,2017,6430,1610612750,400975584,4,9,34,1,"Floating Jump shot","2PT Field Goal",7,"Sacramento Kings",6,71,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,3,0,49,1,"Floating Jump shot","2PT Field Goal",8,"Milwaukee Bucks",-79,25,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,1,9,22,0,"Floating Jump shot","2PT Field Goal",11,"Cleveland Cavaliers",57,104,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,4,6,07,0,"Floating Jump shot","2PT Field Goal",8,"Milwaukee Bucks",-29,76,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,1,10,48,1,"Floating Jump shot","2PT Field Goal",11,"Houston Rockets",-4,111,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,4,2,33,1,"Floating Jump shot","2PT Field Goal",12,"Denver Nuggets",5,120,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-06,2017,6430,1610612750,400975936,2,10,30,0,"Floating Jump shot","2PT Field Goal",6,"Los Angeles Lakers",-2,64,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,3,11,12,0,"Floating Jump shot","2PT Field Goal",9,"Miami Heat",39,82,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,1,8,57,0,"Floating Jump shot","2PT Field Goal",6,"Dallas Mavericks",18,61,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,3,8,09,1,"Floating Jump shot","2PT Field Goal",11,"Milwaukee Bucks",-22,110,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,1,5,32,1,"Floating Jump shot","2PT Field Goal",1,"Oklahoma City Thunder",-1,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,4,3,39,0,"Hook Shot","2PT Field Goal",5,"Miami Heat",-24,53,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,4,7,42,0,"Jump Bank Shot","2PT Field Goal",4,"Orlando Magic",32,33,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-18,2017,6430,1610612750,400974440,4,2,54,0,"Jump Bank Shot","2PT Field Goal",2,"San Antonio Spurs",18,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,11,47,0,"Jump Bank Shot","2PT Field Goal",15,"Philadelphia 76ers",126,93,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,2,3,49,0,"Jump Bank Shot","2PT Field Goal",9,"Brooklyn Nets",-71,69,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,1,5,15,1,"Jump Bank Shot","2PT Field Goal",18,"Denver Nuggets",141,114,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,4,2,03,0,"Jump Bank Shot","3PT Field Goal",30,"Phoenix Suns",161,263,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,4,3,52,1,"Jump Bank Shot","2PT Field Goal",10,"Phoenix Suns",97,44,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-13,2017,6430,1610612750,400974948,3,3,00,1,"Jump Bank Shot","2PT Field Goal",17,"Utah Jazz",-160,80,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,3,1,38,1,"Jump Bank Shot","2PT Field Goal",8,"Utah Jazz",70,43,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,1,9,17,0,"Jump Bank Shot","2PT Field Goal",14,"Atlanta Hawks",127,67,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-09,2017,6430,1610612750,400975955,2,6,37,1,"Jump Bank Shot","2PT Field Goal",6,"Memphis Grizzlies",-43,42,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,4,6,53,0,"Jump Bank Shot","2PT Field Goal",1,"Oklahoma City Thunder",-9,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,4,4,55,0,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",87,190,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,3,3,32,0,"Jump Shot","2PT Field Goal",6,"Phoenix Suns",-68,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,4,6,10,1,"Jump Shot","2PT Field Goal",5,"Phoenix Suns",18,51,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,4,6,35,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",98,171,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,2,0,00,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",147,201,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,3,6,31,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",227,43,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,3,10,23,1,"Jump Shot","3PT Field Goal",22,"Los Angeles Clippers",228,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-04,2017,6430,1610612750,400974885,1,2,55,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-200,142,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-04,2017,6430,1610612750,400974885,2,3,50,1,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",-163,75,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-04,2017,6430,1610612750,400974885,3,8,59,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",166,185,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,4,3,25,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-212,159,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,2,3,24,0,"Jump Shot","3PT Field Goal",28,"Milwaukee Bucks",128,252,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,4,8,52,0,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",-32,146,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,4,0,00,1,"Jump Shot","3PT Field Goal",29,"Milwaukee Bucks",139,256,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,4,4,01,1,"Jump Shot","2PT Field Goal",7,"Los Angeles Clippers",16,74,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,2,3,28,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-182,158,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,4,1,23,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",-16,207,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,2,8,22,0,"Jump Shot","2PT Field Goal",2,"Los Angeles Clippers",13,26,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,1,10,45,1,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",51,194,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,4,2,00,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",97,243,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,4,0,27,0,"Jump Shot","3PT Field Goal",28,"Milwaukee Bucks",-136,247,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,4,0,23,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-111,146,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,5,2,59,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",192,149,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,3,10,12,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-235,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,2,7,09,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",170,178,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,3,0,05,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",65,238,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,1,4,19,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",85,243,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,5,0,44,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",150,96,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,5,2,07,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",55,162,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,3,2,09,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",30,188,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,2,3,13,1,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",178,27,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,8,35,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-151,66,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,5,0,11,1,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-71,256,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,2,1,10,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-90,251,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,2,7,08,1,"Jump Shot","2PT Field Goal",9,"Philadelphia 76ers",96,-9,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,5,0,02,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-187,171,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,10,14,1,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",78,161,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,1,01,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-154,194,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,1,5,27,0,"Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",-154,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,1,10,51,0,"Jump Shot","2PT Field Goal",7,"Philadelphia 76ers",31,73,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,0,17,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",147,203,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,2,10,31,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-137,143,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,2,2,27,1,"Jump Shot","2PT Field Goal",11,"Philadelphia 76ers",-43,106,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,1,4,31,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",25,253,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,2,0,01,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",165,183,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,8,07,0,"Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",119,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,7,02,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",152,203,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,3,3,45,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",30,252,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,3,1,11,1,"Jump Shot","2PT Field Goal",13,"Milwaukee Bucks",134,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,2,3,41,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",-231,57,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,2,7,25,1,"Jump Shot","3PT Field Goal",22,"Washington Wizards",-225,14,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,2,10,14,1,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",58,137,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-14,2017,6430,1610612750,400975383,4,8,18,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",215,131,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-14,2017,6430,1610612750,400975383,2,5,15,0,"Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",40,110,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-13,2017,6430,1610612750,400974948,3,6,45,0,"Jump Shot","2PT Field Goal",8,"Utah Jazz",-18,85,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-13,2017,6430,1610612750,400974948,4,5,15,0,"Jump Shot","2PT Field Goal",3,"Utah Jazz",31,22,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-13,2017,6430,1610612750,400974948,1,7,47,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-111,229,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-13,2017,6430,1610612750,400974948,1,10,18,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",183,174,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,4,6,24,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",129,37,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,2,2,19,0,"Jump Shot","3PT Field Goal",22,"Miami Heat",226,35,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,3,4,14,0,"Jump Shot","2PT Field Goal",10,"Washington Wizards",-104,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,2,0,04,0,"Jump Shot","2PT Field Goal",20,"Orlando Magic",93,188,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,4,2,50,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",182,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,1,7,23,0,"Jump Shot","3PT Field Goal",28,"Charlotte Hornets",127,251,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-05,2017,6430,1610612750,400974894,1,2,38,1,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",142,71,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-05,2017,6430,1610612750,400974894,3,4,35,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",74,252,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-05,2017,6430,1610612750,400974894,2,3,42,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",133,203,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,1,3,18,1,"Jump Shot","2PT Field Goal",17,"Orlando Magic",165,69,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,4,11,07,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",5,257,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,4,3,26,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",0,257,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,2,5,05,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",235,29,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,2,0,00,0,"Jump Shot","3PT Field Goal",40,"Washington Wizards",-134,386,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,1,11,03,1,"Jump Shot","3PT Field Goal",23,"Washington Wizards",234,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,1,5,40,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",133,203,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,3,6,05,1,"Jump Shot","2PT Field Goal",7,"Orlando Magic",1,75,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,2,2,04,0,"Jump Shot","2PT Field Goal",20,"Orlando Magic",-57,201,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,4,3,15,1,"Jump Shot","3PT Field Goal",23,"Orlando Magic",235,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,4,0,03,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-168,180,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,4,0,25,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",231,126,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,3,7,36,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",166,205,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,3,8,29,0,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",-83,191,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,1,5,35,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",133,209,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,4,3,55,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",92,238,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,1,0,22,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-155,192,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,3,9,13,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",127,216,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,4,11,04,1,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",144,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,3,3,22,1,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",67,206,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,1,9,55,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-152,189,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,1,6,59,0,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",32,150,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,4,2,01,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",225,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,2,3,17,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-228,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,4,8,49,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-25,246,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,4,7,37,0,"Jump Shot","2PT Field Goal",3,"Charlotte Hornets",19,29,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,3,8,54,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",24,172,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,4,8,43,0,"Jump Shot","2PT Field Goal",14,"Charlotte Hornets",95,111,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,3,10,47,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-143,110,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,4,2,26,0,"Jump Shot","2PT Field Goal",7,"Charlotte Hornets",-49,63,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,4,3,03,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",111,246,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,1,9,25,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",154,214,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,3,7,45,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",158,217,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,2,3,31,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",170,31,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,3,8,03,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-90,170,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-05,2017,6430,1610612750,400975316,4,2,12,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",227,53,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-05,2017,6430,1610612750,400975316,2,4,04,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",230,-2,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-05,2017,6430,1610612750,400975316,4,9,29,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",189,170,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,4,2,07,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",-199,27,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,3,4,03,0,"Jump Shot","2PT Field Goal",11,"San Antonio Spurs",0,110,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,2,10,48,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-209,160,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,3,4,35,0,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-128,99,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,4,7,04,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-85,234,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,3,5,56,0,"Jump Shot","2PT Field Goal",15,"Miami Heat",-22,151,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-29,2017,6430,1610612750,400975060,1,5,18,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-2,193,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,3,10,54,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-184,51,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,2,2,27,0,"Jump Shot","3PT Field Goal",27,"San Antonio Spurs",101,258,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,3,6,33,1,"Jump Shot","3PT Field Goal",22,"Miami Heat",-226,-10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,3,5,11,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-108,232,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,3,2,30,0,"Jump Shot","2PT Field Goal",9,"Miami Heat",-95,-21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,4,1,39,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-121,105,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-14,2017,6430,1610612750,400975167,3,4,53,1,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",-191,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,3,8,57,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",133,209,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,2,4,12,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-212,135,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,3,4,34,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-140,205,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,1,4,18,0,"Jump Shot","2PT Field Goal",10,"Houston Rockets",-2,106,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,1,7,27,0,"Jump Shot","2PT Field Goal",15,"Houston Rockets",153,19,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,2,0,04,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",148,211,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,1,4,10,0,"Jump Shot","2PT Field Goal",22,"Houston Rockets",171,140,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-29,2017,6430,1610612750,400975060,1,10,56,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-206,130,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-29,2017,6430,1610612750,400975060,1,11,21,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",57,187,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-29,2017,6430,1610612750,400975060,3,9,01,1,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-230,37,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,4,1,41,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-210,150,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,1,5,37,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",55,242,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,4,7,56,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",161,94,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,2,7,27,1,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",32,159,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,3,9,37,1,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",154,79,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,3,11,40,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-196,153,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,2,4,52,1,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",236,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,1,10,55,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-114,225,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,4,0,00,0,"Jump Shot","3PT Field Goal",22,"Chicago Bulls",-223,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-08,2017,6430,1610612750,400974914,1,11,02,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-204,150,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-08,2017,6430,1610612750,400974914,2,6,12,0,"Jump Shot","2PT Field Goal",11,"Golden State Warriors",-113,26,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-08,2017,6430,1610612750,400974914,3,5,55,0,"Jump Shot","2PT Field Goal",8,"Golden State Warriors",-3,86,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-08,2017,6430,1610612750,400974914,1,8,51,1,"Jump Shot","2PT Field Goal",9,"Golden State Warriors",-9,94,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-08,2017,6430,1610612750,400974914,1,3,19,0,"Jump Shot","2PT Field Goal",11,"Golden State Warriors",-6,113,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-08,2017,6430,1610612750,400974914,2,1,46,0,"Jump Shot","2PT Field Goal",22,"Golden State Warriors",139,174,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,4,0,00,0,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",158,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,2,5,01,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-232,57,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,2,5,47,0,"Jump Shot","2PT Field Goal",10,"Orlando Magic",-107,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,3,5,01,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-125,226,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,1,3,00,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-135,208,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,1,4,40,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",74,243,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,2,0,00,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",52,243,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,2,6,09,1,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",-200,34,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,3,8,51,0,"Jump Shot","2PT Field Goal",12,"Phoenix Suns",126,24,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,2,5,59,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-224,57,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,2,0,00,0,"Jump Shot","3PT Field Goal",57,"Phoenix Suns",65,568,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,4,7,10,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",-123,64,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,1,2,47,0,"Jump Shot","2PT Field Goal",12,"Phoenix Suns",119,36,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,4,7,42,1,"Jump Shot","2PT Field Goal",11,"Houston Rockets",-115,29,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-18,2017,6430,1610612750,400974440,1,11,09,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",199,152,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-18,2017,6430,1610612750,400974440,4,2,47,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",230,-15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,1,7,09,1,"Jump Shot","2PT Field Goal",10,"Indiana Pacers",101,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,3,7,08,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-231,84,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-06,2017,6430,1610612750,400975113,2,7,54,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-230,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-06,2017,6430,1610612750,400975113,4,1,39,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",186,172,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,3,5,10,0,"Jump Shot","2PT Field Goal",22,"Houston Rockets",212,71,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,1,9,41,0,"Jump Shot","2PT Field Goal",14,"Houston Rockets",-102,106,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,3,11,46,1,"Jump Shot","2PT Field Goal",10,"New Orleans Pelicans",96,47,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,4,4,15,1,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",-163,58,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,2,3,52,0,"Jump Shot","2PT Field Goal",10,"Dallas Mavericks",101,34,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,4,6,16,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-231,20,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,3,0,00,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",89,181,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,4,5,00,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",193,64,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,3,3,56,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",116,226,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,2,2,07,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",226,48,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,1,5,04,1,"Jump Shot","3PT Field Goal",22,"Brooklyn Nets",223,55,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,3,9,56,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-137,220,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,1,2,48,0,"Jump Shot","2PT Field Goal",10,"Orlando Magic",-105,20,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,2,1,36,1,"Jump Shot","2PT Field Goal",15,"Orlando Magic",1,151,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,4,5,06,1,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-232,27,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,1,2,39,1,"Jump Shot","2PT Field Goal",7,"Orlando Magic",-78,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,4,4,01,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",182,179,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,3,7,25,1,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-132,225,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,2,8,42,0,"Jump Shot","2PT Field Goal",10,"Utah Jazz",-19,101,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,2,6,33,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",-138,30,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,3,6,27,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-186,173,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,4,5,59,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",124,143,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,1,9,03,0,"Jump Shot","2PT Field Goal",8,"Los Angeles Lakers",-6,87,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,3,3,44,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",90,232,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-06,2017,6430,1610612750,400975936,1,6,57,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",120,217,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,3,8,55,0,"Jump Shot","2PT Field Goal",14,"Utah Jazz",101,99,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,4,7,24,0,"Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",-121,38,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,2,4,40,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-133,122,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,4,4,53,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",178,184,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,3,6,41,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",162,86,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,3,10,21,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-228,54,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,4,0,34,1,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",152,132,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,1,9,55,0,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",138,-2,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,3,8,00,1,"Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",82,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,4,5,28,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",230,115,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,3,6,05,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",65,260,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,2,10,49,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",160,12,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,3,8,56,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-106,220,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,1,11,29,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-229,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,3,11,37,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",77,156,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,4,3,41,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",109,156,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,4,4,30,0,"Jump Shot","2PT Field Goal",12,"Utah Jazz",-26,120,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,4,0,53,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",224,141,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,4,6,14,0,"Jump Shot","2PT Field Goal",8,"Oklahoma City Thunder",82,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,4,3,45,1,"Jump Shot","2PT Field Goal",22,"Oklahoma City Thunder",151,160,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,4,1,54,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",179,162,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,1,3,54,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",46,176,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,3,7,57,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",-134,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,3,11,39,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-20,258,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,2,1,22,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-106,235,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,2,3,31,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",233,32,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,4,6,52,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-234,94,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,4,11,24,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",85,247,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,1,6,31,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",231,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,3,7,06,0,"Jump Shot","2PT Field Goal",8,"Miami Heat",-32,83,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-27,2017,6430,1610612750,400974825,1,11,28,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",-167,53,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-27,2017,6430,1610612750,400974825,1,7,29,0,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",154,32,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,3,6,52,1,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",-220,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,2,2,26,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-167,177,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,1,2,21,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",130,150,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,4,2,53,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-172,-11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,2,3,52,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",231,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,3,0,58,0,"Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",13,127,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,2,0,02,0,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",-222,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,3,7,21,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-66,243,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,1,4,34,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",119,215,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,4,0,00,0,"Jump Shot","3PT Field Goal",28,"Detroit Pistons",112,259,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,1,11,48,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",56,188,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,3,6,30,0,"Jump Shot","3PT Field Goal",22,"Brooklyn Nets",-220,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,3,9,03,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-162,183,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,3,8,19,0,"Jump Shot","2PT Field Goal",13,"Brooklyn Nets",56,124,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,2,0,33,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",142,130,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,4,2,40,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",-120,137,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,3,5,01,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",-154,200,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,3,8,54,0,"Jump Shot","2PT Field Goal",14,"Miami Heat",143,43,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,2,2,59,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-193,152,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,3,5,26,1,"Jump Shot","2PT Field Goal",11,"Phoenix Suns",3,113,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,3,0,59,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",97,246,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,1,6,19,0,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",-102,121,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,3,10,34,0,"Jump Shot","2PT Field Goal",7,"Phoenix Suns",-60,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-11,2017,6430,1610612750,400975584,4,10,32,0,"Jump Shot","2PT Field Goal",7,"Sacramento Kings",-63,41,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-11,2017,6430,1610612750,400975584,4,1,16,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-169,189,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,2,7,41,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-233,-13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,4,7,07,1,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",228,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,4,4,41,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",155,191,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-12,2017,6430,1610612750,400975369,4,0,54,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",-103,233,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,4,11,23,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",-195,63,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,2,11,27,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-193,147,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,4,3,01,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",129,207,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,2,8,26,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",50,247,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,2,4,39,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-3,242,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,4,8,39,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",78,241,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,3,5,44,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",-144,217,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,2,10,58,0,"Jump Shot","2PT Field Goal",9,"Dallas Mavericks",90,24,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,2,0,16,1,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-221,-12,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-12,2017,6430,1610612750,400975369,4,3,57,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-229,91,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,3,8,59,0,"Jump Shot","3PT Field Goal",27,"Houston Rockets",-130,237,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,4,6,08,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",22,260,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,2,1,23,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-139,206,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,3,7,10,0,"Jump Shot","2PT Field Goal",3,"Houston Rockets",-7,33,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,4,10,38,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",97,237,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,4,10,08,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",233,-3,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,3,5,24,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",221,-8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,5,2,36,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",103,243,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,3,7,25,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",150,200,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,4,0,03,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-128,222,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,4,2,39,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-150,211,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-09,2017,6430,1610612750,400975955,1,6,43,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",147,199,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-09,2017,6430,1610612750,400975955,3,10,55,0,"Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",93,85,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,2,0,00,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",188,173,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,2,0,20,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-195,150,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,4,9,14,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-154,99,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,2,8,59,1,"Jump Shot","2PT Field Goal",2,"Denver Nuggets",-10,22,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,1,5,43,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",149,199,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,3,11,09,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-12,253,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-14,2017,6430,1610612750,400975167,3,7,04,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",6,27,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,4,7,18,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",-6,-9,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-12,2017,6430,1610612750,400975369,1,9,53,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",-9,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,5,0,09,1,"Layup Shot","2PT Field Goal",4,"Miami Heat",-41,14,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,3,8,27,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-2,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,2,5,45,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-4,26,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,4,0,30,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",3,14,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-09,2017,6430,1610612750,400975955,2,8,39,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",7,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,1,3,37,0,"Layup Shot","2PT Field Goal",3,"Orlando Magic",32,23,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,4,0,57,1,"Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",-25,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-08,2017,6430,1610612750,400974914,2,4,13,0,"Layup Shot","2PT Field Goal",3,"Golden State Warriors",2,34,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-20,2017,6430,1610612750,400974992,2,1,41,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",12,9,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,2,3,14,0,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-2,14,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-06,2017,6430,1610612750,400975113,3,4,15,0,"Layup Shot","2PT Field Goal",6,"Los Angeles Clippers",-69,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-29,2017,6430,1610612750,400975060,1,3,49,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-15,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,3,6,56,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",8,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,2,6,03,1,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",17,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,1,3,32,0,"Layup Shot","2PT Field Goal",4,"Brooklyn Nets",42,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-14,2017,6430,1610612750,400975167,3,5,46,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-1,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,2,0,38,0,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",2,-8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,1,7,27,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",11,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-13,2017,6430,1610612750,400974948,4,4,10,1,"Layup Shot","2PT Field Goal",2,"Utah Jazz",13,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-06,2017,6430,1610612750,400975936,3,10,39,0,"Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",16,29,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-29,2017,6430,1610612750,400975060,3,8,11,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-17,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,4,1,46,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",11,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-29,2017,6430,1610612750,400975060,1,7,13,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-3,25,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,2,5,04,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",2,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,1,4,36,0,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-1,-3,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,1,7,04,1,"Layup Shot","2PT Field Goal",3,"Miami Heat",-28,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,3,9,31,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-5,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-27,2017,6430,1610612750,400974825,4,1,08,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",10,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,4,7,38,1,"Layup Shot","2PT Field Goal",0,"Phoenix Suns",-6,-5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,3,11,35,0,"Layup Shot","2PT Field Goal",4,"Miami Heat",30,29,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,3,1,15,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",13,-5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,3,11,33,1,"Layup Shot","2PT Field Goal",0,"Miami Heat",8,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,1,11,35,0,"Pullup Jump shot","2PT Field Goal",15,"Miami Heat",-159,-16,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,1,3,11,1,"Pullup Jump shot","3PT Field Goal",25,"Memphis Grizzlies",195,157,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,1,10,24,0,"Pullup Jump shot","2PT Field Goal",19,"Phoenix Suns",67,187,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,4,6,23,1,"Pullup Jump shot","2PT Field Goal",16,"Los Angeles Lakers",70,148,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,1,9,16,1,"Pullup Jump shot","2PT Field Goal",13,"Memphis Grizzlies",125,52,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,3,10,28,1,"Pullup Jump shot","2PT Field Goal",16,"Memphis Grizzlies",-22,159,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,2,4,19,1,"Pullup Jump shot","2PT Field Goal",8,"Miami Heat",-12,86,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,3,5,07,1,"Pullup Jump shot","2PT Field Goal",10,"Phoenix Suns",43,99,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,4,10,08,0,"Pullup Jump shot","3PT Field Goal",26,"Chicago Bulls",144,218,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-18,2017,6430,1610612750,400974440,1,8,19,1,"Pullup Jump shot","3PT Field Goal",24,"San Antonio Spurs",166,185,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,2,3,30,1,"Pullup Jump shot","2PT Field Goal",18,"Houston Rockets",179,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,3,6,37,0,"Pullup Jump shot","2PT Field Goal",20,"San Antonio Spurs",115,166,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,2,3,53,0,"Pullup Jump shot","2PT Field Goal",12,"Phoenix Suns",4,127,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,1,7,54,1,"Pullup Jump shot","2PT Field Goal",15,"Atlanta Hawks",-71,134,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,3,3,13,1,"Pullup Jump shot","2PT Field Goal",2,"Cleveland Cavaliers",9,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,4,0,34,0,"Pullup Jump shot","3PT Field Goal",27,"Houston Rockets",53,270,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,4,0,03,0,"Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",223,124,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,1,8,56,1,"Pullup Jump shot","2PT Field Goal",6,"Indiana Pacers",12,66,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-08,2017,6430,1610612750,400974914,4,4,51,1,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",19,257,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-12,2017,6430,1610612750,400975369,3,7,44,0,"Pullup Jump shot","2PT Field Goal",20,"New York Knicks",107,176,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,1,0,43,1,"Pullup Jump shot","2PT Field Goal",16,"Cleveland Cavaliers",90,141,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,3,10,39,0,"Pullup Jump shot","3PT Field Goal",24,"Brooklyn Nets",13,249,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,2,9,41,1,"Pullup Jump shot","2PT Field Goal",11,"Houston Rockets",-82,83,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,1,10,25,1,"Pullup Jump shot","2PT Field Goal",12,"Cleveland Cavaliers",-123,26,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,2,0,00,0,"Pullup Jump shot","3PT Field Goal",25,"Dallas Mavericks",132,214,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,4,5,11,0,"Pullup Jump shot","2PT Field Goal",12,"Phoenix Suns",96,78,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-12,2017,6430,1610612750,400975369,1,8,33,1,"Pullup Jump shot","2PT Field Goal",13,"New York Knicks",18,137,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,4,6,08,1,"Pullup Jump shot","2PT Field Goal",9,"Oklahoma City Thunder",-33,90,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,2,6,16,0,"Pullup Jump shot","2PT Field Goal",19,"Oklahoma City Thunder",59,183,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,4,5,21,1,"Pullup Jump shot","2PT Field Goal",15,"Dallas Mavericks",-62,147,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,2,1,10,0,"Pullup Jump shot","2PT Field Goal",20,"Oklahoma City Thunder",-172,112,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-12,2017,6430,1610612750,400975369,2,2,31,0,"Pullup Jump shot","3PT Field Goal",24,"New York Knicks",88,230,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,2,4,33,1,"Pullup Jump shot","2PT Field Goal",11,"Toronto Raptors",30,114,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,3,5,39,1,"Pullup Jump shot","2PT Field Goal",8,"Houston Rockets",-87,23,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,4,4,50,0,"Pullup Jump shot","2PT Field Goal",15,"Memphis Grizzlies",149,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-14,2017,6430,1610612750,400975167,4,10,19,1,"Pullup Jump shot","2PT Field Goal",12,"Sacramento Kings",109,64,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,1,7,46,1,"Pullup Jump shot","2PT Field Goal",12,"Houston Rockets",-2,129,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,4,10,20,0,"Pullup Jump shot","3PT Field Goal",27,"Memphis Grizzlies",152,224,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,1,6,32,0,"Pullup Jump shot","2PT Field Goal",8,"Chicago Bulls",-33,81,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,3,11,09,0,"Pullup Jump shot","2PT Field Goal",14,"Houston Rockets",81,126,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,2,0,20,1,"Pullup Jump shot","2PT Field Goal",10,"Memphis Grizzlies",-95,47,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,3,11,37,0,"Pullup Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",-4,155,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,1,7,27,1,"Pullup Jump shot","2PT Field Goal",17,"Los Angeles Lakers",-23,176,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,2,0,01,1,"Pullup Jump shot","2PT Field Goal",10,"Phoenix Suns",95,51,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,1,10,48,1,"Pullup Jump shot","2PT Field Goal",20,"Milwaukee Bucks",57,195,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,3,9,27,1,"Pullup Jump shot","2PT Field Goal",21,"Miami Heat",52,209,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,2,3,46,0,"Pullup Jump shot","2PT Field Goal",20,"Utah Jazz",108,176,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,1,9,19,0,"Pullup Jump shot","2PT Field Goal",18,"Miami Heat",5,183,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,2,6,30,1,"Pullup Jump shot","2PT Field Goal",4,"Chicago Bulls",-5,49,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,3,4,52,0,"Pullup Jump shot","2PT Field Goal",19,"Orlando Magic",116,159,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,2,1,37,0,"Pullup Jump shot","2PT Field Goal",13,"Orlando Magic",102,91,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,4,4,21,0,"Pullup Jump shot","2PT Field Goal",12,"Orlando Magic",121,47,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,4,2,38,0,"Pullup Jump shot","2PT Field Goal",12,"Chicago Bulls",103,72,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,1,8,02,1,"Pullup Jump shot","2PT Field Goal",16,"Dallas Mavericks",89,138,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,3,10,28,1,"Pullup Jump shot","2PT Field Goal",17,"Orlando Magic",107,142,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,1,11,32,0,"Pullup Jump shot","2PT Field Goal",22,"Dallas Mavericks",-129,179,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,4,3,30,1,"Pullup Jump shot","2PT Field Goal",9,"Brooklyn Nets",90,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,2,3,26,1,"Pullup Jump shot","2PT Field Goal",13,"Dallas Mavericks",8,130,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,3,0,29,0,"Pullup Jump shot","2PT Field Goal",19,"Phoenix Suns",3,193,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,1,11,10,1,"Pullup Jump shot","2PT Field Goal",13,"Phoenix Suns",14,138,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,1,8,10,0,"Pullup Jump shot","2PT Field Goal",22,"Phoenix Suns",-147,169,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,3,8,24,1,"Pullup Jump shot","3PT Field Goal",25,"Phoenix Suns",109,230,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,3,0,12,0,"Pullup Jump shot","2PT Field Goal",9,"Dallas Mavericks",-51,80,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,1,6,14,0,"Pullup Jump shot","2PT Field Goal",12,"Milwaukee Bucks",123,10,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,3,2,53,1,"Pullup Jump shot","2PT Field Goal",5,"Washington Wizards",43,29,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-14,2017,6430,1610612750,400975167,4,8,22,0,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",128,130,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-11,2017,6430,1610612750,400975584,4,4,16,0,"Pullup Jump shot","2PT Field Goal",19,"Sacramento Kings",-171,84,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,1,9,58,0,"Pullup Jump shot","2PT Field Goal",13,"Phoenix Suns",112,76,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-05,2017,6430,1610612750,400974894,1,6,22,0,"Pullup Jump shot","2PT Field Goal",19,"Charlotte Hornets",175,89,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,1,5,23,0,"Pullup Jump shot","2PT Field Goal",19,"Dallas Mavericks",88,170,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,2,6,23,1,"Pullup Jump shot","2PT Field Goal",15,"Brooklyn Nets",41,152,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,4,3,51,1,"Pullup Jump shot","2PT Field Goal",13,"Atlanta Hawks",105,82,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,1,9,41,0,"Pullup Jump shot","3PT Field Goal",27,"Milwaukee Bucks",111,248,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,2,3,47,1,"Pullup Jump shot","2PT Field Goal",5,"Denver Nuggets",9,55,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-12,2017,6430,1610612750,400975369,1,4,33,1,"Pullup Jump shot","2PT Field Goal",13,"New York Knicks",0,139,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-12,2017,6430,1610612750,400975369,4,2,53,0,"Pullup Jump shot","2PT Field Goal",14,"New York Knicks",-100,100,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,3,8,20,0,"Pullup Jump shot","3PT Field Goal",25,"Denver Nuggets",128,215,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,4,2,46,0,"Pullup Jump shot","2PT Field Goal",11,"Denver Nuggets",-106,55,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,1,4,29,0,"Pullup Jump shot","2PT Field Goal",19,"Denver Nuggets",143,126,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,4,0,42,1,"Pullup Jump shot","2PT Field Goal",20,"Denver Nuggets",119,172,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-13,2017,6430,1610612750,400974948,2,3,07,1,"Pullup Jump shot","2PT Field Goal",11,"Utah Jazz",-118,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,3,9,28,1,"Pullup Jump shot","2PT Field Goal",18,"Brooklyn Nets",127,132,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,3,11,39,1,"Pullup Jump shot","2PT Field Goal",21,"Denver Nuggets",-161,138,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,2,7,33,0,"Pullup Jump shot","2PT Field Goal",14,"Atlanta Hawks",135,50,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,2,1,17,1,"Pullup Jump shot","2PT Field Goal",10,"Atlanta Hawks",101,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-13,2017,6430,1610612750,400974948,3,1,24,1,"Pullup Jump shot","2PT Field Goal",9,"Utah Jazz",6,91,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,2,6,48,0,"Pullup Jump shot","2PT Field Goal",14,"Brooklyn Nets",12,140,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,1,10,27,1,"Pullup Jump shot","3PT Field Goal",25,"Memphis Grizzlies",-11,256,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-14,2017,6430,1610612750,400975383,4,9,10,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",149,82,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-14,2017,6430,1610612750,400975383,1,8,33,1,"Pullup Jump shot","2PT Field Goal",15,"Portland Trail Blazers",14,155,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,4,3,11,0,"Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",128,224,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-14,2017,6430,1610612750,400975383,1,7,49,0,"Pullup Jump shot","2PT Field Goal",11,"Portland Trail Blazers",-99,52,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,2,3,24,1,"Pullup Jump shot","3PT Field Goal",25,"Orlando Magic",123,220,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-18,2017,6430,1610612750,400974440,2,3,34,0,"Pullup Jump shot","2PT Field Goal",14,"San Antonio Spurs",61,136,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,2,9,38,1,"Pullup Jump shot","2PT Field Goal",13,"Dallas Mavericks",57,119,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-27,2017,6430,1610612750,400974825,4,8,07,1,"Pullup Jump shot","2PT Field Goal",4,"Oklahoma City Thunder",32,31,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,4,2,56,0,"Pullup Jump shot","3PT Field Goal",24,"Memphis Grizzlies",190,159,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,3,5,32,1,"Pullup Jump shot","2PT Field Goal",13,"Memphis Grizzlies",60,119,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-27,2017,6430,1610612750,400974825,4,1,42,1,"Pullup Jump shot","2PT Field Goal",14,"Oklahoma City Thunder",134,44,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,2,4,11,1,"Pullup Jump shot","2PT Field Goal",9,"Denver Nuggets",27,88,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,4,3,02,0,"Pullup Jump shot","2PT Field Goal",17,"San Antonio Spurs",-2,172,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,1,8,53,1,"Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",-93,241,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,4,0,01,0,"Pullup Jump shot","2PT Field Goal",21,"Brooklyn Nets",156,153,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,5,1,14,1,"Pullup Jump shot","2PT Field Goal",13,"Denver Nuggets",-61,120,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-18,2017,6430,1610612750,400974440,4,5,02,1,"Pullup Jump shot","2PT Field Goal",18,"San Antonio Spurs",-57,172,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,1,6,07,1,"Pullup Jump shot","3PT Field Goal",25,"New Orleans Pelicans",181,179,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-04,2017,6430,1610612750,400974885,1,10,49,0,"Pullup Jump shot","2PT Field Goal",16,"Dallas Mavericks",153,56,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,3,9,09,1,"Pullup Jump shot","3PT Field Goal",24,"New Orleans Pelicans",155,196,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,4,7,00,1,"Pullup Jump shot","2PT Field Goal",14,"Denver Nuggets",133,47,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,4,6,02,1,"Pullup Jump shot","3PT Field Goal",26,"Los Angeles Clippers",31,259,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,4,6,25,1,"Pullup Jump shot","2PT Field Goal",3,"Denver Nuggets",20,33,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,4,5,11,0,"Pullup Jump shot","2PT Field Goal",19,"Denver Nuggets",85,175,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,1,7,49,1,"Pullup Jump shot","3PT Field Goal",25,"Denver Nuggets",126,221,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,3,1,25,1,"Pullup Jump shot","2PT Field Goal",16,"Detroit Pistons",117,118,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,4,6,10,0,"Pullup Jump shot","2PT Field Goal",16,"Brooklyn Nets",81,146,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,1,5,05,1,"Pullup Jump shot","2PT Field Goal",10,"Orlando Magic",106,9,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-05,2017,6430,1610612750,400975316,1,6,40,0,"Pullup Jump shot","2PT Field Goal",19,"Boston Celtics",-135,137,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,3,3,38,0,"Pullup Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",-97,230,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,3,11,46,0,"Pullup Jump shot","2PT Field Goal",14,"Oklahoma City Thunder",139,27,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,1,6,53,0,"Pullup Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",-110,120,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,4,6,17,1,"Pullup Jump shot","2PT Field Goal",11,"Oklahoma City Thunder",-30,106,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,4,2,59,0,"Pullup Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",110,117,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,3,7,27,0,"Pullup Jump shot","2PT Field Goal",15,"Los Angeles Lakers",-152,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,1,11,12,1,"Pullup Jump shot","2PT Field Goal",18,"Dallas Mavericks",66,169,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,4,5,29,0,"Pullup Jump shot","3PT Field Goal",25,"Phoenix Suns",100,232,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,3,4,19,1,"Pullup Jump shot","2PT Field Goal",14,"Oklahoma City Thunder",105,100,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,4,0,00,0,"Pullup Jump shot","3PT Field Goal",46,"Denver Nuggets",62,457,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,4,8,44,0,"Pullup Jump shot","2PT Field Goal",20,"Oklahoma City Thunder",6,204,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,4,3,18,0,"Pullup Jump shot","2PT Field Goal",21,"Brooklyn Nets",126,168,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,4,9,25,0,"Pullup Jump shot","3PT Field Goal",26,"Chicago Bulls",-64,256,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-14,2017,6430,1610612750,400975167,2,4,11,1,"Putback Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,3,3,46,1,"Putback Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,1,9,03,1,"Putback Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,1,8,28,1,"Putback Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,1,10,11,1,"Putback Layup Shot","2PT Field Goal",1,"Houston Rockets",0,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-05,2017,6430,1610612750,400974894,3,3,03,1,"Putback Layup Shot","2PT Field Goal",0,"Charlotte Hornets",0,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,1,6,14,0,"Putback Layup Shot","2PT Field Goal",0,"Phoenix Suns",-4,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,2,9,45,1,"Putback Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",0,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,1,9,52,1,"Reverse Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",0,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-14,2017,6430,1610612750,400975167,3,8,43,0,"Reverse Layup Shot","2PT Field Goal",2,"Sacramento Kings",-11,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-14,2017,6430,1610612750,400975167,3,4,25,1,"Reverse Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-06,2017,6430,1610612750,400975936,4,9,40,1,"Running Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-06,2017,6430,1610612750,400975936,3,9,02,1,"Running Alley Oop Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",8,19,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-06,2017,6430,1610612750,400975113,3,7,35,1,"Running Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",-4,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,3,8,32,1,"Running Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",-5,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-06,2017,6430,1610612750,400975936,3,6,31,1,"Running Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",-4,19,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,1,9,52,1,"Running Dunk Shot","2PT Field Goal",0,"Detroit Pistons",9,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,4,2,28,1,"Running Dunk Shot","2PT Field Goal",0,"Phoenix Suns",-6,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,1,9,49,1,"Running Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",5,-2,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,1,8,08,1,"Running Dunk Shot","2PT Field Goal",0,"Phoenix Suns",6,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-09,2017,6430,1610612750,400975955,4,6,40,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-3,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,4,3,51,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-18,6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,3,7,54,1,"Running Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",133,209,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,2,3,00,1,"Running Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",16,69,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,3,4,55,0,"Running Jump Shot","2PT Field Goal",7,"San Antonio Spurs",-59,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,3,5,59,1,"Running Jump Shot","2PT Field Goal",7,"Indiana Pacers",69,27,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,4,1,47,0,"Running Layup Shot","2PT Field Goal",2,"Toronto Raptors",16,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-06,2017,6430,1610612750,400975113,2,9,56,1,"Running Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",15,23,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-27,2017,6430,1610612750,400974825,4,1,13,0,"Running Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",10,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,1,3,42,1,"Running Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",2,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,3,5,45,0,"Running Layup Shot","2PT Field Goal",3,"Orlando Magic",34,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,3,6,30,0,"Running Layup Shot","2PT Field Goal",2,"Orlando Magic",24,12,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,1,0,00,0,"Running Layup Shot","2PT Field Goal",23,"Oklahoma City Thunder",-19,235,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-29,2017,6430,1610612750,400975485,3,5,37,1,"Running Layup Shot","2PT Field Goal",10,"Atlanta Hawks",51,87,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,1,9,10,1,"Running Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-6,19,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,1,11,28,1,"Running Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",16,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-05,2017,6430,1610612750,400975316,1,3,03,0,"Running Layup Shot","2PT Field Goal",1,"Boston Celtics",1,19,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,2,0,15,0,"Running Layup Shot","2PT Field Goal",3,"Brooklyn Nets",35,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,1,11,27,1,"Running Layup Shot","2PT Field Goal",0,"Detroit Pistons",1,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,1,7,50,1,"Running Layup Shot","2PT Field Goal",0,"Phoenix Suns",1,5,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-01,2017,6430,1610612750,400975075,2,3,24,0,"Running Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-7,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,4,4,12,0,"Running Pull-Up Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",-38,99,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,2,0,01,1,"Running Pull-Up Jump Shot","3PT Field Goal",26,"Chicago Bulls",135,231,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,4,3,50,0,"Running Pull-Up Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",-12,146,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,1,4,56,0,"Running Pull-Up Jump Shot","2PT Field Goal",14,"Toronto Raptors",73,124,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,4,10,27,0,"Running Pull-Up Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",-6,117,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-06,2017,6430,1610612750,400975113,2,7,16,1,"Running Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",16,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,3,3,32,1,"Running Reverse Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-23,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,4,6,47,1,"Running Reverse Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",25,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,2,5,58,1,"Step Back Bank Jump Shot","2PT Field Goal",12,"Indiana Pacers",-117,30,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,2,4,54,0,"Step Back Bank Jump Shot","2PT Field Goal",13,"Houston Rockets",-118,66,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,2,8,07,0,"Step Back Jump shot","2PT Field Goal",19,"Los Angeles Lakers",-144,136,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,3,10,41,0,"Step Back Jump shot","2PT Field Goal",16,"Phoenix Suns",-114,124,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,2,25,0,"Step Back Jump shot","2PT Field Goal",15,"Philadelphia 76ers",144,58,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-12,2017,6430,1610612750,400975369,1,3,34,0,"Step Back Jump shot","2PT Field Goal",12,"New York Knicks",114,49,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,4,11,26,0,"Step Back Jump shot","2PT Field Goal",16,"Denver Nuggets",127,107,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-10,2017,6430,1610612750,400975357,4,5,34,1,"Step Back Jump shot","2PT Field Goal",18,"Oklahoma City Thunder",-144,109,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,1,6,51,1,"Step Back Jump shot","2PT Field Goal",11,"Los Angeles Lakers",102,57,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,5,3,50,0,"Step Back Jump shot","2PT Field Goal",21,"Cleveland Cavaliers",-180,111,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,4,5,43,0,"Step Back Jump shot","2PT Field Goal",19,"Los Angeles Lakers",85,180,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,3,3,29,0,"Step Back Jump shot","2PT Field Goal",12,"Los Angeles Lakers",94,89,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,2,9,14,0,"Step Back Jump shot","2PT Field Goal",21,"Los Angeles Clippers",85,200,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-05,2017,6430,1610612750,400975316,1,10,50,0,"Step Back Jump shot","2PT Field Goal",13,"Boston Celtics",-136,9,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,4,8,35,0,"Step Back Jump shot","2PT Field Goal",14,"Denver Nuggets",107,100,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,2,0,54,1,"Step Back Jump shot","2PT Field Goal",7,"Oklahoma City Thunder",76,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,2,0,01,0,"Step Back Jump shot","2PT Field Goal",21,"Brooklyn Nets",-22,210,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-22,2017,6430,1610612750,400974790,2,1,42,0,"Step Back Jump shot","2PT Field Goal",13,"Oklahoma City Thunder",-131,25,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,3,4,51,1,"Step Back Jump shot","2PT Field Goal",16,"Milwaukee Bucks",82,148,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,3,5,57,1,"Step Back Jump shot","3PT Field Goal",24,"Washington Wizards",212,123,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,4,9,02,1,"Step Back Jump shot","2PT Field Goal",17,"Washington Wizards",-168,34,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-13,2017,6430,1610612750,400974948,3,8,06,0,"Step Back Jump shot","2PT Field Goal",13,"Utah Jazz",73,109,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-13,2017,6430,1610612750,400974948,2,7,53,1,"Step Back Jump shot","2PT Field Goal",18,"Utah Jazz",63,177,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,1,8,54,0,"Step Back Jump shot","3PT Field Goal",22,"Denver Nuggets",223,43,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,4,3,17,1,"Step Back Jump shot","2PT Field Goal",20,"Dallas Mavericks",112,173,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-09,2017,6430,1610612750,400975955,3,11,16,0,"Step Back Jump shot","2PT Field Goal",21,"Memphis Grizzlies",-95,188,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,4,0,31,0,"Step Back Jump shot","2PT Field Goal",17,"Phoenix Suns",-100,146,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,2,5,24,0,"Step Back Jump shot","2PT Field Goal",10,"Cleveland Cavaliers",92,58,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,2,0,27,0,"Step Back Jump shot","2PT Field Goal",13,"Indiana Pacers",89,95,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,1,6,24,0,"Step Back Jump shot","2PT Field Goal",16,"Indiana Pacers",-107,122,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-06,2017,6430,1610612750,400975113,4,1,00,0,"Step Back Jump shot","2PT Field Goal",19,"Los Angeles Clippers",-73,178,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-06,2017,6430,1610612750,400975113,4,2,43,1,"Step Back Jump shot","2PT Field Goal",8,"Los Angeles Clippers",88,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,1,8,51,0,"Step Back Jump shot","2PT Field Goal",13,"Brooklyn Nets",138,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,4,10,34,1,"Step Back Jump shot","2PT Field Goal",16,"Chicago Bulls",-143,75,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,0,47,1,"Step Back Jump shot","3PT Field Goal",25,"Philadelphia 76ers",136,211,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,4,4,15,0,"Step Back Jump shot","3PT Field Goal",23,"Phoenix Suns",-231,31,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-29,2017,6430,1610612750,400975060,2,11,38,0,"Step Back Jump shot","2PT Field Goal",14,"New Orleans Pelicans",-10,145,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,4,0,01,0,"Step Back Jump shot","2PT Field Goal",19,"Philadelphia 76ers",144,136,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,2,1,22,1,"Tip Layup Shot","2PT Field Goal",0,"Orlando Magic",0,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-06,2017,6430,1610612750,400975113,3,9,47,0,"Tip Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",0,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,2,6,06,0,"Tip Layup Shot","2PT Field Goal",0,"Miami Heat",0,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-16,2017,6430,1610612750,400975185,4,1,06,1,"Tip Layup Shot","2PT Field Goal",0,"Phoenix Suns",0,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,1,8,28,0,"Tip Layup Shot","2PT Field Goal",1,"Orlando Magic",6,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,3,6,44,1,"Tip Layup Shot","2PT Field Goal",0,"Orlando Magic",0,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-03,2017,6430,1610612750,400975303,2,1,10,1,"Tip Layup Shot","2PT Field Goal",2,"Brooklyn Nets",24,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,4,4,52,0,"Tip Layup Shot","2PT Field Goal",2,"Chicago Bulls",17,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-29,2017,6430,1610612750,400975060,4,10,36,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",5,"New Orleans Pelicans",42,31,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,1,10,26,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",14,"Phoenix Suns",126,62,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,1,9,38,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",4,"Chicago Bulls",-30,38,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,4,0,01,0,"Turnaround Fadeaway Bank Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-89,246,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,5,4,16,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",8,"Denver Nuggets",87,15,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-13,2017,6430,1610612750,400975595,4,5,29,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",13,"Houston Rockets",-122,60,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,1,7,11,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",6,"Los Angeles Lakers",51,34,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,4,11,06,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",119,48,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-04,2017,6430,1610612750,400975096,2,9,40,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",98,31,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,2,5,13,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",-119,65,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-08,2017,6430,1610612750,400974914,4,7,28,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",7,"Golden State Warriors",20,68,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,2,1,56,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",8,"Phoenix Suns",76,42,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,2,9,42,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",9,"Dallas Mavericks",66,74,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,1,4,16,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",8,"Denver Nuggets",-70,50,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,2,4,39,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",5,"Brooklyn Nets",40,37,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-18,2017,6430,1610612750,400975411,2,2,17,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",6,"Houston Rockets",51,45,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-01,2017,6430,1610612750,400975294,4,7,19,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",7,"Los Angeles Lakers",64,38,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,3,6,06,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Milwaukee Bucks",-126,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,1,0,50,1,"Turnaround Fadeaway shot","2PT Field Goal",6,"Toronto Raptors",-42,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,2,4,51,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Miami Heat",55,119,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-09,2017,6430,1610612750,400975568,2,8,57,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Chicago Bulls",-131,68,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-14,2017,6430,1610612750,400975383,2,7,19,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Portland Trail Blazers",98,69,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,4,1,46,1,"Turnaround Fadeaway shot","2PT Field Goal",16,"Dallas Mavericks",0,167,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,3,8,42,1,"Turnaround Fadeaway shot","2PT Field Goal",6,"Dallas Mavericks",64,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-05,2017,6430,1610612750,400975316,2,2,53,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Boston Celtics",120,25,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,5,4,42,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Denver Nuggets",84,37,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-28,2017,6430,1610612750,400975264,4,9,51,0,"Turnaround Fadeaway shot","2PT Field Goal",7,"Milwaukee Bucks",2,74,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-08,2017,6430,1610612750,400975340,3,9,19,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Cleveland Cavaliers",129,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-05,2017,6430,1610612750,400975316,3,8,25,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Boston Celtics",-131,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-03,2017,6430,1610612750,400975087,3,3,02,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Los Angeles Clippers",128,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-04-11,2017,6430,1610612750,400975971,4,0,05,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Denver Nuggets",125,48,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-20,2017,6430,1610612750,400975213,3,4,31,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Denver Nuggets",118,25,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,2,2,05,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"New Orleans Pelicans",-117,57,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-01,2017,6430,1610612750,400975509,1,2,59,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Milwaukee Bucks",-130,51,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,3,11,13,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Phoenix Suns",147,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-27,2017,6430,1610612750,400975475,2,5,04,0,"Turnaround Fadeaway shot","2PT Field Goal",8,"Brooklyn Nets",81,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,2,0,25,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Toronto Raptors",88,117,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-19,2017,6430,1610612750,400974989,1,5,54,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Detroit Pistons",110,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-07,2017,6430,1610612750,400975553,3,7,54,1,"Turnaround Fadeaway shot","2PT Field Goal",9,"Cleveland Cavaliers",0,99,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,2,4,22,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Utah Jazz",-106,32,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-05,2017,6430,1610612750,400975316,3,2,57,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Boston Celtics",107,53,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,4,5,30,0,"Turnaround Jump Shot","2PT Field Goal",21,"New Orleans Pelicans",-180,110,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-18,2017,6430,1610612750,400974440,1,4,52,0,"Turnaround Jump Shot","2PT Field Goal",17,"San Antonio Spurs",153,79,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,1,10,38,0,"Turnaround Jump Shot","2PT Field Goal",11,"San Antonio Spurs",-105,57,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-14,2017,6430,1610612750,400975383,4,5,36,0,"Turnaround Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-130,38,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,3,1,15,0,"Turnaround Jump Shot","2PT Field Goal",15,"Toronto Raptors",-35,148,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-28,2017,6430,1610612750,400975051,4,2,28,0,"Turnaround Jump Shot","2PT Field Goal",15,"Washington Wizards",-132,74,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,1,0,03,0,"Turnaround Jump Shot","2PT Field Goal",5,"Phoenix Suns",16,56,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-17,2017,6430,1610612750,400974975,2,0,43,0,"Turnaround Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-223,103,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-11,2017,6430,1610612750,400974937,3,3,51,1,"Turnaround Jump Shot","2PT Field Goal",7,"Phoenix Suns",-5,74,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,4,9,53,1,"Turnaround Jump Shot","2PT Field Goal",14,"Orlando Magic",-141,35,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-16,2017,6430,1610612750,400975395,4,6,42,1,"Turnaround Jump Shot","2PT Field Goal",5,"Orlando Magic",43,41,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-12,2017,6430,1610612750,400975152,2,2,05,0,"Turnaround Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",139,36,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-01-30,2017,6430,1610612750,400975492,4,5,05,0,"Turnaround Jump Shot","2PT Field Goal",18,"Toronto Raptors",-150,111,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,4,11,37,1,"Turnaround Jump Shot","2PT Field Goal",17,"Phoenix Suns",101,143,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-24,2017,6430,1610612750,400975023,3,3,57,0,"Turnaround Jump Shot","2PT Field Goal",14,"Miami Heat",-141,17,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,3,4,30,1,"Turnaround Jump Shot","2PT Field Goal",8,"Phoenix Suns",11,84,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,2,5,27,0,"Turnaround Jump Shot","2PT Field Goal",15,"Denver Nuggets",150,32,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-23,2017,6430,1610612750,400975241,4,1,27,0,"Turnaround Jump Shot","2PT Field Goal",6,"Phoenix Suns",-3,69,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-30,2017,6430,1610612750,400974844,1,10,13,0,"Turnaround Jump Shot","2PT Field Goal",14,"Miami Heat",117,88,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,4,4,53,0,"Turnaround Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",53,109,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,2,3,29,0,"Turnaround Jump Shot","2PT Field Goal",10,"Phoenix Suns",98,27,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-22,2017,6430,1610612750,400975012,3,4,34,0,"Turnaround Jump Shot","2PT Field Goal",8,"Orlando Magic",-71,52,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-26,2017,6430,1610612750,400975039,1,8,57,1,"Turnaround Jump Shot","2PT Field Goal",6,"Phoenix Suns",-5,67,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-27,2017,6430,1610612750,400975256,4,7,01,1,"Turnaround Jump Shot","2PT Field Goal",21,"Denver Nuggets",-79,195,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-03,2017,6430,1610612750,400975526,4,1,48,0,"Turnaround Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-89,176,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-10-20,2017,6430,1610612750,400974775,1,5,49,1,"Turnaround Jump Shot","2PT Field Goal",10,"Utah Jazz",10,101,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-10,2017,6430,1610612750,400975139,1,3,39,0,"Turnaround Jump Shot","2PT Field Goal",10,"Dallas Mavericks",101,30,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-04,2017,6430,1610612750,400974885,3,6,06,0,"Turnaround Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-158,47,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2018-02-23,2017,6430,1610612750,400975623,1,8,21,1,"Turnaround Jump Shot","2PT Field Goal",16,"Houston Rockets",-57,156,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-12-25,2017,6430,1610612750,400974449,4,5,14,1,"Turnaround Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",65,109,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,4,7,35,0,"Turnaround Jump Shot","2PT Field Goal",5,"San Antonio Spurs",1,56,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-01,2017,6430,1610612750,400974864,1,6,39,1,"Turnaround Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",114,59,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-08,2017,6430,1610612750,400974914,1,6,35,1,"Turnaround Jump Shot","2PT Field Goal",13,"Golden State Warriors",-62,115,0,0.00,,0.00,0.00
+"Jimmy Butler","Minnesota Timberwolves",2017-11-08,2017,6430,1610612750,400974914,2,3,39,1,"Turnaround Jump Shot","2PT Field Goal",14,"Golden State Warriors",143,29,0,0.00,,0.00,0.00

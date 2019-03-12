@@ -1,0 +1,898 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,3,1,01,0,"Alley Oop Dunk Shot","2PT Field Goal",0,"Phoenix Suns",-2,2,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,4,8,59,0,"Alley Oop Dunk Shot","2PT Field Goal",2,"Los Angeles Lakers",-7,23,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,3,9,21,0,"Alley Oop Layup shot","2PT Field Goal",0,"Memphis Grizzlies",-3,8,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,2,0,58,1,"Cutting Dunk Shot","2PT Field Goal",1,"Minnesota Timberwolves",5,14,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,1,1,46,0,"Cutting Dunk Shot","2PT Field Goal",0,"Boston Celtics",-3,8,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,1,6,46,1,"Cutting Dunk Shot","2PT Field Goal",0,"Sacramento Kings",-3,8,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,1,8,58,1,"Cutting Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",-4,9,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,1,7,51,1,"Cutting Dunk Shot","2PT Field Goal",2,"Memphis Grizzlies",3,21,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,1,2,30,1,"Cutting Dunk Shot","2PT Field Goal",1,"Memphis Grizzlies",6,11,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,3,5,18,1,"Cutting Dunk Shot","2PT Field Goal",0,"Utah Jazz",4,8,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,1,1,55,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",3,8,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,3,4,59,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Charlotte Hornets",3,10,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,2,4,28,1,"Cutting Layup Shot","2PT Field Goal",2,"Charlotte Hornets",0,21,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,2,3,07,1,"Cutting Layup Shot","2PT Field Goal",2,"Sacramento Kings",-23,17,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,4,7,19,1,"Cutting Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-9,12,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,4,4,01,1,"Cutting Layup Shot","2PT Field Goal",2,"Utah Jazz",9,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,3,3,45,1,"Cutting Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-9,10,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,3,6,18,1,"Cutting Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",14,21,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,3,7,58,1,"Cutting Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-14,5,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,2,8,03,1,"Cutting Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-3,9,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,4,1,10,1,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-5,11,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,1,5,05,1,"Cutting Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",7,20,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,1,10,07,1,"Cutting Layup Shot","2PT Field Goal",1,"Denver Nuggets",9,14,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,2,6,12,1,"Cutting Layup Shot","2PT Field Goal",1,"Miami Heat",0,12,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,2,2,06,1,"Cutting Layup Shot","2PT Field Goal",4,"Miami Heat",26,34,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,1,11,08,0,"Cutting Layup Shot","2PT Field Goal",2,"Boston Celtics",8,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,2,1,56,0,"Cutting Layup Shot","2PT Field Goal",1,"Detroit Pistons",-14,0,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,1,3,38,1,"Driving Dunk Shot","2PT Field Goal",1,"Denver Nuggets",3,11,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,4,5,48,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",3,2,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,1,1,35,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",-1,0,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,2,0,00,1,"Driving Dunk Shot","2PT Field Goal",0,"New York Knicks",3,3,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,3,6,40,1,"Driving Dunk Shot","2PT Field Goal",1,"Charlotte Hornets",4,10,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,2,0,02,1,"Driving Dunk Shot","2PT Field Goal",0,"Miami Heat",-5,6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,2,1,14,1,"Driving Dunk Shot","2PT Field Goal",1,"Cleveland Cavaliers",2,11,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,2,1,43,1,"Driving Dunk Shot","2PT Field Goal",0,"Miami Heat",-1,6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-26,2017,3989,1610612746,400975464,3,2,16,1,"Driving Dunk Shot","2PT Field Goal",1,"Memphis Grizzlies",6,11,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,1,5,46,1,"Driving Dunk Shot","2PT Field Goal",2,"Utah Jazz",-22,-5,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-01,2017,3989,1610612765,400975507,3,9,11,1,"Driving Dunk Shot","2PT Field Goal",2,"Memphis Grizzlies",-20,9,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,4,6,42,1,"Driving Dunk Shot","2PT Field Goal",1,"Minnesota Timberwolves",-9,12,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-13,2017,3989,1610612746,400975374,2,4,37,1,"Driving Dunk Shot","2PT Field Goal",2,"Sacramento Kings",16,14,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-26,2017,3989,1610612765,400975850,4,7,39,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,8,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,3,3,30,1,"Driving Dunk Shot","2PT Field Goal",1,"Sacramento Kings",-5,15,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,1,11,47,1,"Driving Dunk Shot","2PT Field Goal",0,"Phoenix Suns",7,-5,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,3,6,58,1,"Driving Dunk Shot","2PT Field Goal",0,"Denver Nuggets",-7,-1,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,4,11,21,1,"Driving Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",2,4,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,1,9,18,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",4,6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,1,3,21,1,"Driving Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",-4,6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,3,4,46,1,"Driving Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,7,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,2,6,04,0,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-8,5,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,3,5,51,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Sacramento Kings",7,5,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,4,1,06,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-3,13,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,2,1,18,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Boston Celtics",2,16,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,3,2,40,0,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Sacramento Kings",11,29,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,3,4,46,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-5,16,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,2,2,49,0,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",-5,37,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,2,0,01,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",8,19,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,1,3,36,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",12,11,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,3,4,10,1,"Driving Floating Bank Jump Shot","2PT Field Goal",3,"Utah Jazz",30,24,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-01,2017,3989,1610612746,400974867,1,1,32,0,"Driving Floating Bank Jump Shot","2PT Field Goal",4,"Dallas Mavericks",-43,16,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,3,10,31,1,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"Cleveland Cavaliers",40,43,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,3,4,56,0,"Driving Floating Bank Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",-56,37,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-26,2017,3989,1610612765,400975647,1,8,13,1,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"Toronto Raptors",-52,29,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,2,7,54,0,"Driving Floating Bank Jump Shot","2PT Field Goal",1,"Philadelphia 76ers",-2,15,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-01,2017,3989,1610612765,400975507,1,10,37,1,"Driving Floating Bank Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",10,62,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,4,0,21,1,"Driving Floating Bank Jump Shot","2PT Field Goal",3,"Utah Jazz",23,27,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,3,5,55,0,"Driving Floating Bank Jump Shot","2PT Field Goal",2,"Atlanta Hawks",12,24,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,4,2,48,0,"Driving Floating Bank Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",-39,28,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,2,6,51,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Utah Jazz",32,30,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,1,1,20,1,"Driving Floating Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",2,39,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,3,7,18,0,"Driving Hook Shot","2PT Field Goal",3,"Portland Trail Blazers",-35,11,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,1,4,33,1,"Driving Hook Shot","2PT Field Goal",7,"Orlando Magic",-8,79,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-01,2017,3989,1610612746,400974867,1,6,01,1,"Driving Hook Shot","2PT Field Goal",3,"Dallas Mavericks",17,26,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-01,2017,3989,1610612746,400974867,3,1,18,0,"Driving Hook Shot","2PT Field Goal",5,"Dallas Mavericks",-5,52,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,1,8,17,1,"Driving Hook Shot","2PT Field Goal",4,"Phoenix Suns",0,40,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-01,2017,3989,1610612746,400974867,1,5,29,1,"Driving Hook Shot","2PT Field Goal",1,"Dallas Mavericks",11,0,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,1,8,00,1,"Driving Hook Shot","2PT Field Goal",2,"Atlanta Hawks",9,20,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,4,2,15,0,"Driving Hook Shot","2PT Field Goal",3,"Houston Rockets",7,30,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,3,7,43,0,"Driving Hook Shot","2PT Field Goal",3,"Portland Trail Blazers",32,7,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,2,2,38,1,"Driving Hook Shot","2PT Field Goal",6,"New York Knicks",12,67,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,2,5,07,0,"Driving Hook Shot","2PT Field Goal",2,"Miami Heat",18,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,3,11,07,1,"Driving Hook Shot","2PT Field Goal",6,"Philadelphia 76ers",25,63,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,4,8,54,1,"Driving Hook Shot","2PT Field Goal",5,"San Antonio Spurs",-16,49,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,4,4,43,0,"Driving Hook Shot","2PT Field Goal",6,"Los Angeles Clippers",29,58,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,4,4,45,1,"Driving Hook Shot","2PT Field Goal",2,"Portland Trail Blazers",-2,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,2,4,48,0,"Driving Hook Shot","2PT Field Goal",6,"Los Angeles Lakers",-5,62,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,4,9,38,1,"Driving Hook Shot","2PT Field Goal",2,"Portland Trail Blazers",0,27,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,3,1,21,1,"Driving Hook Shot","2PT Field Goal",4,"Atlanta Hawks",18,36,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-26,2017,3989,1610612765,400975850,1,4,24,1,"Driving Layup Shot","2PT Field Goal",4,"Los Angeles Lakers",41,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,2,3,50,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-12,20,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,3,8,36,1,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",6,1,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,2,1,52,0,"Driving Layup Shot","2PT Field Goal",3,"New York Knicks",18,29,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,4,7,09,1,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-6,2,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,3,7,37,1,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",5,-1,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,2,2,05,1,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",2,21,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,2,3,26,1,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",-5,20,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,2,3,50,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",6,21,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,2,4,45,0,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-2,9,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,3,11,29,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",0,20,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,3,7,48,1,"Driving Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",-13,29,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,1,4,08,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",21,21,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,2,5,02,1,"Driving Layup Shot","2PT Field Goal",0,"Denver Nuggets",-8,5,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,4,2,57,0,"Driving Layup Shot","2PT Field Goal",3,"Miami Heat",-4,30,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,2,4,23,1,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-7,21,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,1,3,25,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",0,16,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,2,3,47,0,"Driving Layup Shot","2PT Field Goal",6,"Sacramento Kings",-63,17,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,3,10,41,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-14,5,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,2,6,36,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",4,16,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,4,2,19,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",-14,7,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,3,10,52,0,"Driving Layup Shot","2PT Field Goal",3,"Philadelphia 76ers",-4,30,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-01,2017,3989,1610612765,400975507,1,3,22,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-8,16,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,1,2,26,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-13,5,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,3,8,49,1,"Driving Layup Shot","2PT Field Goal",3,"Utah Jazz",2,31,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,1,5,20,0,"Driving Layup Shot","2PT Field Goal",3,"Phoenix Suns",-5,34,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,1,4,20,1,"Driving Layup Shot","2PT Field Goal",3,"Sacramento Kings",-38,-3,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,2,0,37,1,"Driving Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",10,32,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-26,2017,3989,1610612765,400975647,4,11,03,1,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",-14,20,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,2,9,02,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",-9,0,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,1,11,11,0,"Driving Layup Shot","2PT Field Goal",2,"Detroit Pistons",-4,20,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,4,4,07,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",-19,9,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,1,5,31,0,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-15,6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,1,3,57,1,"Driving Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",-3,33,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,3,10,18,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",3,12,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,2,0,53,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",6,13,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,2,6,44,0,"Driving Layup Shot","2PT Field Goal",4,"Boston Celtics",-16,42,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,2,0,52,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",1,-5,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,3,4,24,0,"Driving Layup Shot","2PT Field Goal",4,"Los Angeles Lakers",-39,15,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,1,6,33,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",15,2,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,1,10,03,0,"Driving Layup Shot","2PT Field Goal",8,"Atlanta Hawks",41,76,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,3,10,55,1,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",8,12,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,2,4,48,1,"Driving Layup Shot","2PT Field Goal",0,"Miami Heat",4,9,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,2,2,10,0,"Driving Layup Shot","2PT Field Goal",3,"Miami Heat",24,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,2,2,53,0,"Driving Layup Shot","2PT Field Goal",3,"Miami Heat",-32,6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,4,7,15,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-13,-1,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,1,10,30,1,"Driving Layup Shot","2PT Field Goal",0,"Miami Heat",-1,6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,1,2,06,0,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",5,16,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,1,1,01,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",11,25,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,3,11,01,0,"Driving Layup Shot","2PT Field Goal",4,"Portland Trail Blazers",6,41,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,1,11,08,0,"Driving Layup Shot","2PT Field Goal",5,"Los Angeles Clippers",58,1,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,3,7,24,1,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",3,1,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,3,1,24,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-24,17,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,4,5,08,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",2,15,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,4,0,16,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",0,14,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,1,6,49,0,"Driving Layup Shot","2PT Field Goal",5,"New Orleans Pelicans",18,51,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,4,8,13,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",11,11,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,1,7,43,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-9,0,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,4,6,50,0,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",-21,13,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,1,9,46,0,"Driving Layup Shot","2PT Field Goal",3,"Cleveland Cavaliers",9,30,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,3,4,00,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-14,16,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,4,3,22,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-25,-4,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,4,4,40,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",-18,14,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,1,6,33,0,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-2,20,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,1,3,24,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",11,3,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,2,4,36,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",-14,8,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,1,4,28,0,"Driving Layup Shot","2PT Field Goal",3,"Philadelphia 76ers",-28,13,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,4,5,04,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-14,18,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,2,2,01,0,"Driving Layup Shot","2PT Field Goal",3,"Oklahoma City Thunder",8,35,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-26,2017,3989,1610612765,400975850,1,6,10,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-12,6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,2,6,00,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-5,16,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,1,10,10,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",9,23,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,3,5,15,0,"Driving Reverse Dunk Shot","2PT Field Goal",3,"Boston Celtics",9,31,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,2,0,43,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",13,12,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,4,6,00,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Sacramento Kings",-14,4,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,3,2,14,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Detroit Pistons",13,10,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,1,1,47,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Houston Rockets",2,9,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-30,2017,3989,1610612746,400974851,2,0,33,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Golden State Warriors",13,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,3,0,58,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",3,15,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,1,4,01,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-11,13,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,3,3,20,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",5,14,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,2,6,28,1,"Dunk Shot","2PT Field Goal",1,"Charlotte Hornets",-10,1,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,1,0,45,1,"Dunk Shot","2PT Field Goal",2,"Boston Celtics",9,21,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,2,3,40,0,"Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",6,18,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,5,2,04,0,"Dunk Shot","2PT Field Goal",5,"Houston Rockets",-31,48,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-28,2017,3989,1610612765,400975659,3,5,29,1,"Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,5,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,1,10,42,1,"Dunk Shot","2PT Field Goal",1,"New York Knicks",-4,17,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,3,4,47,1,"Dunk Shot","2PT Field Goal",2,"Utah Jazz",-6,25,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,1,6,42,0,"Dunk Shot","2PT Field Goal",1,"New York Knicks",9,17,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,3,8,13,1,"Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",-6,7,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,2,4,06,1,"Dunk Shot","2PT Field Goal",9,"New Orleans Pelicans",51,84,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,3,4,11,1,"Dunk Shot","2PT Field Goal",1,"Cleveland Cavaliers",3,15,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,4,10,01,1,"Dunk Shot","2PT Field Goal",2,"Charlotte Hornets",-2,20,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,3,3,32,1,"Dunk Shot","2PT Field Goal",1,"Orlando Magic",2,15,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,2,7,54,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Sacramento Kings",-96,105,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,3,3,07,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",7,158,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,1,10,03,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",-106,93,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,1,9,45,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",99,43,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,4,5,33,1,"Fadeaway Jump Shot","2PT Field Goal",9,"New Orleans Pelicans",4,91,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,4,0,09,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Houston Rockets",9,99,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,1,5,11,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Houston Rockets",-127,35,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,1,9,46,0,"Fadeaway Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-101,184,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-01,2017,3989,1610612765,400975507,2,0,03,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",-127,79,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,2,1,18,0,"Fadeaway Jump Shot","3PT Field Goal",23,"Sacramento Kings",234,47,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,3,9,55,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Sacramento Kings",92,94,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,4,0,03,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Miami Heat",141,95,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-13,2017,3989,1610612746,400975374,2,6,16,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Sacramento Kings",-93,-26,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,4,2,15,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Sacramento Kings",62,185,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,3,10,18,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",-107,13,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,4,0,03,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Sacramento Kings",-97,32,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,2,10,10,0,"Finger Roll Layup Shot","2PT Field Goal",3,"Boston Celtics",9,38,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,2,3,35,1,"Finger Roll Layup Shot","2PT Field Goal",4,"Los Angeles Lakers",-9,41,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,1,9,18,1,"Finger Roll Layup Shot","2PT Field Goal",2,"Charlotte Hornets",1,20,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,3,6,13,1,"Finger Roll Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-8,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,1,6,53,1,"Finger Roll Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",5,16,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,3,9,30,1,"Finger Roll Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-7,23,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-28,2017,3989,1610612765,400975659,3,5,40,0,"Floating Jump shot","2PT Field Goal",8,"Milwaukee Bucks",-60,64,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,3,11,34,0,"Floating Jump shot","2PT Field Goal",6,"Phoenix Suns",22,59,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,4,4,28,0,"Floating Jump shot","2PT Field Goal",7,"Portland Trail Blazers",-45,65,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,2,6,23,0,"Floating Jump shot","2PT Field Goal",8,"Los Angeles Lakers",-9,80,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,3,3,50,0,"Floating Jump shot","2PT Field Goal",6,"New Orleans Pelicans",-54,34,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,2,4,08,1,"Floating Jump shot","2PT Field Goal",4,"Oklahoma City Thunder",17,41,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,1,11,46,0,"Floating Jump shot","2PT Field Goal",5,"Boston Celtics",-7,58,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,1,3,25,1,"Floating Jump shot","2PT Field Goal",12,"Atlanta Hawks",-1,123,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,2,6,41,1,"Floating Jump shot","2PT Field Goal",7,"Sacramento Kings",-44,63,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,1,7,26,0,"Floating Jump shot","2PT Field Goal",6,"Los Angeles Lakers",40,47,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-01,2017,3989,1610612746,400974867,1,4,18,1,"Floating Jump shot","2PT Field Goal",6,"Dallas Mavericks",0,66,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,3,10,00,0,"Floating Jump shot","2PT Field Goal",3,"New Orleans Pelicans",2,33,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,3,3,18,0,"Floating Jump shot","2PT Field Goal",10,"New Orleans Pelicans",-16,99,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,3,3,23,1,"Hook Bank Shot","2PT Field Goal",7,"Los Angeles Lakers",-6,71,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,1,6,53,1,"Hook Bank Shot","2PT Field Goal",1,"Philadelphia 76ers",9,5,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,1,5,54,0,"Hook Bank Shot","2PT Field Goal",2,"Miami Heat",27,4,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,2,9,56,1,"Hook Bank Shot","2PT Field Goal",9,"New Orleans Pelicans",-84,52,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,4,3,28,0,"Hook Shot","2PT Field Goal",6,"Los Angeles Clippers",-19,62,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,3,3,11,0,"Hook Shot","2PT Field Goal",6,"New Orleans Pelicans",-55,42,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,4,2,12,0,"Hook Shot","2PT Field Goal",10,"Cleveland Cavaliers",-41,100,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,3,7,22,0,"Hook Shot","2PT Field Goal",3,"Los Angeles Lakers",-1,33,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,2,10,25,0,"Hook Shot","2PT Field Goal",11,"New Orleans Pelicans",-2,116,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,2,5,01,1,"Hook Shot","2PT Field Goal",4,"Brooklyn Nets",22,36,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,3,8,45,1,"Hook Shot","2PT Field Goal",2,"Los Angeles Lakers",14,25,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,4,5,58,0,"Hook Shot","2PT Field Goal",13,"Orlando Magic",127,32,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,2,7,12,0,"Hook Shot","2PT Field Goal",4,"Denver Nuggets",24,32,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,1,10,52,0,"Hook Shot","2PT Field Goal",5,"Portland Trail Blazers",-31,43,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,1,3,13,0,"Hook Shot","2PT Field Goal",6,"Memphis Grizzlies",20,64,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,2,7,07,0,"Hook Shot","2PT Field Goal",4,"Denver Nuggets",12,45,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,3,11,43,0,"Hook Shot","2PT Field Goal",4,"Denver Nuggets",-7,41,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,2,6,23,0,"Hook Shot","2PT Field Goal",6,"Los Angeles Lakers",-23,60,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,1,5,28,1,"Hook Shot","2PT Field Goal",3,"Los Angeles Lakers",22,30,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,4,5,50,0,"Hook Shot","2PT Field Goal",8,"Los Angeles Lakers",54,61,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,4,5,38,1,"Hook Shot","2PT Field Goal",3,"Los Angeles Lakers",25,29,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,3,11,39,0,"Hook Shot","2PT Field Goal",5,"Los Angeles Clippers",-19,56,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,1,5,22,1,"Hook Shot","2PT Field Goal",5,"Portland Trail Blazers",14,52,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,1,4,14,0,"Hook Shot","2PT Field Goal",6,"Portland Trail Blazers",5,66,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,3,2,10,0,"Hook Shot","2PT Field Goal",8,"Miami Heat",-8,83,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,2,3,23,1,"Hook Shot","2PT Field Goal",3,"Denver Nuggets",1,37,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,4,0,36,0,"Hook Shot","2PT Field Goal",13,"Cleveland Cavaliers",-72,110,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,3,6,08,0,"Hook Shot","2PT Field Goal",9,"Los Angeles Lakers",-24,94,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,1,5,38,0,"Hook Shot","2PT Field Goal",2,"Memphis Grizzlies",0,26,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,2,4,51,0,"Hook Shot","2PT Field Goal",6,"Detroit Pistons",-24,56,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,1,9,11,0,"Hook Shot","2PT Field Goal",2,"Philadelphia 76ers",5,21,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,2,4,15,1,"Hook Shot","2PT Field Goal",4,"Oklahoma City Thunder",2,42,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,4,5,21,0,"Hook Shot","2PT Field Goal",9,"Memphis Grizzlies",-60,68,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,2,4,55,0,"Hook Shot","2PT Field Goal",4,"Portland Trail Blazers",35,31,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,2,2,59,1,"Hook Shot","2PT Field Goal",3,"Houston Rockets",-9,35,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-26,2017,3989,1610612765,400975850,2,4,57,0,"Hook Shot","2PT Field Goal",6,"Los Angeles Lakers",2,62,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,1,9,23,0,"Hook Shot","2PT Field Goal",2,"Detroit Pistons",1,24,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,2,11,28,1,"Hook Shot","2PT Field Goal",7,"New Orleans Pelicans",-55,50,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,4,1,11,0,"Hook Shot","2PT Field Goal",2,"Miami Heat",0,23,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,4,4,40,0,"Hook Shot","2PT Field Goal",8,"San Antonio Spurs",-2,81,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,1,4,10,0,"Hook Shot","2PT Field Goal",10,"Atlanta Hawks",3,107,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,1,10,48,1,"Hook Shot","2PT Field Goal",6,"Oklahoma City Thunder",20,67,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,3,8,37,0,"Hook Shot","2PT Field Goal",6,"Sacramento Kings",19,64,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,2,1,30,0,"Hook Shot","2PT Field Goal",5,"Memphis Grizzlies",52,0,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,1,5,17,1,"Hook Shot","2PT Field Goal",2,"Philadelphia 76ers",-2,21,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,3,6,43,0,"Hook Shot","2PT Field Goal",3,"Boston Celtics",3,33,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,4,11,31,0,"Hook Shot","2PT Field Goal",5,"Boston Celtics",-45,39,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,4,1,36,0,"Hook Shot","2PT Field Goal",9,"Sacramento Kings",-4,95,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-30,2017,3989,1610612746,400974851,3,9,23,1,"Hook Shot","2PT Field Goal",7,"Golden State Warriors",-44,58,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,3,11,23,1,"Jump Bank Shot","2PT Field Goal",11,"Miami Heat",-95,66,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,4,5,29,1,"Jump Bank Shot","2PT Field Goal",7,"Cleveland Cavaliers",54,54,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,4,6,30,0,"Jump Bank Shot","2PT Field Goal",17,"Cleveland Cavaliers",-139,107,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,1,3,07,1,"Jump Bank Shot","2PT Field Goal",8,"Miami Heat",-40,79,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,4,3,48,1,"Jump Bank Shot","2PT Field Goal",18,"Memphis Grizzlies",107,153,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,3,3,17,1,"Jump Bank Shot","2PT Field Goal",3,"Miami Heat",-27,14,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,3,10,09,0,"Jump Bank Shot","2PT Field Goal",17,"Atlanta Hawks",-134,106,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,3,9,11,0,"Jump Bank Shot","2PT Field Goal",15,"Boston Celtics",-124,99,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,2,1,21,0,"Jump Bank Shot","2PT Field Goal",7,"Cleveland Cavaliers",56,43,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-14,2017,3989,1610612765,400975599,1,3,15,1,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-227,40,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,1,9,54,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-86,245,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-13,2017,3989,1610612746,400975374,2,5,30,1,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",14,193,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,4,8,43,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-51,263,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,1,3,44,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-228,0,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,4,4,36,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-16,249,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,1,11,23,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",103,224,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,2,0,28,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-133,218,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,1,10,02,0,"Jump Shot","2PT Field Goal",9,"Oklahoma City Thunder",-89,43,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,2,3,38,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",72,240,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-13,2017,3989,1610612746,400975374,1,8,53,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",82,235,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-13,2017,3989,1610612746,400975374,1,9,15,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-79,241,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,1,9,45,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-11,167,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,1,2,20,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",23,194,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,3,9,12,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",20,249,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,1,4,46,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-179,166,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,3,9,25,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-188,168,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,4,6,31,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",-155,205,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,4,4,41,1,"Jump Shot","3PT Field Goal",27,"Brooklyn Nets",-40,272,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,2,8,05,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-226,122,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,3,4,45,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",147,218,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,1,8,13,0,"Jump Shot","2PT Field Goal",22,"Brooklyn Nets",106,198,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,4,4,12,1,"Jump Shot","3PT Field Goal",22,"Boston Celtics",228,2,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,3,3,17,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-164,189,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,2,6,28,0,"Jump Shot","2PT Field Goal",5,"Detroit Pistons",45,29,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,3,9,27,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",93,230,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,1,6,06,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-49,242,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,4,8,08,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-68,253,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-13,2017,3989,1610612746,400975374,3,10,51,0,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",129,155,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,2,0,00,0,"Jump Shot","3PT Field Goal",68,"Phoenix Suns",-46,686,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,2,3,01,1,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",77,195,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,1,10,21,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-112,222,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,3,10,52,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-7,253,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,4,6,48,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",-101,143,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,2,3,35,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-25,253,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,1,8,47,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-152,203,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,3,6,27,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",189,185,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,2,7,18,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",224,92,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,1,1,19,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",58,251,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,1,2,11,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",107,224,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,3,7,52,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-187,185,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,2,3,24,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",96,241,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,3,9,23,1,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",-62,193,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,4,4,51,0,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",-106,257,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,3,10,33,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-68,261,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,2,7,14,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-139,209,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,1,9,55,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-176,201,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,3,6,50,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-129,236,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,3,5,02,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",228,111,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,2,5,13,1,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",73,268,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,2,5,27,1,"Jump Shot","2PT Field Goal",6,"Philadelphia 76ers",-29,60,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,2,6,01,1,"Jump Shot","2PT Field Goal",7,"Philadelphia 76ers",-20,68,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,3,8,20,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",52,246,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,1,3,30,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-239,32,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,2,4,17,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-17,253,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,1,6,36,0,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",-152,76,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,1,8,15,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-235,47,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,2,2,22,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-119,222,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,2,8,15,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",199,145,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-01,2017,3989,1610612765,400975507,1,3,51,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",130,218,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-01,2017,3989,1610612765,400975507,2,5,23,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-161,200,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-01,2017,3989,1610612765,400975507,3,8,21,0,"Jump Shot","2PT Field Goal",22,"Memphis Grizzlies",163,161,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-01,2017,3989,1610612765,400975507,2,3,43,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-230,37,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,2,0,20,0,"Jump Shot","3PT Field Goal",29,"New York Knicks",-15,290,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,3,3,43,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",10,263,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,3,10,07,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",201,146,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,3,6,34,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",-230,16,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,2,5,24,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-53,245,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,1,4,35,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-134,206,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,3,8,57,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",144,218,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,3,11,24,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-52,261,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,2,7,35,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-109,238,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,1,6,02,0,"Jump Shot","2PT Field Goal",15,"Orlando Magic",46,146,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,3,7,00,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-120,235,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,3,10,37,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-63,261,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,4,7,03,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",119,230,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,3,11,35,0,"Jump Shot","2PT Field Goal",14,"Boston Celtics",77,120,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,4,3,29,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-146,201,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,1,8,14,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-40,262,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,2,3,42,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",133,223,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,5,0,39,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-69,257,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,4,1,04,1,"Jump Shot","2PT Field Goal",17,"Miami Heat",-162,78,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,1,7,47,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",107,165,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,1,11,44,1,"Jump Shot","2PT Field Goal",20,"Miami Heat",-47,202,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-30,2017,3989,1610612746,400974851,3,8,50,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-18,260,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-30,2017,3989,1610612746,400974851,4,6,55,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-144,220,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-30,2017,3989,1610612746,400974851,2,1,34,1,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-130,227,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-30,2017,3989,1610612746,400974851,2,4,14,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-89,164,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-30,2017,3989,1610612746,400974851,1,7,28,1,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-9,269,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,5,0,19,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-61,246,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,4,2,50,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-2,257,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,3,2,36,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",17,247,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,5,1,43,0,"Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",-110,253,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,5,2,40,0,"Jump Shot","3PT Field Goal",22,"Cleveland Cavaliers",222,25,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,2,5,25,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-138,222,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,2,10,53,0,"Jump Shot","2PT Field Goal",10,"Boston Celtics",62,88,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,1,10,15,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-244,64,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,3,9,28,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-203,165,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,4,9,38,0,"Jump Shot","3PT Field Goal",27,"Boston Celtics",19,278,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,1,10,07,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-82,242,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,3,8,43,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",119,223,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,4,4,35,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-92,245,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,1,9,43,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-130,205,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,3,10,59,0,"Jump Shot","3PT Field Goal",22,"San Antonio Spurs",-225,-3,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,1,7,10,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",116,225,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,1,6,28,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",9,269,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,4,6,14,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-189,176,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,1,3,00,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-29,248,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,2,6,17,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-177,197,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,3,3,41,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",103,178,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,3,6,12,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-13,250,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,1,6,51,1,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",121,95,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,4,7,05,0,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-224,47,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,3,1,00,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-136,212,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,3,9,48,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",11,248,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,4,4,30,0,"Jump Shot","2PT Field Goal",7,"Houston Rockets",42,65,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,3,4,23,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-24,258,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,1,0,42,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-27,257,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,1,0,56,1,"Jump Shot","3PT Field Goal",26,"Miami Heat",-190,188,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,1,6,38,0,"Jump Shot","2PT Field Goal",20,"Miami Heat",-88,190,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,3,3,49,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-86,243,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,2,2,47,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",67,249,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,3,6,15,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-161,204,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,3,10,34,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-97,234,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,1,1,07,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",102,249,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,1,10,59,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",218,106,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,3,5,42,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-228,41,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,4,5,55,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-206,138,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,1,7,18,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",55,247,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,1,0,00,0,"Jump Shot","3PT Field Goal",29,"Miami Heat",-190,223,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,2,1,11,0,"Jump Shot","2PT Field Goal",20,"Miami Heat",-32,205,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,3,10,06,0,"Jump Shot","2PT Field Goal",21,"Miami Heat",-9,214,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,1,9,30,1,"Jump Shot","3PT Field Goal",22,"Miami Heat",226,0,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,4,1,43,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-232,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,3,11,17,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",26,249,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,3,9,05,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-100,231,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,1,4,51,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",209,126,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,4,5,52,0,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",-76,78,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,3,4,05,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-11,256,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,3,2,23,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-147,210,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,4,1,53,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-100,175,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,3,9,32,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-230,43,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,1,5,00,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",20,183,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,1,4,08,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",85,245,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,2,5,31,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",147,203,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,3,10,08,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-87,242,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,1,0,57,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-24,259,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,1,11,09,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",125,230,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,2,3,22,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-9,260,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,3,8,17,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-113,218,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,2,0,00,0,"Jump Shot","3PT Field Goal",69,"Los Angeles Lakers",2,695,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,1,5,39,0,"Jump Shot","2PT Field Goal",11,"Los Angeles Lakers",-105,49,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,1,4,05,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",-33,205,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,4,4,26,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-238,10,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-26,2017,3989,1610612746,400975464,1,4,19,0,"Jump Shot","2PT Field Goal",22,"Memphis Grizzlies",-21,219,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,1,11,32,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-78,240,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,3,9,40,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-136,218,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,1,8,35,0,"Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",90,20,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,1,0,05,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-87,234,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,3,3,17,1,"Jump Shot","3PT Field Goal",22,"Cleveland Cavaliers",-229,-1,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,4,9,22,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-14,201,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,1,11,34,0,"Jump Shot","2PT Field Goal",8,"Charlotte Hornets",-24,84,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,2,1,59,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-112,222,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,4,5,10,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-43,253,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,4,1,46,0,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",44,267,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,1,10,32,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-143,205,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,2,6,28,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-5,256,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,4,0,17,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-68,243,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-26,2017,3989,1610612746,400975464,3,3,18,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-112,211,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,2,4,29,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-93,234,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-26,2017,3989,1610612746,400975464,1,7,52,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",103,188,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-26,2017,3989,1610612746,400975464,3,4,18,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-100,222,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-26,2017,3989,1610612746,400975464,2,7,03,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",162,183,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-26,2017,3989,1610612746,400975464,1,2,52,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-11,254,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-01,2017,3989,1610612746,400974867,1,10,33,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",8,257,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-01,2017,3989,1610612746,400974867,2,0,58,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",202,148,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-01,2017,3989,1610612746,400974867,3,5,00,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",-136,223,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-01,2017,3989,1610612746,400974867,1,7,00,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",-35,198,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-01,2017,3989,1610612746,400974867,2,6,03,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-106,224,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,3,6,12,0,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",-92,193,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,1,8,36,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-158,197,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,4,9,31,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-115,100,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,1,2,16,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-101,236,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,2,7,05,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-225,54,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,3,9,45,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-102,231,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,4,1,36,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",8,254,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,1,5,53,1,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-161,225,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,3,1,32,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-190,200,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,1,9,47,0,"Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",17,119,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,3,9,13,0,"Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",-38,59,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,2,3,59,0,"Jump Shot","2PT Field Goal",6,"Charlotte Hornets",-2,63,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,2,5,05,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-196,22,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,3,9,13,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-45,252,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,1,8,21,1,"Jump Shot","2PT Field Goal",21,"Cleveland Cavaliers",120,177,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,3,7,13,1,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",-115,174,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,4,0,40,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",145,214,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,1,10,07,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-4,195,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,1,3,58,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-13,171,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,3,4,16,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",45,251,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,4,10,25,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",9,262,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,2,0,08,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-32,256,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,3,11,36,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",3,257,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,2,5,57,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-59,241,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,1,10,27,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-113,251,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,3,11,27,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-234,63,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,2,0,25,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",119,252,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,1,2,11,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-128,245,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,3,3,26,0,"Jump Shot","3PT Field Goal",28,"Memphis Grizzlies",-100,272,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,4,1,47,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-133,222,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,4,0,39,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-125,236,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,1,8,55,0,"Jump Shot","3PT Field Goal",27,"Memphis Grizzlies",-9,271,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,1,7,19,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-92,235,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-26,2017,3989,1610612765,400975647,3,9,56,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-9,180,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,2,0,04,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",0,270,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,1,2,01,0,"Jump Shot","2PT Field Goal",6,"Charlotte Hornets",36,50,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,4,1,49,0,"Jump Shot","2PT Field Goal",22,"Atlanta Hawks",25,219,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,3,11,22,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-166,191,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,2,2,47,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-8,174,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,4,8,33,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-27,186,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,3,6,05,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",20,172,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,3,10,09,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-14,179,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,3,7,24,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",-130,67,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,1,6,28,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",-112,236,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,2,0,59,0,"Jump Shot","3PT Field Goal",27,"Miami Heat",-223,167,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,4,0,43,1,"Jump Shot","3PT Field Goal",26,"Miami Heat",-140,227,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,2,6,18,0,"Jump Shot","3PT Field Goal",30,"Miami Heat",-90,291,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,4,0,32,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",123,243,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,3,6,13,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",107,243,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,1,9,50,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",-220,154,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,1,7,58,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-111,227,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,4,0,43,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-175,199,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,4,4,23,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-179,194,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,1,7,19,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",139,222,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,1,4,16,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-212,136,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,2,1,48,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",104,243,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,1,9,19,0,"Jump Shot","2PT Field Goal",22,"Cleveland Cavaliers",-122,192,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,1,1,25,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-97,239,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,1,2,38,1,"Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",-53,59,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,3,10,56,1,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-166,220,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,4,1,34,0,"Jump Shot","2PT Field Goal",9,"New Orleans Pelicans",82,54,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,2,5,23,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-102,243,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,1,11,46,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",-134,47,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,4,6,46,1,"Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",-32,63,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,4,6,08,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-119,144,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,2,6,25,0,"Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",-123,32,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,1,3,33,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-171,103,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,3,10,22,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-143,48,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-24,2017,3989,1610612765,400975835,1,5,39,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-87,231,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,2,7,26,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",16,252,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,3,1,33,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",88,232,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,4,5,05,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-42,248,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,3,10,10,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-68,246,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,1,8,21,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-145,205,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,3,8,22,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",-169,90,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,4,2,53,0,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-173,119,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,4,7,48,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",149,122,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,1,9,47,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-231,33,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,1,6,50,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-229,31,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,3,4,52,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",14,251,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,4,1,55,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-92,230,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,2,2,02,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",6,256,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,1,9,19,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-230,33,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-26,2017,3989,1610612765,400975647,1,7,18,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-140,209,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,3,0,06,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-168,181,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,2,6,04,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-82,246,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,2,0,46,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-146,198,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,1,2,35,1,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",112,243,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-24,2017,3989,1610612765,400975835,1,9,48,1,"Jump Shot","3PT Field Goal",22,"Chicago Bulls",-227,-2,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-24,2017,3989,1610612765,400975835,2,3,05,1,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",232,14,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,2,5,47,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-149,209,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,3,4,20,0,"Jump Shot","3PT Field Goal",27,"Portland Trail Blazers",-128,244,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,2,0,58,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",142,225,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,1,8,53,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",9,240,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,1,11,33,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-76,234,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,1,4,42,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-35,246,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,3,11,26,1,"Jump Shot","2PT Field Goal",15,"Utah Jazz",96,126,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,3,9,30,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-104,232,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,4,7,58,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-167,187,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,2,9,25,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",179,178,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,2,6,20,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-85,254,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,3,6,57,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-129,213,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,1,7,01,0,"Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",78,5,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,4,5,49,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-95,229,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,3,6,01,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",14,58,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,1,5,06,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-47,253,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,3,5,26,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-108,220,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,3,1,57,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-123,219,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,1,9,06,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-231,12,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-26,2017,3989,1610612765,400975647,1,3,30,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-70,167,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-26,2017,3989,1610612765,400975647,2,10,34,0,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",-91,146,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,1,5,49,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",141,213,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,1,4,51,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-74,229,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,2,2,25,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-10,251,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,2,4,16,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-51,236,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-28,2017,3989,1610612765,400975659,2,0,23,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",214,142,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-28,2017,3989,1610612765,400975659,2,5,21,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",238,41,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-28,2017,3989,1610612765,400975659,2,2,06,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-61,244,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,4,5,19,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",24,248,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,3,10,17,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-155,199,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,1,5,03,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-27,248,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,3,6,51,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-232,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,1,5,52,0,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",142,98,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,1,9,17,1,"Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",-18,59,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,1,10,46,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-3,252,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,1,1,58,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",46,241,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,3,3,26,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",226,15,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,3,11,43,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",70,243,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-26,2017,3989,1610612765,400975850,2,5,38,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-1,254,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-26,2017,3989,1610612765,400975850,1,3,57,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-41,258,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-26,2017,3989,1610612765,400975850,1,6,23,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",133,127,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,3,4,33,0,"Jump Shot","3PT Field Goal",29,"Portland Trail Blazers",-141,254,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,4,5,23,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",3,244,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,2,6,29,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",83,231,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,1,11,48,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-179,173,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-26,2017,3989,1610612765,400975850,4,3,33,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",115,240,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-28,2017,3989,1610612765,400975659,1,6,51,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",168,197,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-14,2017,3989,1610612765,400975599,3,3,57,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-41,256,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-14,2017,3989,1610612765,400975599,4,4,49,0,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",-104,251,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-14,2017,3989,1610612765,400975599,2,4,00,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-10,257,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,2,1,48,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-36,253,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,3,0,40,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-109,227,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,1,3,12,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",55,173,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,3,4,25,0,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",-5,225,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,1,9,38,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-147,202,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,3,5,12,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-81,241,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,1,8,11,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-13,251,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-14,2017,3989,1610612765,400975599,2,0,01,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",8,256,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-14,2017,3989,1610612765,400975599,4,3,27,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-56,185,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-14,2017,3989,1610612765,400975599,3,7,22,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",93,246,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-14,2017,3989,1610612765,400975599,1,5,47,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-67,237,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,4,0,43,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",59,243,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,1,5,22,1,"Layup Shot","2PT Field Goal",3,"Charlotte Hornets",32,17,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,3,3,48,0,"Layup Shot","2PT Field Goal",3,"Miami Heat",-14,27,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,3,9,01,0,"Layup Shot","2PT Field Goal",6,"Boston Celtics",4,60,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,3,10,59,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-1,11,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,2,2,38,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-5,26,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,1,4,46,0,"Layup Shot","2PT Field Goal",3,"Oklahoma City Thunder",14,29,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-24,2017,3989,1610612765,400975835,1,5,18,0,"Layup Shot","2PT Field Goal",3,"Chicago Bulls",-30,14,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-01,2017,3989,1610612765,400975507,4,2,23,0,"Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",-17,35,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-01,2017,3989,1610612765,400975507,3,10,12,1,"Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",-11,34,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,2,5,40,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-11,11,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,2,6,47,0,"Layup Shot","2PT Field Goal",5,"Philadelphia 76ers",-3,54,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,3,2,50,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",11,17,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-26,2017,3989,1610612746,400975464,1,5,38,0,"Layup Shot","2PT Field Goal",5,"Memphis Grizzlies",35,38,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,4,4,14,1,"Layup Shot","2PT Field Goal",9,"Atlanta Hawks",5,94,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,3,3,52,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",11,7,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-28,2017,3989,1610612765,400975659,2,5,26,0,"Layup Shot","2PT Field Goal",5,"Milwaukee Bucks",48,34,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,2,2,08,0,"Layup Shot","2PT Field Goal",3,"Atlanta Hawks",8,31,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,3,9,19,0,"Layup Shot","2PT Field Goal",4,"Philadelphia 76ers",-24,37,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,1,3,17,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-11,14,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,2,1,28,1,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",18,10,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,2,4,21,1,"Layup Shot","2PT Field Goal",2,"Utah Jazz",-13,18,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,4,8,54,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",6,29,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,1,5,15,1,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",9,3,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,3,6,30,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-6,25,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,2,0,39,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",-23,7,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,4,5,54,1,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",10,15,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,2,1,06,1,"Layup Shot","2PT Field Goal",5,"Atlanta Hawks",-17,53,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,2,5,27,1,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",-9,20,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,3,5,42,1,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",1,15,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,1,7,21,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",-10,14,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,3,1,20,0,"Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",-30,12,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,3,2,11,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",28,6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,1,7,00,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-18,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,1,4,22,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",14,20,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,3,9,11,1,"Layup Shot","2PT Field Goal",0,"Houston Rockets",-9,2,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,4,1,46,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-24,5,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,3,4,17,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",14,8,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,2,4,43,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",3,4,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,2,2,06,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-18,9,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,3,3,27,1,"Layup Shot","2PT Field Goal",0,"Phoenix Suns",1,8,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,1,11,13,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-11,9,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,3,2,50,0,"Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",29,16,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,1,1,40,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-2,11,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,4,5,47,1,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",10,10,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,1,9,42,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-12,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,3,0,42,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-16,7,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,1,1,47,1,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",9,15,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,4,2,49,1,"Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",-18,35,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,2,5,04,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-8,8,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,1,10,23,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-18,11,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,4,2,43,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-2,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,4,3,34,0,"Layup Shot","2PT Field Goal",3,"Detroit Pistons",-20,26,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,4,4,26,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",9,6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,2,1,49,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",3,16,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,2,5,04,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-9,25,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,2,0,45,0,"Layup Shot","2PT Field Goal",3,"Sacramento Kings",-8,36,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,3,4,02,0,"Layup Shot","2PT Field Goal",5,"Charlotte Hornets",-1,58,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,3,3,01,1,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-19,7,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,4,4,51,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",10,4,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,1,9,20,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,4,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-25,2017,3989,1610612765,400975638,3,7,16,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",2,15,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,3,0,05,0,"Layup Shot","2PT Field Goal",3,"Charlotte Hornets",-13,28,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,2,5,38,0,"Layup Shot","2PT Field Goal",3,"Charlotte Hornets",28,20,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,3,6,49,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-2,13,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-26,2017,3989,1610612765,400975647,2,8,20,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-13,5,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,3,11,34,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-25,8,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,3,9,43,0,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",2,13,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,1,9,38,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",2,13,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,3,11,29,1,"Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",25,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,2,2,48,0,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",-4,15,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,1,4,22,1,"Layup Shot","2PT Field Goal",5,"New Orleans Pelicans",-19,50,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,3,11,12,1,"Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",0,31,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,2,4,11,0,"Layup Shot","2PT Field Goal",4,"Los Angeles Lakers",-36,27,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-30,2017,3989,1610612746,400974851,3,3,19,0,"Layup Shot","2PT Field Goal",5,"Golden State Warriors",-27,43,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,4,5,53,1,"Layup Shot","2PT Field Goal",4,"New Orleans Pelicans",-13,40,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,4,4,53,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-12,7,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,3,5,08,0,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",16,-1,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,1,8,04,0,"Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",-30,26,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,1,8,49,1,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-8,11,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,1,4,16,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,14,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,1,6,22,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",11,17,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-11,2017,3989,1610612746,400974929,4,3,39,1,"Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",21,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,3,11,02,0,"Layup Shot","2PT Field Goal",4,"Oklahoma City Thunder",-44,16,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,3,5,18,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",21,17,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,3,6,36,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",22,10,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,1,10,25,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-22,8,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,3,8,18,0,"Layup Shot","2PT Field Goal",4,"Brooklyn Nets",19,39,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,2,6,56,1,"Pullup Jump shot","2PT Field Goal",20,"Memphis Grizzlies",123,169,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-24,2017,3989,1610612765,400975835,1,4,45,0,"Pullup Jump shot","3PT Field Goal",24,"Chicago Bulls",-146,200,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,4,0,00,1,"Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",-27,253,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,4,5,29,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-30,176,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,2,10,57,1,"Pullup Jump shot","2PT Field Goal",18,"New Orleans Pelicans",-163,88,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,4,1,04,0,"Pullup Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",-38,241,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,4,5,39,1,"Pullup Jump shot","2PT Field Goal",18,"Phoenix Suns",-131,136,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,1,9,16,0,"Pullup Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",60,242,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,3,6,20,0,"Pullup Jump shot","2PT Field Goal",17,"Oklahoma City Thunder",-55,164,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,2,5,34,0,"Pullup Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",-11,251,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,3,10,54,1,"Pullup Jump shot","3PT Field Goal",24,"Utah Jazz",-93,228,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,3,6,46,0,"Pullup Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",65,236,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-28,2017,3989,1610612765,400975659,2,3,21,0,"Pullup Jump shot","2PT Field Goal",16,"Milwaukee Bucks",128,109,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-01,2017,3989,1610612765,400975507,3,11,32,1,"Pullup Jump shot","2PT Field Goal",19,"Memphis Grizzlies",-143,126,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,3,5,15,1,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-20,165,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,2,6,02,0,"Pullup Jump shot","2PT Field Goal",14,"Brooklyn Nets",-13,147,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-26,2017,3989,1610612765,400975850,3,10,59,1,"Pullup Jump shot","2PT Field Goal",15,"Los Angeles Lakers",2,156,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,4,0,50,0,"Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",-84,244,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,4,0,00,1,"Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",-133,207,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,2,7,32,0,"Pullup Jump shot","2PT Field Goal",20,"Boston Celtics",-22,199,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,1,11,24,0,"Pullup Jump shot","2PT Field Goal",14,"Boston Celtics",-71,130,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,2,0,35,1,"Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",-117,220,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,4,0,44,0,"Pullup Jump shot","2PT Field Goal",17,"Los Angeles Lakers",-75,156,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-26,2017,3989,1610612765,400975647,2,7,44,0,"Pullup Jump shot","2PT Field Goal",18,"Toronto Raptors",-111,148,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,1,5,09,1,"Pullup Jump shot","3PT Field Goal",26,"Phoenix Suns",163,205,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,1,10,50,1,"Pullup Jump shot","2PT Field Goal",17,"Miami Heat",-29,175,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-26,2017,3989,1610612765,400975647,2,9,57,0,"Pullup Jump shot","2PT Field Goal",19,"Toronto Raptors",84,177,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,3,6,05,0,"Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",-112,225,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,1,5,31,0,"Pullup Jump shot","2PT Field Goal",16,"Boston Celtics",39,156,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-26,2017,3989,1610612765,400975647,3,11,13,1,"Pullup Jump shot","2PT Field Goal",19,"Toronto Raptors",-36,195,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-26,2017,3989,1610612746,400975464,2,3,03,1,"Pullup Jump shot","3PT Field Goal",26,"Memphis Grizzlies",-150,216,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,1,10,20,0,"Pullup Jump shot","2PT Field Goal",15,"Los Angeles Clippers",125,92,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,2,3,44,0,"Pullup Jump shot","2PT Field Goal",17,"New Orleans Pelicans",151,95,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-28,2017,3989,1610612765,400975659,3,10,27,1,"Pullup Jump shot","2PT Field Goal",21,"Milwaukee Bucks",-141,168,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,1,9,12,1,"Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",-52,184,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,3,9,27,0,"Pullup Jump shot","2PT Field Goal",17,"Miami Heat",-116,130,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,3,7,01,0,"Pullup Jump shot","2PT Field Goal",17,"Orlando Magic",-10,171,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,3,10,27,0,"Pullup Jump shot","3PT Field Goal",26,"Charlotte Hornets",-71,253,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,1,0,01,1,"Pullup Jump shot","2PT Field Goal",9,"New Orleans Pelicans",-79,47,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-26,2017,3989,1610612765,400975647,2,0,04,0,"Pullup Jump shot","3PT Field Goal",25,"Toronto Raptors",72,242,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,1,2,48,0,"Pullup Jump shot","3PT Field Goal",24,"San Antonio Spurs",-93,231,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-24,2017,3989,1610612765,400975835,3,8,20,0,"Pullup Jump shot","3PT Field Goal",27,"Chicago Bulls",141,231,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-14,2017,3989,1610612765,400975599,3,9,19,0,"Pullup Jump shot","2PT Field Goal",19,"Atlanta Hawks",-137,133,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-14,2017,3989,1610612765,400975599,1,7,53,0,"Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",-44,164,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,1,5,20,0,"Pullup Jump shot","2PT Field Goal",18,"Atlanta Hawks",-16,184,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,3,11,31,1,"Pullup Jump shot","2PT Field Goal",18,"Orlando Magic",49,177,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,1,0,48,0,"Putback Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,2,6,22,1,"Putback Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,1,4,05,1,"Putback Layup Shot","2PT Field Goal",0,"Atlanta Hawks",2,4,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,2,2,06,1,"Putback Layup Shot","2PT Field Goal",1,"Miami Heat",7,12,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,1,4,42,0,"Putback Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,1,4,02,0,"Putback Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",11,27,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,2,6,00,0,"Putback Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-7,17,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,2,6,21,1,"Putback Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,4,5,57,1,"Putback Layup Shot","2PT Field Goal",0,"Orlando Magic",-8,3,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,4,4,52,1,"Putback Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",8,-3,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,2,1,34,0,"Reverse Layup Shot","2PT Field Goal",0,"Denver Nuggets",-9,1,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,3,5,44,0,"Reverse Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-24,2,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,4,7,29,0,"Reverse Layup Shot","2PT Field Goal",1,"Atlanta Hawks",11,14,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,1,2,10,0,"Reverse Layup Shot","2PT Field Goal",1,"Utah Jazz",14,5,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,1,4,59,1,"Reverse Layup Shot","2PT Field Goal",2,"Sacramento Kings",16,13,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,3,7,47,1,"Reverse Layup Shot","2PT Field Goal",1,"Boston Celtics",3,13,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,4,4,35,1,"Reverse Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",10,1,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-30,2017,3989,1610612746,400974851,3,1,23,0,"Reverse Layup Shot","2PT Field Goal",2,"Golden State Warriors",14,17,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,4,1,25,1,"Running Dunk Shot","2PT Field Goal",1,"Memphis Grizzlies",-12,2,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,3,8,04,1,"Running Dunk Shot","2PT Field Goal",1,"Utah Jazz",13,15,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,1,10,22,1,"Running Dunk Shot","2PT Field Goal",2,"Los Angeles Lakers",0,25,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,3,6,41,1,"Running Dunk Shot","2PT Field Goal",1,"Phoenix Suns",6,10,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-01,2017,3989,1610612746,400974867,2,5,27,1,"Running Dunk Shot","2PT Field Goal",1,"Dallas Mavericks",5,9,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,1,7,03,0,"Running Jump Shot","2PT Field Goal",8,"New York Knicks",54,68,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-13,2017,3989,1610612746,400975374,2,0,00,0,"Running Jump Shot","3PT Field Goal",38,"Sacramento Kings",-206,324,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,3,3,42,1,"Running Layup Shot","2PT Field Goal",1,"Sacramento Kings",12,9,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,5,1,21,1,"Running Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",3,16,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,3,1,44,0,"Running Layup Shot","2PT Field Goal",2,"Phoenix Suns",20,10,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,3,4,27,1,"Running Layup Shot","2PT Field Goal",4,"Sacramento Kings",40,25,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,3,8,30,1,"Running Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-11,12,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,2,1,50,0,"Running Layup Shot","2PT Field Goal",2,"Orlando Magic",-6,22,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,1,4,07,0,"Running Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-6,20,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,1,9,20,1,"Running Layup Shot","2PT Field Goal",1,"Boston Celtics",-2,11,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,1,6,58,1,"Running Layup Shot","2PT Field Goal",0,"Boston Celtics",3,5,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,4,3,15,0,"Running Layup Shot","2PT Field Goal",4,"Cleveland Cavaliers",-7,44,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,2,4,41,1,"Running Layup Shot","2PT Field Goal",1,"Boston Celtics",-6,11,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,1,3,13,1,"Running Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",13,9,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,3,4,44,1,"Running Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",10,8,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,2,0,00,0,"Running Pull-Up Jump Shot","3PT Field Goal",31,"San Antonio Spurs",73,309,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,4,4,53,1,"Running Reverse Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",6,0,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,4,3,54,1,"Step Back Jump shot","3PT Field Goal",25,"Phoenix Suns",54,247,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,2,0,00,1,"Step Back Jump shot","3PT Field Goal",26,"Phoenix Suns",-202,178,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,4,6,06,0,"Step Back Jump shot","2PT Field Goal",21,"Memphis Grizzlies",135,169,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-28,2017,3989,1610612746,400975479,2,6,44,0,"Step Back Jump shot","2PT Field Goal",18,"New Orleans Pelicans",-37,183,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,3,8,31,0,"Step Back Jump shot","2PT Field Goal",15,"Sacramento Kings",-130,78,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,4,6,02,0,"Step Back Jump shot","3PT Field Goal",26,"Charlotte Hornets",-95,252,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,3,2,27,0,"Step Back Jump shot","2PT Field Goal",18,"Charlotte Hornets",-172,64,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,1,6,40,0,"Step Back Jump shot","2PT Field Goal",21,"Los Angeles Lakers",-28,214,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-21,2017,3989,1610612746,400974788,1,8,42,0,"Step Back Jump shot","3PT Field Goal",25,"Phoenix Suns",139,217,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,4,2,44,1,"Step Back Jump shot","2PT Field Goal",15,"Portland Trail Blazers",-12,158,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,3,9,56,0,"Step Back Jump shot","3PT Field Goal",24,"Portland Trail Blazers",-122,215,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,3,8,21,0,"Step Back Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",-39,152,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,2,1,54,0,"Step Back Jump shot","3PT Field Goal",25,"Atlanta Hawks",116,231,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,4,1,07,0,"Step Back Jump shot","2PT Field Goal",12,"Philadelphia 76ers",-4,128,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,4,6,34,0,"Step Back Jump shot","3PT Field Goal",24,"Portland Trail Blazers",-188,160,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,2,0,11,0,"Step Back Jump shot","3PT Field Goal",24,"Brooklyn Nets",-3,247,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,3,5,30,0,"Step Back Jump shot","2PT Field Goal",15,"Cleveland Cavaliers",-106,118,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,1,9,59,1,"Step Back Jump shot","3PT Field Goal",24,"New York Knicks",-182,167,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,4,1,42,0,"Step Back Jump shot","3PT Field Goal",25,"Philadelphia 76ers",-106,231,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-12,2017,3989,1610612765,400975587,3,5,32,1,"Step Back Jump shot","3PT Field Goal",24,"New Orleans Pelicans",228,79,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-13,2017,3989,1610612746,400974951,4,8,07,0,"Step Back Jump shot","2PT Field Goal",19,"Philadelphia 76ers",-103,161,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,2,0,14,1,"Step Back Jump shot","3PT Field Goal",25,"San Antonio Spurs",90,242,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-26,2017,3989,1610612765,400975647,4,10,25,0,"Step Back Jump shot","3PT Field Goal",25,"Toronto Raptors",22,253,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,3,11,10,0,"Step Back Jump shot","3PT Field Goal",22,"Detroit Pistons",223,1,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,2,7,53,1,"Step Back Jump shot","3PT Field Goal",25,"Detroit Pistons",-10,252,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,2,4,23,0,"Step Back Jump shot","3PT Field Goal",24,"Sacramento Kings",-153,196,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-13,2017,3989,1610612746,400975374,1,5,26,0,"Step Back Jump shot","3PT Field Goal",25,"Sacramento Kings",232,103,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,2,2,53,1,"Tip Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,4,4,50,0,"Tip Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,4,3,28,1,"Tip Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,1,4,29,0,"Tip Layup Shot","2PT Field Goal",1,"Miami Heat",3,16,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-29,2017,3989,1610612746,400975275,1,3,58,0,"Tip Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-24,2017,3989,1610612765,400975835,1,5,15,1,"Tip Layup Shot","2PT Field Goal",0,"Chicago Bulls",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-28,2017,3989,1610612746,400974835,3,1,21,0,"Tip Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,1,4,24,1,"Tip Layup Shot","2PT Field Goal",1,"Miami Heat",-7,10,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,1,4,17,1,"Tip Layup Shot","2PT Field Goal",0,"Denver Nuggets",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,4,3,20,1,"Tip Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,1,4,30,0,"Tip Layup Shot","2PT Field Goal",1,"Miami Heat",3,10,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,4,4,28,0,"Tip Layup Shot","2PT Field Goal",0,"Houston Rockets",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,2,0,41,0,"Tip Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,4,0,17,0,"Tip Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,1,3,34,1,"Tip Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-11,2017,3989,1610612765,400975580,1,9,57,1,"Tip Layup Shot","2PT Field Goal",0,"Atlanta Hawks",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-25,2017,3989,1610612746,400975037,1,11,15,1,"Tip Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,1,4,28,0,"Tip Layup Shot","2PT Field Goal",1,"Miami Heat",-3,11,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-19,2017,3989,1610612765,400975803,2,3,40,1,"Tip Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-17,2017,3989,1610612746,400975408,1,2,36,0,"Tip Layup Shot","2PT Field Goal",0,"Denver Nuggets",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-28,2017,3989,1610612765,400975659,2,1,05,1,"Tip Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-04,2017,3989,1610612746,400974882,1,5,33,1,"Tip Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,1,9,39,1,"Tip Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-11,2017,3989,1610612746,400975362,4,5,52,1,"Tip Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,-6,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,1,6,39,0,"Turnaround Bank Hook Shot","2PT Field Goal",2,"Portland Trail Blazers",11,19,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-22,2017,3989,1610612746,400975441,1,2,23,1,"Turnaround Bank Hook Shot","2PT Field Goal",8,"Minnesota Timberwolves",78,30,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-30,2017,3989,1610612746,400974851,1,2,32,0,"Turnaround Bank Hook Shot","2PT Field Goal",7,"Golden State Warriors",76,-16,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,1,4,31,1,"Turnaround Bank Hook Shot","2PT Field Goal",7,"Houston Rockets",51,48,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,4,3,10,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",2,"Portland Trail Blazers",-14,20,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,4,1,33,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",6,"Brooklyn Nets",-62,26,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-24,2017,3989,1610612765,400975835,1,7,37,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",0,"Chicago Bulls",-8,1,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,3,7,17,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",8,"Los Angeles Clippers",-76,32,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-20,2017,3989,1610612746,400975427,1,6,04,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",9,"Utah Jazz",-70,61,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,3,8,08,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",8,"Miami Heat",21,80,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,1,10,03,1,"Turnaround Fadeaway shot","2PT Field Goal",18,"Miami Heat",182,15,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,1,7,43,1,"Turnaround Fadeaway shot","2PT Field Goal",16,"Portland Trail Blazers",-82,148,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-07,2017,3989,1610612746,400974905,1,2,00,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"San Antonio Spurs",-93,87,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,1,7,37,0,"Turnaround Fadeaway shot","2PT Field Goal",6,"Boston Celtics",-42,52,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-05,2017,3989,1610612765,400975536,1,3,07,1,"Turnaround Fadeaway shot","2PT Field Goal",17,"Portland Trail Blazers",133,111,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-23,2017,3989,1610612765,400975619,2,7,02,1,"Turnaround Fadeaway shot","2PT Field Goal",8,"Boston Celtics",-79,25,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-24,2017,3989,1610612746,400974805,2,0,04,0,"Turnaround Fadeaway shot","3PT Field Goal",23,"Utah Jazz",-230,16,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,2,2,20,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Orlando Magic",73,151,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,2,3,37,1,"Turnaround Fadeaway shot","2PT Field Goal",16,"Memphis Grizzlies",-150,66,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,3,1,06,0,"Turnaround Fadeaway shot","2PT Field Goal",17,"Miami Heat",-145,99,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,1,4,02,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Miami Heat",-125,34,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-07,2017,3989,1610612765,400975551,4,3,14,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Brooklyn Nets",-88,109,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,3,7,13,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Charlotte Hornets",-87,34,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,1,5,11,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Portland Trail Blazers",-102,22,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,1,3,05,1,"Turnaround Fadeaway shot","2PT Field Goal",3,"Houston Rockets",0,35,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,4,4,14,0,"Turnaround Fadeaway shot","2PT Field Goal",18,"Orlando Magic",-71,168,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,3,7,11,1,"Turnaround Fadeaway shot","2PT Field Goal",8,"Houston Rockets",-84,15,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-26,2017,3989,1610612746,400975464,3,11,11,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Memphis Grizzlies",128,56,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-02,2017,3989,1610612746,400975299,3,4,54,0,"Turnaround Fadeaway shot","2PT Field Goal",20,"Memphis Grizzlies",-106,172,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-24,2017,3989,1610612746,400975455,1,10,24,0,"Turnaround Fadeaway shot","2PT Field Goal",22,"Boston Celtics",-107,193,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-26,2017,3989,1610612746,400974819,4,2,37,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Portland Trail Blazers",-77,139,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,1,3,06,0,"Turnaround Hook Shot","2PT Field Goal",10,"Cleveland Cavaliers",0,104,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,3,3,55,0,"Turnaround Hook Shot","2PT Field Goal",6,"Oklahoma City Thunder",-29,63,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,4,2,41,0,"Turnaround Hook Shot","2PT Field Goal",6,"Oklahoma City Thunder",33,53,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-04,2017,3989,1610612746,400975313,3,6,51,0,"Turnaround Hook Shot","2PT Field Goal",6,"Oklahoma City Thunder",20,58,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,3,1,50,0,"Turnaround Hook Shot","2PT Field Goal",11,"Cleveland Cavaliers",16,109,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-26,2017,3989,1610612746,400975464,4,2,20,0,"Turnaround Hook Shot","2PT Field Goal",11,"Memphis Grizzlies",11,113,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,1,11,41,0,"Turnaround Hook Shot","2PT Field Goal",7,"Cleveland Cavaliers",49,57,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-01,2017,3989,1610612765,400975507,3,0,13,0,"Turnaround Hook Shot","2PT Field Goal",5,"Memphis Grizzlies",-13,53,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2018-01-26,2017,3989,1610612746,400975464,2,6,26,1,"Turnaround Hook Shot","2PT Field Goal",7,"Memphis Grizzlies",-5,76,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,3,2,48,0,"Turnaround Hook Shot","2PT Field Goal",8,"Cleveland Cavaliers",0,86,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-03,2017,3989,1610612765,400975684,1,5,06,0,"Turnaround Hook Shot","2PT Field Goal",8,"Miami Heat",-22,84,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-12-31,2017,0,1610612746,0,2,0,02,1,"Turnaround Hook Shot","2PT Field Goal",8,"Charlotte Hornets",-21,82,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,4,4,23,0,"Turnaround Hook Shot","2PT Field Goal",9,"Los Angeles Lakers",33,92,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-09,2017,3989,1610612765,400975563,3,10,02,0,"Turnaround Hook Shot","2PT Field Goal",6,"Los Angeles Clippers",-31,53,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-18,2017,3989,1610612746,400974979,2,1,56,1,"Turnaround Hook Shot","2PT Field Goal",7,"Charlotte Hornets",8,72,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-27,2017,3989,1610612746,400975048,4,10,33,0,"Turnaround Hook Shot","2PT Field Goal",6,"Los Angeles Lakers",-32,57,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-01,2017,3989,1610612746,400974867,3,8,07,1,"Turnaround Hook Shot","2PT Field Goal",4,"Dallas Mavericks",2,43,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-22,2017,3989,1610612765,400975820,3,2,15,0,"Turnaround Hook Shot","2PT Field Goal",11,"Houston Rockets",8,116,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-17,2017,3989,1610612765,400975791,1,7,45,1,"Turnaround Hook Shot","2PT Field Goal",6,"Portland Trail Blazers",6,68,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,1,1,53,1,"Turnaround Hook Shot","2PT Field Goal",4,"Oklahoma City Thunder",-14,38,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,1,9,57,0,"Turnaround Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",21,196,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,4,0,03,0,"Turnaround Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-107,159,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,3,3,04,0,"Turnaround Jump Shot","2PT Field Goal",2,"Oklahoma City Thunder",13,26,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,5,4,18,0,"Turnaround Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",-100,92,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,4,3,29,0,"Turnaround Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",78,128,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,3,6,40,0,"Turnaround Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",131,67,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-20,2017,3989,1610612746,400974996,2,7,40,0,"Turnaround Jump Shot","2PT Field Goal",11,"New York Knicks",-119,14,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-17,2017,3989,1610612746,400974971,2,2,24,0,"Turnaround Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",93,114,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-22,2017,3989,1610612746,400975007,3,8,24,1,"Turnaround Jump Shot","2PT Field Goal",17,"Atlanta Hawks",-136,113,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,2,3,54,0,"Turnaround Jump Shot","2PT Field Goal",6,"Orlando Magic",21,64,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-02,2017,3989,1610612765,400975672,1,5,25,1,"Turnaround Jump Shot","2PT Field Goal",7,"Orlando Magic",9,74,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-10-19,2017,3989,1610612746,400974442,2,1,09,0,"Turnaround Jump Shot","2PT Field Goal",8,"Los Angeles Lakers",-24,86,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-05,2017,3989,1610612746,400974888,2,5,19,0,"Turnaround Jump Shot","3PT Field Goal",26,"Miami Heat",-165,208,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-20,2017,3989,1610612765,400975809,3,6,20,1,"Turnaround Jump Shot","2PT Field Goal",18,"Phoenix Suns",38,179,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-02-03,2017,3989,1610612765,400975522,2,0,39,0,"Turnaround Jump Shot","2PT Field Goal",4,"Miami Heat",-35,23,0,0.00,,0.00,0.00
+"Blake Griffin","LA Clippers",2017-11-10,2017,3989,1610612746,400974923,4,0,25,0,"Turnaround Jump Shot","2PT Field Goal",1,"Oklahoma City Thunder",-6,10,0,0.00,,0.00,0.00
+"Blake Griffin","Detroit Pistons",2018-03-05,2017,3989,1610612765,400975696,3,1,22,0,"Turnaround Jump Shot","2PT Field Goal",8,"Cleveland Cavaliers",9,86,0,0.00,,0.00,0.00

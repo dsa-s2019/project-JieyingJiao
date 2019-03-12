@@ -1,0 +1,1084 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,4,2,00,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",-2,7,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,4,6,06,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Philadelphia 76ers",-2,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-30,2017,3136195,1610612750,400974844,2,7,18,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Miami Heat",19,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,1,7,15,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Utah Jazz",-10,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-30,2017,3136195,1610612750,400974844,2,1,46,1,"Alley Oop Dunk Shot","2PT Field Goal",3,"Miami Heat",20,26,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-27,2017,3136195,1610612750,400975256,2,11,33,1,"Alley Oop Layup shot","2PT Field Goal",2,"Denver Nuggets",11,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,3,2,57,1,"Alley Oop Layup shot","2PT Field Goal",1,"Utah Jazz",-5,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-26,2017,3136195,1610612750,400975652,2,4,21,1,"Alley Oop Layup shot","2PT Field Goal",1,"Sacramento Kings",-1,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-30,2017,3136195,1610612750,400974844,1,6,41,1,"Cutting Dunk Shot","2PT Field Goal",3,"Miami Heat",-24,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-17,2017,3136195,1610612750,400974975,1,9,21,1,"Cutting Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",3,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-25,2017,3136195,1610612750,400974449,1,4,41,1,"Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",-2,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-20,2017,3136195,1610612750,400974775,3,6,47,1,"Cutting Dunk Shot","2PT Field Goal",0,"Utah Jazz",-6,1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,3,8,42,1,"Cutting Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",5,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,4,3,58,1,"Cutting Dunk Shot","2PT Field Goal",0,"Houston Rockets",2,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,1,6,31,1,"Cutting Dunk Shot","2PT Field Goal",1,"Detroit Pistons",13,-4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-07,2017,3136195,1610612750,400975553,4,2,03,1,"Cutting Dunk Shot","2PT Field Goal",3,"Cleveland Cavaliers",10,33,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,1,11,46,1,"Cutting Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",3,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,3,5,32,1,"Cutting Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",4,1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-04,2017,3136195,1610612750,400975096,2,8,25,0,"Cutting Dunk Shot","2PT Field Goal",3,"Memphis Grizzlies",-24,31,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,2,0,42,1,"Cutting Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,2,4,57,1,"Cutting Dunk Shot","2PT Field Goal",1,"Los Angeles Clippers",6,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,3,8,16,1,"Cutting Dunk Shot","2PT Field Goal",1,"Los Angeles Clippers",-3,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-09,2017,3136195,1610612750,400975568,4,6,21,1,"Cutting Dunk Shot","2PT Field Goal",0,"Chicago Bulls",9,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,4,0,39,1,"Cutting Dunk Shot","2PT Field Goal",0,"Boston Celtics",-2,-3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,4,3,09,1,"Cutting Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",-5,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,2,4,40,1,"Cutting Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",-3,-8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,2,7,16,1,"Cutting Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",5,0,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,3,9,01,1,"Cutting Dunk Shot","2PT Field Goal",1,"San Antonio Spurs",-3,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-20,2017,3136195,1610612750,400975426,4,8,19,1,"Cutting Dunk Shot","2PT Field Goal",1,"Toronto Raptors",6,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,2,4,33,1,"Cutting Dunk Shot","2PT Field Goal",1,"San Antonio Spurs",-8,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,2,6,16,1,"Cutting Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",-2,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,2,7,40,1,"Cutting Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,-1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,1,4,03,1,"Cutting Dunk Shot","2PT Field Goal",1,"Dallas Mavericks",-3,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,3,8,36,0,"Cutting Dunk Shot","2PT Field Goal",4,"Philadelphia 76ers",9,45,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,4,11,48,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",0,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,2,6,00,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",3,"Boston Celtics",28,26,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,2,2,43,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Houston Rockets",12,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,2,8,30,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",2,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-17,2017,3136195,1610612750,400974975,3,2,58,0,"Cutting Layup Shot","2PT Field Goal",1,"Dallas Mavericks",4,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-08,2017,3136195,1610612750,400974914,1,9,20,1,"Cutting Layup Shot","2PT Field Goal",1,"Golden State Warriors",-9,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-23,2017,3136195,1610612750,400975241,3,5,32,0,"Cutting Layup Shot","2PT Field Goal",1,"Phoenix Suns",2,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,3,9,51,1,"Cutting Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",4,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,3,4,10,0,"Cutting Layup Shot","2PT Field Goal",7,"Phoenix Suns",10,75,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,4,10,54,1,"Cutting Layup Shot","2PT Field Goal",4,"Phoenix Suns",6,46,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,1,9,46,1,"Cutting Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",5,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,4,4,38,1,"Cutting Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",4,-4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,2,6,40,1,"Cutting Layup Shot","2PT Field Goal",2,"Denver Nuggets",-22,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,2,0,43,1,"Cutting Layup Shot","2PT Field Goal",2,"San Antonio Spurs",17,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,1,7,07,1,"Cutting Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-3,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,4,10,07,1,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",0,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,3,8,21,1,"Cutting Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",1,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,2,7,11,1,"Cutting Layup Shot","2PT Field Goal",0,"Phoenix Suns",-5,-2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,4,8,23,1,"Cutting Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-5,27,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-08,2017,3136195,1610612750,400975340,1,8,57,1,"Cutting Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",5,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-23,2017,3136195,1610612750,400975241,3,9,38,0,"Cutting Layup Shot","2PT Field Goal",1,"Phoenix Suns",2,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,2,4,03,1,"Cutting Layup Shot","2PT Field Goal",1,"Dallas Mavericks",1,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-28,2017,3136195,1610612750,400975264,3,7,13,1,"Cutting Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-3,7,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,1,9,08,1,"Cutting Layup Shot","2PT Field Goal",3,"Orlando Magic",-30,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,4,6,29,1,"Cutting Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-5,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,2,7,31,1,"Cutting Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",5,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-23,2017,3136195,1610612750,400975241,2,8,01,1,"Cutting Layup Shot","2PT Field Goal",0,"Phoenix Suns",7,1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-23,2017,3136195,1610612750,400975241,3,11,20,1,"Cutting Layup Shot","2PT Field Goal",0,"Phoenix Suns",-2,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,4,8,06,1,"Cutting Layup Shot","2PT Field Goal",1,"Indiana Pacers",-12,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,2,6,12,0,"Cutting Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-10,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,2,6,13,1,"Cutting Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-5,-3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,3,6,56,1,"Cutting Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",1,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-22,2017,3136195,1610612750,400975441,4,9,10,0,"Cutting Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",19,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,2,9,25,0,"Cutting Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-2,28,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,3,9,22,0,"Cutting Layup Shot","2PT Field Goal",3,"Atlanta Hawks",30,26,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-26,2017,3136195,1610612750,400975652,2,6,47,1,"Cutting Layup Shot","2PT Field Goal",2,"Sacramento Kings",19,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,3,5,00,1,"Cutting Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",14,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,3,7,27,1,"Cutting Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",6,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,2,9,44,0,"Cutting Layup Shot","2PT Field Goal",3,"Philadelphia 76ers",31,2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,1,5,05,1,"Cutting Layup Shot","2PT Field Goal",6,"Atlanta Hawks",-32,59,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-14,2017,3136195,1610612750,400975383,4,8,44,1,"Cutting Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",1,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,2,2,38,1,"Cutting Layup Shot","2PT Field Goal",1,"Denver Nuggets",-11,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,4,5,39,0,"Cutting Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",26,1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-29,2017,3136195,1610612750,400975485,2,5,13,1,"Cutting Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-2,0,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,2,10,51,1,"Cutting Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",14,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,1,10,58,1,"Driving Dunk Shot","2PT Field Goal",1,"San Antonio Spurs",-3,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-22,2017,3136195,1610612750,400975012,1,8,01,1,"Driving Dunk Shot","2PT Field Goal",1,"Orlando Magic",12,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-26,2017,3136195,1610612750,400975652,4,5,53,1,"Driving Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-05,2017,3136195,1610612750,400974894,2,3,10,1,"Driving Dunk Shot","2PT Field Goal",1,"Charlotte Hornets",13,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,1,8,32,0,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",1,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,4,8,56,1,"Driving Dunk Shot","2PT Field Goal",1,"Miami Heat",-11,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,2,10,32,1,"Driving Dunk Shot","2PT Field Goal",1,"Denver Nuggets",3,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,4,3,08,0,"Driving Dunk Shot","2PT Field Goal",3,"Los Angeles Lakers",-2,37,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,2,7,12,1,"Driving Dunk Shot","2PT Field Goal",0,"Denver Nuggets",-2,-4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,2,1,02,1,"Driving Dunk Shot","2PT Field Goal",1,"Dallas Mavericks",-4,-11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,1,4,41,1,"Driving Dunk Shot","2PT Field Goal",2,"Phoenix Suns",0,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-10,2017,3136195,1610612750,400975357,3,9,19,1,"Driving Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",-3,1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-30,2017,3136195,1610612750,400975492,4,4,24,1,"Driving Dunk Shot","2PT Field Goal",2,"Toronto Raptors",4,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,2,7,28,1,"Driving Dunk Shot","2PT Field Goal",1,"Golden State Warriors",5,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,3,8,18,1,"Driving Dunk Shot","2PT Field Goal",1,"Miami Heat",10,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,3,9,32,1,"Driving Dunk Shot","2PT Field Goal",1,"Indiana Pacers",5,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,4,3,31,1,"Driving Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",4,7,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,3,5,26,0,"Driving Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",-2,2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,3,5,40,0,"Driving Dunk Shot","2PT Field Goal",2,"Phoenix Suns",-5,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,3,5,33,1,"Driving Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",-13,-1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,4,7,48,1,"Driving Dunk Shot","2PT Field Goal",1,"Denver Nuggets",-5,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,1,10,17,0,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Philadelphia 76ers",-22,32,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,3,10,06,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"New York Knicks",-11,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-07,2017,3136195,1610612750,400975553,2,2,32,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",20,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,4,9,28,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"San Antonio Spurs",16,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,3,3,38,0,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Boston Celtics",-13,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,1,3,40,0,"Driving Floating Bank Jump Shot","2PT Field Goal",1,"Dallas Mavericks",19,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,2,10,57,1,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"Dallas Mavericks",43,31,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-23,2017,3136195,1610612750,400975241,2,0,50,0,"Driving Floating Bank Jump Shot","2PT Field Goal",3,"Phoenix Suns",-11,30,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,1,10,14,1,"Driving Floating Bank Jump Shot","2PT Field Goal",3,"Indiana Pacers",27,26,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,3,7,32,1,"Driving Floating Bank Jump Shot","2PT Field Goal",2,"Atlanta Hawks",20,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,2,1,52,1,"Driving Floating Bank Jump Shot","2PT Field Goal",6,"Houston Rockets",52,31,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-26,2017,3136195,1610612750,400975652,2,1,30,1,"Driving Floating Jump Shot","2PT Field Goal",11,"Sacramento Kings",-109,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,3,8,16,1,"Driving Floating Jump Shot","2PT Field Goal",10,"Houston Rockets",-71,71,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,1,11,27,0,"Driving Floating Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",-54,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,4,0,09,1,"Driving Floating Jump Shot","2PT Field Goal",8,"Oklahoma City Thunder",39,72,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,2,7,05,0,"Driving Floating Jump Shot","2PT Field Goal",4,"Oklahoma City Thunder",-5,42,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-28,2017,3136195,1610612750,400975264,3,8,41,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",-41,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-07,2017,3136195,1610612750,400975553,1,10,06,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",0,63,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,1,6,35,1,"Driving Floating Jump Shot","2PT Field Goal",2,"San Antonio Spurs",1,24,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-20,2017,3136195,1610612750,400975426,3,5,09,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Toronto Raptors",-58,76,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,3,6,24,0,"Driving Floating Jump Shot","2PT Field Goal",5,"San Antonio Spurs",0,55,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-02,2017,3136195,1610612750,400975680,2,0,23,1,"Driving Hook Shot","2PT Field Goal",4,"Utah Jazz",9,47,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,1,9,36,1,"Driving Hook Shot","2PT Field Goal",14,"Boston Celtics",-46,134,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-30,2017,3136195,1610612750,400975492,1,11,19,1,"Driving Hook Shot","2PT Field Goal",7,"Toronto Raptors",7,73,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,3,10,52,0,"Driving Hook Shot","2PT Field Goal",4,"San Antonio Spurs",-1,42,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,2,6,33,0,"Driving Hook Shot","2PT Field Goal",4,"San Antonio Spurs",-9,40,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,4,8,05,1,"Driving Layup Shot","2PT Field Goal",0,"Denver Nuggets",-5,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,1,9,28,0,"Driving Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-3,-1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,4,1,17,0,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-3,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,3,8,56,0,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",20,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,1,3,10,1,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",-16,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,3,4,28,1,"Driving Layup Shot","2PT Field Goal",4,"Golden State Warriors",32,27,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-28,2017,3136195,1610612750,400975264,1,7,13,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",3,19,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,3,11,16,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-8,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,1,6,57,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",3,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,1,4,45,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",6,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,3,10,36,1,"Driving Layup Shot","2PT Field Goal",0,"Indiana Pacers",4,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,4,8,28,0,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",-7,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-22,2017,3136195,1610612750,400975441,3,4,54,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-4,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,4,1,16,0,"Driving Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",-2,36,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,3,5,00,0,"Driving Layup Shot","2PT Field Goal",3,"Houston Rockets",8,38,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,3,9,22,0,"Driving Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",22,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,4,2,54,0,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",9,7,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,4,2,45,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-4,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,4,8,52,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-7,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,3,11,50,1,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",4,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,2,10,13,1,"Driving Layup Shot","2PT Field Goal",0,"Utah Jazz",-3,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,1,9,25,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-9,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-25,2017,3136195,1610612750,400974449,4,11,03,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-13,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,2,5,57,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-3,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,1,8,38,1,"Driving Layup Shot","2PT Field Goal",4,"Oklahoma City Thunder",2,42,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,3,10,27,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-2,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-09,2017,3136195,1610612750,400975568,4,11,32,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",14,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-27,2017,3136195,1610612750,400975256,1,7,16,0,"Driving Layup Shot","2PT Field Goal",5,"Denver Nuggets",-15,58,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-09,2017,3136195,1610612750,400975568,2,8,31,0,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",-17,1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,2,7,06,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",-2,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-08,2017,3136195,1610612750,400974914,3,11,34,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-19,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,1,5,23,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",26,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,4,9,09,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",-2,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-01,2017,3136195,1610612750,400974864,1,5,50,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",23,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,1,9,20,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",10,7,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,4,7,04,0,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-13,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,2,8,17,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",11,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,1,10,20,1,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-2,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,3,5,43,0,"Driving Layup Shot","2PT Field Goal",3,"San Antonio Spurs",-30,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,3,7,56,1,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",-2,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,1,6,41,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",16,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,2,9,18,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-4,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-05,2017,3136195,1610612750,400974894,1,4,09,0,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-3,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,3,6,02,0,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",0,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,3,8,44,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",15,7,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,3,11,37,0,"Driving Layup Shot","2PT Field Goal",4,"Houston Rockets",-35,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,4,4,40,0,"Driving Layup Shot","2PT Field Goal",0,"Chicago Bulls",-3,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,2,6,25,0,"Driving Layup Shot","2PT Field Goal",2,"Washington Wizards",17,24,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,4,1,50,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-11,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-26,2017,3136195,1610612750,400975652,4,3,33,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",9,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,3,8,36,0,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",-11,-10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-22,2017,3136195,1610612750,400975012,3,9,15,1,"Driving Layup Shot","2PT Field Goal",1,"Orlando Magic",10,0,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,2,2,35,1,"Driving Layup Shot","2PT Field Goal",0,"Washington Wizards",5,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-29,2017,3136195,1610612750,400975485,3,6,27,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",3,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-29,2017,3136195,1610612750,400975485,4,1,51,1,"Driving Layup Shot","2PT Field Goal",5,"Atlanta Hawks",-2,59,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,4,4,42,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",8,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,2,7,52,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-11,-7,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,2,4,58,0,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-13,-3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,4,10,24,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",8,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,4,8,19,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",-20,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,4,11,01,1,"Driving Layup Shot","2PT Field Goal",4,"Portland Trail Blazers",-43,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,2,1,40,0,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",-27,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,1,5,14,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",17,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,3,3,52,0,"Driving Layup Shot","2PT Field Goal",7,"San Antonio Spurs",-71,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,4,9,15,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",10,25,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,2,6,01,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-5,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,2,3,20,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",-2,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-30,2017,3136195,1610612750,400975492,2,2,24,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",16,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-24,2017,3136195,1610612750,400975454,1,9,48,1,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",8,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,4,4,56,0,"Driving Layup Shot","2PT Field Goal",0,"Sacramento Kings",-7,7,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-24,2017,3136195,1610612750,400975454,4,6,11,0,"Driving Layup Shot","2PT Field Goal",3,"Portland Trail Blazers",35,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-20,2017,3136195,1610612750,400975426,4,8,49,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",14,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,2,2,57,0,"Driving Layup Shot","2PT Field Goal",9,"San Antonio Spurs",94,27,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,1,7,37,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",17,0,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,2,2,13,1,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",-3,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,4,5,13,0,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",22,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,4,9,48,0,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",1,26,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-14,2017,3136195,1610612750,400975383,3,8,38,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-2,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,3,2,21,1,"Dunk Shot","2PT Field Goal",1,"Philadelphia 76ers",8,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,2,7,27,1,"Dunk Shot","2PT Field Goal",2,"Indiana Pacers",2,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,3,3,17,0,"Dunk Shot","2PT Field Goal",0,"Denver Nuggets",6,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-01,2017,3136195,1610612750,400974864,3,9,22,0,"Dunk Shot","2PT Field Goal",1,"New Orleans Pelicans",-5,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-08,2017,3136195,1610612750,400975340,4,10,01,1,"Dunk Shot","2PT Field Goal",1,"Cleveland Cavaliers",-2,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,4,10,22,1,"Dunk Shot","2PT Field Goal",1,"Washington Wizards",-5,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,4,8,21,1,"Dunk Shot","2PT Field Goal",1,"Houston Rockets",-11,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,2,11,23,0,"Dunk Shot","2PT Field Goal",0,"Miami Heat",-4,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,1,8,53,1,"Dunk Shot","2PT Field Goal",1,"Utah Jazz",11,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,3,10,11,0,"Dunk Shot","2PT Field Goal",2,"Brooklyn Nets",29,-5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,1,11,41,1,"Dunk Shot","2PT Field Goal",0,"New York Knicks",0,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-20,2017,3136195,1610612750,400974775,4,6,01,1,"Dunk Shot","2PT Field Goal",0,"Utah Jazz",2,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,2,2,30,0,"Dunk Shot","2PT Field Goal",1,"Brooklyn Nets",-8,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-02,2017,3136195,1610612750,400975680,1,10,27,1,"Dunk Shot","2PT Field Goal",1,"Utah Jazz",6,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,2,4,27,1,"Dunk Shot","2PT Field Goal",1,"Oklahoma City Thunder",0,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,1,9,31,1,"Dunk Shot","2PT Field Goal",1,"New York Knicks",6,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,3,6,09,1,"Dunk Shot","2PT Field Goal",0,"New York Knicks",-5,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,2,6,16,1,"Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,-7,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,4,6,19,1,"Dunk Shot","2PT Field Goal",0,"Washington Wizards",2,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,2,0,31,0,"Dunk Shot","2PT Field Goal",1,"New Orleans Pelicans",12,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,1,10,53,1,"Dunk Shot","2PT Field Goal",1,"Oklahoma City Thunder",-11,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,4,1,23,0,"Dunk Shot","2PT Field Goal",4,"Los Angeles Clippers",1,42,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,4,0,06,1,"Dunk Shot","2PT Field Goal",1,"San Antonio Spurs",5,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,3,5,37,1,"Dunk Shot","2PT Field Goal",1,"Chicago Bulls",-2,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,2,9,24,1,"Dunk Shot","2PT Field Goal",1,"San Antonio Spurs",0,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,4,8,54,1,"Dunk Shot","2PT Field Goal",1,"Indiana Pacers",-6,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,4,11,00,1,"Dunk Shot","2PT Field Goal",0,"Phoenix Suns",6,-2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,2,5,05,1,"Dunk Shot","2PT Field Goal",1,"Brooklyn Nets",12,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,3,5,23,1,"Dunk Shot","2PT Field Goal",1,"Golden State Warriors",-7,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,2,4,48,1,"Dunk Shot","2PT Field Goal",0,"Denver Nuggets",-5,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,4,9,37,1,"Dunk Shot","2PT Field Goal",2,"Utah Jazz",-24,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,1,7,00,1,"Dunk Shot","2PT Field Goal",0,"Golden State Warriors",-2,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,2,4,46,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Detroit Pistons",110,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,2,3,11,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",121,26,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-08,2017,3136195,1610612750,400974914,3,4,35,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Golden State Warriors",130,52,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,2,7,55,0,"Fadeaway Jump Shot","2PT Field Goal",12,"New York Knicks",-128,-5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,1,1,31,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-169,52,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,1,10,44,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Denver Nuggets",-130,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,2,8,02,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",125,41,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,2,7,40,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Boston Celtics",0,145,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,1,2,36,0,"Fadeaway Jump Shot","2PT Field Goal",12,"San Antonio Spurs",128,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-22,2017,3136195,1610612750,400975441,1,11,45,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",136,41,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-30,2017,3136195,1610612750,400975492,3,7,29,0,"Fadeaway Jump Shot","2PT Field Goal",21,"Toronto Raptors",-179,116,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-02,2017,3136195,1610612750,400975680,1,4,13,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Utah Jazz",81,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,3,4,27,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Houston Rockets",-121,100,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-22,2017,3136195,1610612750,400975441,4,3,05,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",-79,166,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-20,2017,3136195,1610612750,400974775,2,0,42,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Utah Jazz",111,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,2,10,06,1,"Finger Roll Layup Shot","2PT Field Goal",1,"San Antonio Spurs",8,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-08,2017,3136195,1610612750,400975340,3,9,46,1,"Finger Roll Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-1,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-10,2017,3136195,1610612750,400975357,4,7,14,0,"Finger Roll Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",13,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,3,7,57,0,"Floating Jump shot","2PT Field Goal",7,"Dallas Mavericks",-72,27,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-10,2017,3136195,1610612750,400975357,2,1,27,1,"Floating Jump shot","2PT Field Goal",5,"Oklahoma City Thunder",14,53,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,2,0,00,1,"Floating Jump shot","2PT Field Goal",10,"Dallas Mavericks",-60,85,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,1,7,05,1,"Floating Jump shot","2PT Field Goal",1,"Houston Rockets",-2,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-04,2017,3136195,1610612750,400975096,2,4,59,1,"Floating Jump shot","2PT Field Goal",7,"Memphis Grizzlies",-12,78,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,1,6,15,0,"Floating Jump shot","2PT Field Goal",12,"Houston Rockets",-109,63,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-10,2017,3136195,1610612750,400975357,1,6,21,0,"Floating Jump shot","2PT Field Goal",5,"Oklahoma City Thunder",-24,52,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-10,2017,3136195,1610612750,400975357,1,6,48,0,"Floating Jump shot","2PT Field Goal",5,"Oklahoma City Thunder",-36,45,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-29,2017,3136195,1610612750,400975485,4,8,01,1,"Floating Jump shot","2PT Field Goal",5,"Atlanta Hawks",-50,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,4,0,32,1,"Floating Jump shot","2PT Field Goal",8,"Golden State Warriors",-7,85,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,3,4,34,1,"Floating Jump shot","2PT Field Goal",9,"Denver Nuggets",-7,95,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,2,5,33,1,"Hook Bank Shot","2PT Field Goal",4,"Houston Rockets",14,40,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,4,8,31,0,"Hook Bank Shot","2PT Field Goal",7,"Los Angeles Lakers",76,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,2,9,32,0,"Hook Shot","2PT Field Goal",8,"Memphis Grizzlies",-80,30,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,1,11,20,0,"Hook Shot","2PT Field Goal",7,"Memphis Grizzlies",-27,75,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,2,2,30,1,"Hook Shot","2PT Field Goal",7,"Indiana Pacers",-55,48,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,3,4,53,0,"Hook Shot","2PT Field Goal",7,"Denver Nuggets",-57,43,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,2,11,40,0,"Hook Shot","2PT Field Goal",6,"Utah Jazz",54,38,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,3,2,42,1,"Hook Shot","2PT Field Goal",6,"Memphis Grizzlies",63,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-30,2017,3136195,1610612750,400974844,5,4,40,0,"Hook Shot","2PT Field Goal",11,"Miami Heat",111,-21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,1,6,12,0,"Hook Shot","2PT Field Goal",6,"Memphis Grizzlies",25,57,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,1,5,58,0,"Hook Shot","2PT Field Goal",5,"Orlando Magic",-30,41,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,3,11,25,0,"Hook Shot","2PT Field Goal",4,"Philadelphia 76ers",-41,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,2,7,38,1,"Hook Shot","2PT Field Goal",7,"Utah Jazz",0,73,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-26,2017,3136195,1610612750,400975652,3,9,43,1,"Hook Shot","2PT Field Goal",1,"Sacramento Kings",-10,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,1,8,00,1,"Hook Shot","2PT Field Goal",5,"Sacramento Kings",-51,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,3,6,27,1,"Hook Shot","2PT Field Goal",5,"Portland Trail Blazers",-32,42,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-20,2017,3136195,1610612750,400974992,4,6,17,1,"Hook Shot","2PT Field Goal",6,"Charlotte Hornets",-5,60,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,3,6,21,1,"Hook Shot","2PT Field Goal",5,"Utah Jazz",-32,39,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,1,11,23,0,"Hook Shot","2PT Field Goal",7,"Sacramento Kings",-30,66,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,1,9,18,1,"Hook Shot","2PT Field Goal",6,"Philadelphia 76ers",-1,65,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-26,2017,3136195,1610612750,400975652,2,5,48,1,"Hook Shot","2PT Field Goal",5,"Sacramento Kings",0,50,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-29,2017,3136195,1610612750,400975060,1,6,24,0,"Hook Shot","2PT Field Goal",4,"New Orleans Pelicans",-44,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,3,8,31,1,"Hook Shot","2PT Field Goal",6,"New York Knicks",2,64,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,3,10,40,1,"Hook Shot","2PT Field Goal",6,"Atlanta Hawks",54,43,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-20,2017,3136195,1610612750,400974775,2,6,44,1,"Hook Shot","2PT Field Goal",6,"Utah Jazz",16,60,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,4,4,37,1,"Hook Shot","2PT Field Goal",5,"Miami Heat",0,50,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,1,11,26,0,"Hook Shot","2PT Field Goal",5,"Denver Nuggets",-32,50,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,2,6,32,0,"Hook Shot","2PT Field Goal",6,"Detroit Pistons",62,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,3,7,29,1,"Hook Shot","2PT Field Goal",6,"Washington Wizards",62,2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,1,8,52,0,"Hook Shot","2PT Field Goal",7,"Memphis Grizzlies",76,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,2,11,05,1,"Hook Shot","2PT Field Goal",2,"Washington Wizards",-22,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,3,4,10,1,"Hook Shot","2PT Field Goal",5,"Brooklyn Nets",-4,56,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,3,11,46,1,"Hook Shot","2PT Field Goal",3,"Denver Nuggets",0,38,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-01,2017,3136195,1610612750,400974864,1,11,45,0,"Hook Shot","2PT Field Goal",7,"New Orleans Pelicans",5,74,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,1,3,20,1,"Hook Shot","2PT Field Goal",5,"Boston Celtics",-2,59,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,4,11,16,1,"Hook Shot","2PT Field Goal",2,"Denver Nuggets",2,28,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,1,5,46,1,"Hook Shot","2PT Field Goal",9,"Houston Rockets",-79,46,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,3,8,28,0,"Hook Shot","2PT Field Goal",7,"Oklahoma City Thunder",-66,28,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,1,4,33,1,"Hook Shot","2PT Field Goal",5,"Denver Nuggets",56,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-27,2017,3136195,1610612750,400975256,1,11,42,0,"Hook Shot","2PT Field Goal",8,"Denver Nuggets",-29,79,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,2,5,54,1,"Hook Shot","2PT Field Goal",6,"Milwaukee Bucks",-55,40,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,4,5,04,0,"Hook Shot","2PT Field Goal",5,"Orlando Magic",29,50,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,3,9,29,1,"Hook Shot","2PT Field Goal",7,"Denver Nuggets",-65,36,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,1,7,41,1,"Hook Shot","2PT Field Goal",2,"New York Knicks",-2,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,4,2,03,0,"Hook Shot","2PT Field Goal",8,"New York Knicks",-2,80,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-08,2017,3136195,1610612750,400975340,1,4,08,0,"Hook Shot","2PT Field Goal",9,"Cleveland Cavaliers",93,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,3,4,48,1,"Hook Shot","2PT Field Goal",4,"Denver Nuggets",-8,44,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,2,11,33,1,"Hook Shot","2PT Field Goal",11,"Phoenix Suns",-96,58,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-22,2017,3136195,1610612750,400975012,2,4,33,1,"Hook Shot","2PT Field Goal",1,"Orlando Magic",2,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,4,4,29,1,"Hook Shot","2PT Field Goal",2,"Brooklyn Nets",25,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-20,2017,3136195,1610612750,400974775,2,7,19,1,"Hook Shot","2PT Field Goal",12,"Utah Jazz",-95,79,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,4,8,03,1,"Hook Shot","2PT Field Goal",7,"Indiana Pacers",-5,73,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,2,0,28,0,"Hook Shot","2PT Field Goal",5,"Phoenix Suns",4,59,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-01,2017,3136195,1610612750,400974864,4,11,42,0,"Hook Shot","2PT Field Goal",8,"New Orleans Pelicans",-6,80,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,4,7,07,1,"Hook Shot","2PT Field Goal",9,"Indiana Pacers",92,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-22,2017,3136195,1610612750,400975012,3,11,47,0,"Hook Shot","2PT Field Goal",5,"Orlando Magic",21,48,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,3,11,03,1,"Hook Shot","2PT Field Goal",4,"New York Knicks",2,47,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,2,10,54,0,"Hook Shot","2PT Field Goal",8,"Los Angeles Clippers",-34,83,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-05,2017,3136195,1610612750,400974894,1,4,45,1,"Hook Shot","2PT Field Goal",6,"Charlotte Hornets",-38,58,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,2,5,06,1,"Hook Shot","2PT Field Goal",8,"Atlanta Hawks",-7,83,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,2,2,21,1,"Hook Shot","2PT Field Goal",10,"Los Angeles Clippers",-79,69,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,2,10,00,0,"Hook Shot","2PT Field Goal",9,"Phoenix Suns",-13,92,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,4,3,17,1,"Hook Shot","2PT Field Goal",2,"Los Angeles Lakers",-11,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,1,10,25,1,"Hook Shot","2PT Field Goal",3,"Golden State Warriors",-5,30,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,4,5,06,1,"Hook Shot","2PT Field Goal",5,"Chicago Bulls",-47,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,2,1,50,1,"Hook Shot","2PT Field Goal",3,"Brooklyn Nets",24,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,2,7,54,1,"Hook Shot","2PT Field Goal",13,"New York Knicks",128,49,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,2,0,50,1,"Hook Shot","2PT Field Goal",4,"Chicago Bulls",41,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,1,4,42,1,"Hook Shot","2PT Field Goal",6,"Los Angeles Clippers",30,63,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,2,3,07,1,"Hook Shot","2PT Field Goal",6,"Los Angeles Clippers",18,65,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,2,8,47,0,"Hook Shot","2PT Field Goal",5,"Golden State Warriors",1,56,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,2,9,52,1,"Hook Shot","2PT Field Goal",7,"Houston Rockets",70,24,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,1,11,18,1,"Hook Shot","2PT Field Goal",6,"Houston Rockets",60,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,1,11,46,0,"Hook Shot","2PT Field Goal",6,"Chicago Bulls",56,31,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,1,10,08,0,"Hook Shot","2PT Field Goal",8,"Houston Rockets",-29,80,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,1,8,04,1,"Hook Shot","2PT Field Goal",5,"Dallas Mavericks",9,53,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-01,2017,3136195,1610612750,400974864,4,2,43,0,"Hook Shot","2PT Field Goal",6,"New Orleans Pelicans",60,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,3,11,33,1,"Hook Shot","2PT Field Goal",3,"Houston Rockets",-28,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,3,9,31,1,"Hook Shot","2PT Field Goal",7,"Memphis Grizzlies",-55,47,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,2,6,30,1,"Hook Shot","2PT Field Goal",2,"Portland Trail Blazers",0,25,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,2,7,34,0,"Hook Shot","2PT Field Goal",6,"Orlando Magic",-23,65,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,1,3,37,1,"Jump Bank Shot","2PT Field Goal",6,"New York Knicks",50,43,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,4,9,01,1,"Jump Bank Shot","2PT Field Goal",1,"Chicago Bulls",5,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-10,2017,3136195,1610612750,400975357,1,10,57,1,"Jump Bank Shot","2PT Field Goal",7,"Oklahoma City Thunder",56,55,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,3,6,25,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-221,117,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-28,2017,3136195,1610612750,400975264,4,7,23,0,"Jump Shot","3PT Field Goal",28,"Milwaukee Bucks",-83,269,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,2,11,25,1,"Jump Shot","3PT Field Goal",22,"Los Angeles Clippers",-222,-13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-07,2017,3136195,1610612750,400975553,4,0,54,1,"Jump Shot","3PT Field Goal",31,"Cleveland Cavaliers",-114,294,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,1,10,12,1,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",-134,34,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,3,4,18,0,"Jump Shot","2PT Field Goal",13,"Dallas Mavericks",-8,133,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,1,4,59,1,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",202,64,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,2,5,15,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-107,242,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,1,6,26,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",112,232,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,3,6,01,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-230,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,2,9,31,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",-158,65,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,3,7,02,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",209,135,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,3,9,48,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",36,246,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,4,8,14,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",111,231,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,2,5,23,1,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-10,151,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,2,7,52,1,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-207,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,2,11,16,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",43,251,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,2,2,17,1,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-222,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,3,7,46,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",47,164,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,4,8,24,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-43,249,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,1,4,07,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",17,253,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,1,11,16,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",29,261,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,3,9,36,1,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-223,-16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,3,5,50,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",234,-19,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,2,2,44,0,"Jump Shot","2PT Field Goal",4,"Dallas Mavericks",-3,45,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-28,2017,3136195,1610612750,400975264,1,7,59,1,"Jump Shot","3PT Field Goal",28,"Milwaukee Bucks",41,278,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-28,2017,3136195,1610612750,400975264,2,6,45,1,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",106,153,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-28,2017,3136195,1610612750,400975264,2,6,05,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-223,106,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-28,2017,3136195,1610612750,400975264,2,0,34,0,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",193,194,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-28,2017,3136195,1610612750,400975264,1,11,19,1,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-230,19,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-28,2017,3136195,1610612750,400975264,4,4,19,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",31,262,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-28,2017,3136195,1610612750,400975264,4,0,47,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",216,148,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,2,10,49,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-131,214,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,2,4,01,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",0,251,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,2,7,46,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",42,247,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-28,2017,3136195,1610612750,400975264,3,8,48,0,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",-2,270,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,4,1,16,1,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-223,39,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,4,9,13,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-1,249,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-07,2017,3136195,1610612750,400975553,3,9,01,1,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",5,265,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-07,2017,3136195,1610612750,400975553,3,5,19,1,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-164,52,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-07,2017,3136195,1610612750,400975553,2,3,44,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",232,26,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-07,2017,3136195,1610612750,400975553,1,5,15,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",50,253,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-07,2017,3136195,1610612750,400975553,4,5,10,1,"Jump Shot","3PT Field Goal",22,"Cleveland Cavaliers",226,32,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-07,2017,3136195,1610612750,400975553,1,6,57,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-4,252,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,1,7,31,1,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-228,-1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,5,0,00,1,"Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",-30,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,5,3,28,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-62,240,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,2,8,45,1,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",-202,2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,4,5,37,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-20,246,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,1,4,37,0,"Jump Shot","2PT Field Goal",6,"Philadelphia 76ers",-51,33,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,4,7,35,0,"Jump Shot","2PT Field Goal",5,"Philadelphia 76ers",17,53,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,3,10,08,0,"Jump Shot","2PT Field Goal",9,"Philadelphia 76ers",41,88,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,1,8,10,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",11,247,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,2,6,37,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-132,220,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,1,4,54,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",117,224,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,4,2,42,0,"Jump Shot","2PT Field Goal",23,"Los Angeles Clippers",-72,221,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,1,7,46,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",24,252,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,3,10,33,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",11,253,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,2,3,08,1,"Jump Shot","3PT Field Goal",22,"Phoenix Suns",-229,1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,3,4,05,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",144,143,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,3,11,25,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-231,112,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,1,11,42,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",-160,34,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-14,2017,3136195,1610612750,400975383,2,4,24,1,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-3,205,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,2,0,01,0,"Jump Shot","2PT Field Goal",8,"Houston Rockets",9,85,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,4,6,51,0,"Jump Shot","2PT Field Goal",14,"Atlanta Hawks",-141,25,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,2,8,09,1,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-147,81,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,2,4,00,1,"Jump Shot","2PT Field Goal",21,"Orlando Magic",-122,172,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,4,0,00,0,"Jump Shot","3PT Field Goal",71,"Washington Wizards",-7,710,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-14,2017,3136195,1610612750,400975383,2,11,18,0,"Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",71,-16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-14,2017,3136195,1610612750,400975383,1,5,41,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-126,226,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-14,2017,3136195,1610612750,400975383,3,7,06,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-15,251,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-14,2017,3136195,1610612750,400975383,4,10,11,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",187,67,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-14,2017,3136195,1610612750,400975383,3,4,02,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",44,245,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-14,2017,3136195,1610612750,400975383,4,7,28,1,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",71,135,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,4,11,30,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",15,269,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,1,5,14,1,"Jump Shot","3PT Field Goal",27,"Utah Jazz",154,222,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,3,9,36,1,"Jump Shot","3PT Field Goal",22,"Utah Jazz",-228,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,2,4,13,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",24,250,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,3,10,20,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",22,253,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,2,7,24,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-42,246,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,4,4,38,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-2,251,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,4,5,33,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",-36,258,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,2,10,13,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-29,248,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,2,2,46,0,"Jump Shot","2PT Field Goal",6,"Atlanta Hawks",60,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,3,2,41,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",45,247,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,2,1,05,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",163,188,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,4,11,04,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",40,253,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,4,11,32,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-152,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-30,2017,3136195,1610612750,400974844,5,3,03,1,"Jump Shot","3PT Field Goal",23,"Miami Heat",-232,-8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,3,4,38,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-19,253,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,3,7,52,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",-166,26,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,2,9,17,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",134,32,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-05,2017,3136195,1610612750,400974894,3,9,35,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-54,168,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-05,2017,3136195,1610612750,400974894,3,9,54,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-144,220,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-05,2017,3136195,1610612750,400974894,4,5,43,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-83,253,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-05,2017,3136195,1610612750,400974894,1,9,47,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",19,245,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-05,2017,3136195,1610612750,400974894,3,5,51,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-25,257,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,3,11,04,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",74,243,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,1,9,35,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",220,108,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,4,4,53,0,"Jump Shot","2PT Field Goal",4,"Washington Wizards",9,49,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,1,5,35,0,"Jump Shot","2PT Field Goal",5,"Washington Wizards",50,19,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,4,1,05,1,"Jump Shot","3PT Field Goal",22,"Orlando Magic",-222,-2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,4,8,54,0,"Jump Shot","2PT Field Goal",12,"Orlando Magic",122,40,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,1,10,24,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",90,240,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,1,6,24,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-156,200,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,3,5,33,1,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",-103,188,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-30,2017,3136195,1610612750,400974844,1,10,39,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",-165,63,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,1,4,13,0,"Jump Shot","2PT Field Goal",1,"Milwaukee Bucks",3,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,2,4,31,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-5,252,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,3,8,48,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",115,220,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,4,8,26,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-15,248,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,1,9,44,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",107,223,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,3,11,16,1,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",224,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,1,10,29,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-14,254,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,2,8,03,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-229,2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-20,2017,3136195,1610612750,400974992,2,3,12,1,"Jump Shot","2PT Field Goal",2,"Charlotte Hornets",-3,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-20,2017,3136195,1610612750,400974992,2,3,59,0,"Jump Shot","3PT Field Goal",28,"Charlotte Hornets",27,283,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-20,2017,3136195,1610612750,400974992,4,2,34,0,"Jump Shot","3PT Field Goal",27,"Charlotte Hornets",-206,181,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-20,2017,3136195,1610612750,400974992,4,6,45,1,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",-23,100,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-20,2017,3136195,1610612750,400974992,3,3,34,0,"Jump Shot","2PT Field Goal",4,"Charlotte Hornets",2,41,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-20,2017,3136195,1610612750,400974992,1,3,21,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",136,106,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-20,2017,3136195,1610612750,400974992,2,5,37,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",190,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-20,2017,3136195,1610612750,400974992,4,4,49,0,"Jump Shot","3PT Field Goal",28,"Charlotte Hornets",129,254,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,4,10,31,1,"Jump Shot","2PT Field Goal",17,"Boston Celtics",-170,57,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,2,9,06,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",192,35,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,3,11,29,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-152,210,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,4,9,59,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-190,184,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,1,9,57,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-73,247,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,4,7,45,1,"Jump Shot","3PT Field Goal",23,"Boston Celtics",230,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,4,4,17,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-16,245,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,4,11,05,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-8,257,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,4,8,29,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-112,217,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,1,7,39,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",176,179,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,1,8,40,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-70,239,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,2,1,13,1,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",221,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,2,6,29,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-151,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-24,2017,3136195,1610612750,400975454,2,4,53,1,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",60,258,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-24,2017,3136195,1610612750,400975454,3,10,44,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",3,246,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-24,2017,3136195,1610612750,400975454,1,3,50,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-125,216,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-24,2017,3136195,1610612750,400975454,2,0,29,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-73,248,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-30,2017,3136195,1610612750,400974844,1,5,47,1,"Jump Shot","3PT Field Goal",27,"Miami Heat",105,253,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-04,2017,3136195,1610612750,400975096,4,6,02,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",165,71,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-04,2017,3136195,1610612750,400975096,2,10,12,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-229,90,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-04,2017,3136195,1610612750,400975096,4,5,29,0,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",224,-2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-04,2017,3136195,1610612750,400975096,4,0,43,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",166,37,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-02,2017,3136195,1610612750,400975680,2,9,11,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-20,247,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-02,2017,3136195,1610612750,400975680,1,9,30,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",176,69,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,4,11,14,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-105,225,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,2,5,49,1,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-3,151,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-30,2017,3136195,1610612750,400974844,4,0,00,0,"Jump Shot","3PT Field Goal",22,"Miami Heat",-222,-12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-30,2017,3136195,1610612750,400974844,3,3,50,1,"Jump Shot","3PT Field Goal",26,"Miami Heat",0,264,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-30,2017,3136195,1610612750,400974844,3,4,36,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",-47,177,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,4,2,05,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",-159,62,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,4,4,47,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",51,253,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,1,11,26,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",160,208,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,1,9,21,0,"Jump Shot","2PT Field Goal",4,"Golden State Warriors",25,34,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,1,9,00,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",116,231,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,4,2,51,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",173,195,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,3,8,37,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",82,244,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,1,9,55,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-183,177,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,1,8,33,1,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",207,-11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,1,9,05,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-123,218,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,3,3,40,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-1,262,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,2,6,29,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",-4,53,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,1,7,25,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",226,51,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,4,7,01,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",44,251,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,1,9,35,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-62,248,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,2,2,13,1,"Jump Shot","2PT Field Goal",11,"Indiana Pacers",116,27,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,3,9,58,1,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-192,71,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-22,2017,3136195,1610612750,400975012,3,11,11,1,"Jump Shot","3PT Field Goal",22,"Orlando Magic",223,-4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,2,3,48,1,"Jump Shot","2PT Field Goal",7,"Houston Rockets",67,35,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-08,2017,3136195,1610612750,400975340,2,2,49,0,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-145,31,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,4,8,27,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",222,128,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,4,9,24,0,"Jump Shot","2PT Field Goal",11,"Indiana Pacers",-56,96,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,1,10,48,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-226,115,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,3,10,47,0,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",140,235,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,3,11,19,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",82,249,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,3,5,09,0,"Jump Shot","2PT Field Goal",8,"Indiana Pacers",-78,32,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-29,2017,3136195,1610612750,400975060,2,4,48,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-6,257,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-29,2017,3136195,1610612750,400975060,2,10,12,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-6,261,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,1,3,08,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-22,197,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,4,1,16,1,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-41,215,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-08,2017,3136195,1610612750,400974914,3,7,02,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",22,262,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-09,2017,3136195,1610612750,400975568,4,1,52,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",98,173,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-09,2017,3136195,1610612750,400975568,3,7,03,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-183,47,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-09,2017,3136195,1610612750,400975568,4,0,06,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-123,227,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-08,2017,3136195,1610612750,400974914,1,10,24,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-67,243,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-08,2017,3136195,1610612750,400974914,1,7,41,0,"Jump Shot","2PT Field Goal",7,"Golden State Warriors",7,77,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-08,2017,3136195,1610612750,400974914,3,7,32,1,"Jump Shot","3PT Field Goal",27,"Golden State Warriors",-47,272,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-08,2017,3136195,1610612750,400974914,3,9,59,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",0,167,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-08,2017,3136195,1610612750,400974914,1,5,34,0,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",-223,52,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-08,2017,3136195,1610612750,400975340,3,4,38,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-235,49,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-08,2017,3136195,1610612750,400975340,1,11,28,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-124,216,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,4,3,49,1,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-168,74,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,1,10,41,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",16,263,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,4,4,47,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-126,237,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,2,4,23,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-41,252,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,3,10,01,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-21,246,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,2,7,36,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",9,254,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,4,4,59,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",106,218,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,1,10,37,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",0,254,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,3,6,09,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-96,232,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,1,5,26,0,"Jump Shot","2PT Field Goal",7,"Phoenix Suns",3,78,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,3,7,27,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-89,229,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,3,6,32,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-232,59,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,4,5,50,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",29,258,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,4,0,35,1,"Jump Shot","2PT Field Goal",5,"San Antonio Spurs",57,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,1,11,14,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",-113,169,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,2,3,04,1,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",180,90,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,1,9,13,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",-129,100,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,4,4,00,0,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",-18,260,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,3,9,11,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",59,258,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,3,11,24,1,"Jump Shot","3PT Field Goal",29,"Indiana Pacers",-142,258,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,1,4,48,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",187,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,1,8,56,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-148,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,4,5,54,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-30,251,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,2,6,25,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",30,252,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,4,6,59,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-231,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,1,7,31,0,"Jump Shot","2PT Field Goal",11,"Miami Heat",65,94,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,1,7,31,0,"Jump Shot","3PT Field Goal",27,"Houston Rockets",-55,271,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,2,1,44,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",121,226,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,1,6,16,1,"Jump Shot","2PT Field Goal",18,"Houston Rockets",-182,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,2,3,57,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-128,236,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,4,5,14,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",24,243,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,2,1,12,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-21,262,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,2,2,49,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-43,260,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,2,0,59,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-214,127,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,4,5,58,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",226,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,3,11,01,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",2,257,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,2,9,26,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-91,242,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,1,6,39,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",73,246,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,4,8,26,1,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",227,-9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,1,5,42,0,"Jump Shot","3PT Field Goal",22,"Miami Heat",-226,-1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,3,11,17,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-60,248,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,1,8,50,0,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",-71,64,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-17,2017,3136195,1610612750,400974975,3,3,29,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",131,218,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-17,2017,3136195,1610612750,400974975,2,5,05,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",230,78,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-17,2017,3136195,1610612750,400974975,3,9,34,1,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",-79,252,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-17,2017,3136195,1610612750,400974975,2,6,08,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",27,263,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-17,2017,3136195,1610612750,400974975,1,6,08,0,"Jump Shot","2PT Field Goal",13,"Dallas Mavericks",-116,69,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-17,2017,3136195,1610612750,400974975,1,8,29,1,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",163,62,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,1,4,44,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-8,257,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,4,10,20,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",4,259,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,2,0,45,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",116,241,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,3,4,35,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",16,241,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-23,2017,3136195,1610612750,400975241,4,8,22,1,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-147,221,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-20,2017,3136195,1610612750,400974775,1,10,42,1,"Jump Shot","2PT Field Goal",14,"Utah Jazz",-18,146,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-23,2017,3136195,1610612750,400975241,2,4,09,1,"Jump Shot","2PT Field Goal",23,"Phoenix Suns",107,204,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-23,2017,3136195,1610612750,400975241,3,8,27,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-35,262,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-23,2017,3136195,1610612750,400975241,2,11,28,1,"Jump Shot","2PT Field Goal",14,"Phoenix Suns",9,147,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-22,2017,3136195,1610612750,400975012,2,1,13,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-168,185,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-22,2017,3136195,1610612750,400975012,2,4,57,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-135,210,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,3,4,55,1,"Jump Shot","2PT Field Goal",23,"Chicago Bulls",-62,223,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,2,9,34,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",121,229,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,2,0,34,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",39,250,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,2,7,33,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-233,26,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,3,8,31,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-143,226,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,1,10,22,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",1,253,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,3,10,18,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",27,178,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,4,2,37,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-126,230,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,3,4,16,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",15,260,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-20,2017,3136195,1610612750,400974775,1,6,11,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-101,247,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,2,7,26,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-196,40,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-20,2017,3136195,1610612750,400974775,3,9,49,0,"Jump Shot","2PT Field Goal",16,"Utah Jazz",161,34,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,3,11,26,0,"Jump Shot","3PT Field Goal",22,"Chicago Bulls",-229,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,1,9,48,0,"Jump Shot","2PT Field Goal",2,"Chicago Bulls",16,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,2,11,29,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-235,0,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,3,3,25,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-156,203,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,3,7,15,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-14,267,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,3,1,38,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-109,235,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-20,2017,3136195,1610612750,400974775,3,7,21,0,"Jump Shot","2PT Field Goal",16,"Utah Jazz",152,69,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-20,2017,3136195,1610612750,400974775,1,7,29,0,"Jump Shot","2PT Field Goal",15,"Utah Jazz",144,50,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,2,7,01,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-93,243,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,2,3,18,0,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",-148,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,3,9,32,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",159,200,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,2,8,53,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-182,49,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-20,2017,3136195,1610612750,400974775,2,1,19,1,"Jump Shot","2PT Field Goal",5,"Utah Jazz",51,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-25,2017,3136195,1610612750,400974449,4,9,12,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",81,248,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-10,2017,3136195,1610612750,400975357,4,2,58,1,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-208,-15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-25,2017,3136195,1610612750,400974449,1,11,02,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-45,262,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-25,2017,3136195,1610612750,400974449,3,7,09,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-76,258,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-25,2017,3136195,1610612750,400974449,1,11,27,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-217,141,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-25,2017,3136195,1610612750,400974449,1,7,48,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",245,39,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-25,2017,3136195,1610612750,400974449,3,7,45,1,"Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",1,135,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-25,2017,3136195,1610612750,400974449,2,4,13,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",119,84,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-25,2017,3136195,1610612750,400974449,3,10,56,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",-11,273,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,1,10,14,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",92,240,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,3,8,53,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-2,260,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-20,2017,3136195,1610612750,400975426,4,1,43,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",54,252,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,3,10,26,1,"Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",2,54,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,1,8,46,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",144,205,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,4,4,55,0,"Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",-12,64,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,4,5,39,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",223,47,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,4,4,50,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",239,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,1,9,08,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-226,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,3,11,50,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",-154,94,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,3,10,39,0,"Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",-34,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,1,9,55,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-147,208,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,1,10,53,0,"Jump Shot","2PT Field Goal",5,"New Orleans Pelicans",-48,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,4,2,38,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",123,220,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,2,0,50,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",63,257,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,1,7,15,0,"Jump Shot","2PT Field Goal",10,"Detroit Pistons",-103,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,4,6,56,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",30,257,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,4,3,41,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-80,235,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,4,8,00,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",23,198,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,2,7,04,0,"Jump Shot","2PT Field Goal",5,"Brooklyn Nets",-55,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,2,8,19,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-18,256,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,1,11,09,1,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",-87,259,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,3,10,27,0,"Jump Shot","3PT Field Goal",22,"Miami Heat",222,-18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,2,8,10,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-122,208,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-10,2017,3136195,1610612750,400975357,4,8,34,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",145,211,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-10,2017,3136195,1610612750,400975357,2,5,35,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",16,241,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-10,2017,3136195,1610612750,400975357,2,6,56,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",23,248,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,2,11,17,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",-231,27,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,4,4,26,0,"Jump Shot","2PT Field Goal",22,"New York Knicks",-49,217,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,1,8,24,0,"Jump Shot","3PT Field Goal",22,"New York Knicks",-225,-10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,1,4,47,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",22,257,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,1,9,28,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-188,179,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,4,4,09,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-171,193,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,1,6,49,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-48,246,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,4,1,14,0,"Jump Shot","3PT Field Goal",22,"Phoenix Suns",227,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,2,4,04,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",1,257,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,3,6,42,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",4,259,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,3,11,10,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-138,221,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,4,6,58,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",122,221,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,4,3,18,1,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",-207,76,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,2,10,28,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",6,257,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,2,8,39,0,"Jump Shot","2PT Field Goal",10,"Sacramento Kings",17,104,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,2,5,15,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-2,252,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,3,6,55,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-14,249,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,4,0,19,0,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",-225,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,1,10,40,1,"Jump Shot","2PT Field Goal",4,"Sacramento Kings",6,42,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,1,7,16,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-3,252,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,3,11,36,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-167,187,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,4,10,01,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-104,112,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,2,8,20,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-16,247,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,1,8,36,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-7,252,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,3,10,29,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",99,227,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,1,8,30,0,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",-117,254,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-20,2017,3136195,1610612750,400975426,3,7,46,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-79,247,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-29,2017,3136195,1610612750,400975485,4,9,15,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-78,235,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-29,2017,3136195,1610612750,400975485,4,6,28,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-95,234,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-26,2017,3136195,1610612750,400975652,2,9,27,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",163,126,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-26,2017,3136195,1610612750,400975652,2,7,53,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",57,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-26,2017,3136195,1610612750,400975652,1,7,20,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-9,184,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,4,10,24,0,"Jump Shot","3PT Field Goal",22,"Brooklyn Nets",221,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,4,5,09,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",172,174,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,2,10,07,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-29,250,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,2,5,04,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",0,247,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,2,10,31,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-10,251,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,2,1,45,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",82,237,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,4,7,57,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",20,258,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,2,8,34,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",140,230,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,4,9,10,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",-8,251,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,1,4,44,0,"Jump Shot","2PT Field Goal",4,"New York Knicks",-15,42,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,4,7,52,1,"Jump Shot","2PT Field Goal",11,"New York Knicks",13,116,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,3,3,27,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-137,220,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,3,11,33,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",-14,256,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,4,8,58,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-11,252,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,2,6,42,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-21,248,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,2,0,08,0,"Jump Shot","2PT Field Goal",5,"Houston Rockets",20,47,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,2,4,22,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",50,248,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-27,2017,3136195,1610612750,400975256,1,9,56,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-95,235,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-27,2017,3136195,1610612750,400975256,3,4,35,1,"Jump Shot","2PT Field Goal",7,"Denver Nuggets",-14,69,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-27,2017,3136195,1610612750,400975256,3,8,02,1,"Jump Shot","2PT Field Goal",7,"Denver Nuggets",-11,79,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-27,2017,3136195,1610612750,400975256,1,5,38,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",123,225,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-27,2017,3136195,1610612750,400975256,3,11,27,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-191,-4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-27,2017,3136195,1610612750,400975256,2,4,56,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-92,229,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-27,2017,3136195,1610612750,400975256,1,11,16,1,"Jump Shot","2PT Field Goal",12,"Denver Nuggets",34,117,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-22,2017,3136195,1610612750,400975441,3,6,37,0,"Jump Shot","3PT Field Goal",28,"Los Angeles Clippers",128,251,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,4,9,18,1,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",-41,178,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,4,5,52,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-7,254,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,3,4,38,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",11,261,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,4,11,48,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",63,258,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,2,3,34,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",156,201,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,4,10,49,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-7,256,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,3,2,57,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-52,248,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,4,5,11,0,"Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",-29,121,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,4,8,41,0,"Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",97,31,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,3,5,54,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",231,-13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,2,9,00,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-79,241,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-26,2017,3136195,1610612750,400975852,4,1,32,0,"Jump Shot","3PT Field Goal",27,"Memphis Grizzlies",8,272,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,4,8,47,0,"Jump Shot","2PT Field Goal",8,"Denver Nuggets",-79,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,5,2,07,0,"Jump Shot","2PT Field Goal",7,"Denver Nuggets",79,2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,2,0,58,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-3,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,1,5,13,1,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",9,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,3,6,32,0,"Layup Shot","2PT Field Goal",3,"Houston Rockets",-16,31,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,2,5,13,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",1,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,1,6,32,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",6,19,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-30,2017,3136195,1610612750,400975492,3,5,30,0,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-13,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,3,1,22,1,"Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",-22,33,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,4,7,24,1,"Layup Shot","2PT Field Goal",3,"Houston Rockets",-29,26,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,4,2,50,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",5,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-14,2017,3136195,1610612750,400975383,2,2,08,0,"Layup Shot","2PT Field Goal",6,"Portland Trail Blazers",4,65,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,4,1,14,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",5,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,2,1,36,1,"Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",-24,31,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,4,4,33,1,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",8,25,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,1,5,10,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",9,19,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,3,2,42,0,"Layup Shot","2PT Field Goal",0,"Denver Nuggets",8,-1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,3,6,27,1,"Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-4,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,2,2,26,0,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-3,29,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,2,7,54,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",1,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,1,6,19,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-4,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,1,1,16,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",18,19,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,5,1,12,0,"Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",-3,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,3,11,33,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-5,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,4,2,02,1,"Layup Shot","2PT Field Goal",5,"Miami Heat",-32,43,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,4,1,07,1,"Layup Shot","2PT Field Goal",0,"Miami Heat",-3,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,3,4,19,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-17,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-07,2017,3136195,1610612750,400975553,2,1,31,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",6,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,1,10,46,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-5,29,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,2,0,35,1,"Layup Shot","2PT Field Goal",3,"Golden State Warriors",5,30,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,4,5,55,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",8,27,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-10,2017,3136195,1610612750,400975357,1,7,07,0,"Layup Shot","2PT Field Goal",7,"Oklahoma City Thunder",32,68,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,3,9,20,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-5,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,4,5,54,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",2,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,1,1,37,1,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",2,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,1,10,52,0,"Layup Shot","2PT Field Goal",5,"New York Knicks",-40,30,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,3,9,16,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",4,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-23,2017,3136195,1610612750,400975827,1,5,25,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",3,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,2,1,28,1,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",8,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,2,1,32,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-13,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,2,2,43,1,"Layup Shot","2PT Field Goal",0,"Utah Jazz",-6,-3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,1,4,10,1,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-2,2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,4,8,43,0,"Layup Shot","2PT Field Goal",4,"Utah Jazz",-42,25,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-24,2017,3136195,1610612750,400975454,3,3,40,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-14,1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,2,7,00,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-2,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,1,5,51,1,"Layup Shot","2PT Field Goal",17,"Sacramento Kings",-128,126,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,3,4,28,1,"Layup Shot","2PT Field Goal",3,"Sacramento Kings",13,33,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,1,4,35,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-14,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,2,2,19,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-5,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-24,2017,3136195,1610612750,400975454,1,9,24,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,4,7,52,1,"Layup Shot","2PT Field Goal",3,"Dallas Mavericks",-17,26,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,2,5,07,0,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",12,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,2,2,09,1,"Layup Shot","2PT Field Goal",4,"Denver Nuggets",-10,45,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,4,2,29,0,"Layup Shot","2PT Field Goal",5,"Denver Nuggets",53,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,1,2,55,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-2,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,2,5,03,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,1,9,53,0,"Layup Shot","2PT Field Goal",3,"Philadelphia 76ers",25,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,1,6,27,0,"Layup Shot","2PT Field Goal",0,"Dallas Mavericks",6,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,2,0,56,1,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-6,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,4,6,08,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",4,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-20,2017,3136195,1610612750,400975426,3,7,09,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",18,23,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,1,10,43,0,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-10,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,1,5,05,0,"Layup Shot","2PT Field Goal",3,"Orlando Magic",29,27,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,3,10,12,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",3,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,4,9,49,0,"Layup Shot","2PT Field Goal",5,"Washington Wizards",-1,50,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,3,6,43,1,"Layup Shot","2PT Field Goal",0,"Houston Rockets",8,2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,4,9,48,0,"Layup Shot","2PT Field Goal",5,"Phoenix Suns",0,50,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,1,5,03,1,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",19,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-05,2017,3136195,1610612750,400974894,1,7,14,1,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",-4,0,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,2,5,50,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",9,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,2,0,38,1,"Layup Shot","2PT Field Goal",3,"Atlanta Hawks",-24,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,3,5,17,1,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",4,29,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,1,11,43,0,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-13,25,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,2,11,03,1,"Layup Shot","2PT Field Goal",0,"Phoenix Suns",-9,2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,3,5,53,0,"Layup Shot","2PT Field Goal",5,"Detroit Pistons",-52,7,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,1,3,56,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",0,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,3,7,53,0,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",-27,-3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,2,2,04,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",-18,-1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,3,9,33,1,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",3,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,3,7,17,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",3,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,4,6,31,0,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",-4,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,3,4,30,0,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",13,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,2,1,06,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",13,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,1,7,44,0,"Layup Shot","2PT Field Goal",3,"New York Knicks",3,31,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,2,4,33,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",23,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,4,8,04,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",1,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,4,2,06,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-13,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,1,9,47,0,"Layup Shot","2PT Field Goal",9,"Houston Rockets",3,93,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,4,10,37,0,"Layup Shot","2PT Field Goal",3,"Chicago Bulls",-16,26,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,2,1,09,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",-13,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,1,6,46,0,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",15,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,3,3,11,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-6,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,1,11,46,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-13,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,1,2,38,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",1,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,4,7,54,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",2,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,2,11,30,1,"Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",8,29,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,1,8,30,0,"Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",8,36,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,2,11,05,0,"Layup Shot","2PT Field Goal",4,"Phoenix Suns",11,44,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,3,10,37,0,"Layup Shot","2PT Field Goal",3,"Chicago Bulls",-6,31,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,2,1,51,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",12,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,2,10,05,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",13,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,1,6,01,0,"Layup Shot","2PT Field Goal",3,"Atlanta Hawks",-20,32,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,4,8,57,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",8,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,4,11,41,0,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",-2,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-08,2017,3136195,1610612750,400975340,2,4,20,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",1,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-08,2017,3136195,1610612750,400974914,3,6,46,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",9,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-20,2017,3136195,1610612750,400974775,4,1,59,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",-14,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,3,6,50,1,"Layup Shot","2PT Field Goal",0,"Houston Rockets",-3,0,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,4,4,17,1,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-6,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,3,10,26,0,"Layup Shot","2PT Field Goal",6,"Houston Rockets",-35,50,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-09,2017,3136195,1610612750,400975568,4,5,20,0,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",2,19,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-29,2017,3136195,1610612750,400975060,1,10,11,0,"Layup Shot","2PT Field Goal",6,"New Orleans Pelicans",-29,62,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-29,2017,3136195,1610612750,400975060,1,6,20,1,"Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",3,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,3,4,23,1,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-2,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,1,8,37,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",25,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,2,10,47,0,"Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",-26,19,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,3,7,38,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",-6,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,4,11,23,1,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",3,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,3,6,04,0,"Pullup Jump shot","2PT Field Goal",11,"Oklahoma City Thunder",3,116,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,2,6,59,1,"Pullup Jump shot","2PT Field Goal",6,"Sacramento Kings",30,53,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,1,10,52,0,"Pullup Jump shot","2PT Field Goal",19,"Brooklyn Nets",-26,198,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,4,10,57,1,"Pullup Jump shot","3PT Field Goal",25,"Denver Nuggets",-149,201,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-08,2017,3136195,1610612750,400975340,2,6,14,1,"Pullup Jump shot","2PT Field Goal",17,"Cleveland Cavaliers",12,177,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-27,2017,3136195,1610612750,400975256,4,2,00,0,"Pullup Jump shot","2PT Field Goal",16,"Denver Nuggets",-27,159,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,1,9,38,1,"Pullup Jump shot","2PT Field Goal",19,"Denver Nuggets",-5,192,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-18,2017,3136195,1610612750,400975411,1,7,03,1,"Pullup Jump shot","2PT Field Goal",10,"Houston Rockets",38,96,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,2,11,49,1,"Pullup Jump shot","3PT Field Goal",24,"Denver Nuggets",41,241,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,2,5,03,0,"Pullup Jump shot","2PT Field Goal",10,"Los Angeles Clippers",56,89,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,3,5,42,0,"Pullup Jump shot","2PT Field Goal",19,"Utah Jazz",51,184,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-20,2017,3136195,1610612750,400975426,4,9,59,1,"Putback Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,1,7,47,1,"Putback Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,3,4,39,1,"Putback Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,4,9,57,0,"Putback Dunk Shot","2PT Field Goal",1,"Indiana Pacers",-14,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,3,4,59,1,"Putback Dunk Shot","2PT Field Goal",1,"Brooklyn Nets",5,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-01,2017,3136195,1610612750,400974864,4,4,45,1,"Putback Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-08,2017,3136195,1610612750,400975340,3,8,16,1,"Putback Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,4,1,52,0,"Putback Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,2,5,32,1,"Putback Dunk Shot","2PT Field Goal",1,"Memphis Grizzlies",7,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,2,8,35,1,"Putback Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,3,0,02,1,"Putback Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-10,2017,3136195,1610612750,400975357,4,6,08,1,"Putback Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,1,10,05,1,"Putback Dunk Shot","2PT Field Goal",2,"Oklahoma City Thunder",-4,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,3,4,32,1,"Putback Layup Shot","2PT Field Goal",1,"Houston Rockets",-1,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,2,9,45,1,"Putback Layup Shot","2PT Field Goal",2,"Orlando Magic",6,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-12,2017,3136195,1610612750,400975152,5,4,01,0,"Putback Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",-2,1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,4,4,25,0,"Putback Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-5,2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,4,4,08,1,"Putback Layup Shot","2PT Field Goal",0,"Atlanta Hawks",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-17,2017,3136195,1610612750,400974975,4,4,57,1,"Putback Layup Shot","2PT Field Goal",0,"Dallas Mavericks",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,1,8,38,0,"Putback Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-21,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,2,1,06,1,"Putback Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,0,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,3,2,12,1,"Putback Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,3,9,20,0,"Putback Layup Shot","2PT Field Goal",0,"Phoenix Suns",0,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-30,2017,3136195,1610612750,400974844,1,5,00,1,"Putback Layup Shot","2PT Field Goal",4,"Miami Heat",-31,27,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-20,2017,3136195,1610612750,400974992,4,4,14,1,"Putback Layup Shot","2PT Field Goal",4,"Charlotte Hornets",-6,44,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,3,10,41,1,"Putback Layup Shot","2PT Field Goal",0,"San Antonio Spurs",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,2,2,05,1,"Putback Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",4,12,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,1,10,49,1,"Putback Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-13,-4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,1,11,21,1,"Putback Layup Shot","2PT Field Goal",0,"Denver Nuggets",-3,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,2,3,46,1,"Putback Layup Shot","2PT Field Goal",1,"Indiana Pacers",7,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-05,2017,3136195,1610612750,400974894,2,1,43,1,"Putback Layup Shot","2PT Field Goal",1,"Charlotte Hornets",2,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,4,9,21,1,"Putback Layup Shot","2PT Field Goal",1,"Houston Rockets",-2,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,4,9,47,1,"Putback Layup Shot","2PT Field Goal",2,"Phoenix Suns",0,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,1,9,52,1,"Putback Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-4,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,2,1,14,1,"Putback Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-29,2017,3136195,1610612750,400975485,2,6,40,1,"Putback Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-3,7,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,1,11,12,1,"Putback Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-5,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,4,9,47,0,"Putback Layup Shot","2PT Field Goal",0,"Phoenix Suns",-4,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,3,5,45,1,"Putback Layup Shot","2PT Field Goal",1,"Sacramento Kings",-5,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,1,8,46,1,"Reverse Dunk Shot","2PT Field Goal",0,"Phoenix Suns",1,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-02,2017,3136195,1610612750,400975680,1,7,34,1,"Reverse Layup Shot","2PT Field Goal",1,"Utah Jazz",12,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,1,11,33,1,"Reverse Layup Shot","2PT Field Goal",1,"Denver Nuggets",13,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-12,2017,3136195,1610612750,400975369,2,4,29,1,"Reverse Layup Shot","2PT Field Goal",1,"New York Knicks",5,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-05,2017,3136195,1610612750,400974894,2,4,52,0,"Reverse Layup Shot","2PT Field Goal",3,"Charlotte Hornets",16,30,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,1,11,08,1,"Running Alley Oop Layup Shot","2PT Field Goal",0,"Orlando Magic",-1,1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-01,2017,3136195,1610612750,400974864,1,9,26,0,"Running Dunk Shot","2PT Field Goal",2,"New Orleans Pelicans",0,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,2,6,10,1,"Running Dunk Shot","2PT Field Goal",1,"Denver Nuggets",6,9,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,4,8,39,1,"Running Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",1,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,1,6,23,1,"Running Dunk Shot","2PT Field Goal",1,"Golden State Warriors",-4,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-25,2017,3136195,1610612750,400974449,4,10,17,1,"Running Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",16,-11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,1,5,46,0,"Running Jump Shot","2PT Field Goal",4,"Dallas Mavericks",27,38,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,2,11,44,1,"Running Jump Shot","2PT Field Goal",8,"Sacramento Kings",36,80,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-22,2017,3136195,1610612750,400974790,4,7,02,1,"Running Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-8,-8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,2,1,46,1,"Running Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",24,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,4,6,42,1,"Running Layup Shot","2PT Field Goal",0,"Phoenix Suns",5,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,3,10,09,1,"Running Layup Shot","2PT Field Goal",0,"Dallas Mavericks",6,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,3,11,44,1,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-11,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-23,2017,3136195,1610612750,400975241,1,8,01,1,"Running Reverse Layup Shot","2PT Field Goal",0,"Phoenix Suns",2,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,2,10,00,1,"Step Back Jump shot","2PT Field Goal",14,"Chicago Bulls",111,96,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,2,4,07,1,"Step Back Jump shot","2PT Field Goal",15,"Sacramento Kings",-155,-11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,1,11,43,0,"Step Back Jump shot","2PT Field Goal",15,"Phoenix Suns",-154,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,3,4,39,0,"Step Back Jump shot","2PT Field Goal",20,"San Antonio Spurs",63,199,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,4,10,18,0,"Step Back Jump shot","2PT Field Goal",21,"Phoenix Suns",-55,212,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,1,7,51,1,"Step Back Jump shot","2PT Field Goal",16,"Houston Rockets",-140,83,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,3,5,26,1,"Step Back Jump shot","2PT Field Goal",14,"Sacramento Kings",145,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,2,10,00,1,"Step Back Jump shot","2PT Field Goal",14,"Sacramento Kings",148,24,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,4,0,43,0,"Step Back Jump shot","3PT Field Goal",25,"Washington Wizards",151,209,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,2,6,30,0,"Step Back Jump shot","2PT Field Goal",15,"San Antonio Spurs",67,137,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-01,2017,3136195,1610612750,400975294,4,8,22,1,"Step Back Jump shot","2PT Field Goal",13,"Los Angeles Lakers",134,-10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,3,3,32,0,"Step Back Jump shot","2PT Field Goal",20,"San Antonio Spurs",101,176,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,4,4,03,1,"Step Back Jump shot","3PT Field Goal",25,"New Orleans Pelicans",-8,252,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,2,3,00,1,"Step Back Jump shot","2PT Field Goal",18,"Indiana Pacers",23,179,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,3,6,22,1,"Step Back Jump shot","2PT Field Goal",16,"Washington Wizards",-164,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,1,7,04,1,"Step Back Jump shot","2PT Field Goal",17,"San Antonio Spurs",21,170,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,2,9,20,0,"Step Back Jump shot","3PT Field Goal",26,"Utah Jazz",-123,235,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,2,6,44,1,"Step Back Jump shot","2PT Field Goal",21,"Dallas Mavericks",29,209,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-22,2017,3136195,1610612750,400975012,3,4,29,1,"Tip Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,2,4,35,1,"Tip Dunk Shot","2PT Field Goal",1,"Denver Nuggets",0,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,2,10,28,1,"Tip Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-30,2017,3136195,1610612750,400975492,4,1,37,1,"Tip Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,3,10,33,1,"Tip Layup Shot","2PT Field Goal",0,"Phoenix Suns",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,4,6,17,1,"Tip Layup Shot","2PT Field Goal",0,"Denver Nuggets",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-20,2017,3136195,1610612750,400975213,2,5,26,0,"Tip Layup Shot","2PT Field Goal",0,"Denver Nuggets",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,2,1,04,0,"Tip Layup Shot","2PT Field Goal",0,"Utah Jazz",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,1,8,51,1,"Tip Layup Shot","2PT Field Goal",0,"Dallas Mavericks",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,1,6,10,1,"Tip Layup Shot","2PT Field Goal",0,"Dallas Mavericks",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-08,2017,3136195,1610612750,400974914,3,8,55,1,"Tip Layup Shot","2PT Field Goal",0,"Golden State Warriors",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-22,2017,3136195,1610612750,400975441,2,6,19,0,"Tip Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,4,11,26,0,"Tip Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",5,4,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,1,4,14,1,"Tip Layup Shot","2PT Field Goal",0,"Dallas Mavericks",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,1,7,02,1,"Tip Layup Shot","2PT Field Goal",0,"Houston Rockets",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,4,10,41,1,"Tip Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,4,6,01,0,"Tip Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",5,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,3,8,13,0,"Tip Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-5,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-03,2017,3136195,1610612750,400975526,1,8,28,1,"Tip Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,4,1,19,1,"Tip Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-24,2017,3136195,1610612750,400975634,3,6,50,1,"Tip Layup Shot","2PT Field Goal",0,"Chicago Bulls",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,3,5,42,1,"Tip Layup Shot","2PT Field Goal",0,"Brooklyn Nets",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-14,2017,3136195,1610612750,400975167,3,5,45,0,"Tip Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,4,3,06,0,"Tip Layup Shot","2PT Field Goal",0,"Golden State Warriors",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,3,1,47,0,"Tip Layup Shot","2PT Field Goal",0,"Golden State Warriors",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-24,2017,3136195,1610612750,400975454,1,2,46,1,"Tip Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,4,10,25,1,"Tip Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,1,11,18,1,"Turnaround Bank Hook Shot","2PT Field Goal",7,"Utah Jazz",-64,34,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-04,2017,3136195,1610612750,400974885,3,8,25,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",4,"Dallas Mavericks",44,18,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,2,7,43,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",2,"San Antonio Spurs",22,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-30,2017,3136195,1610612750,400975492,3,6,54,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",3,"Toronto Raptors",-24,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,3,10,08,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",8,"Brooklyn Nets",79,28,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-13,2017,3136195,1610612750,400974948,4,10,14,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",6,"Utah Jazz",-51,47,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,3,4,21,1,"Turnaround Fadeaway shot","2PT Field Goal",19,"Boston Celtics",-160,111,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,1,11,21,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Portland Trail Blazers",1,153,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,1,5,08,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Boston Celtics",23,140,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,4,9,16,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Atlanta Hawks",-108,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,3,10,24,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Los Angeles Clippers",-103,37,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,2,3,54,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Indiana Pacers",169,-10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,1,8,49,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Orlando Magic",-2,97,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,3,7,45,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Phoenix Suns",4,122,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,1,10,09,0,"Turnaround Fadeaway shot","2PT Field Goal",17,"Denver Nuggets",130,115,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,2,5,57,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Phoenix Suns",21,112,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,3,7,38,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Golden State Warriors",-34,115,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-16,2017,3136195,1610612750,400975395,3,11,40,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Orlando Magic",-122,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-07,2017,3136195,1610612750,400975553,4,8,45,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Cleveland Cavaliers",-121,91,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,4,3,20,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Miami Heat",-18,113,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,2,3,29,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Brooklyn Nets",-134,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,4,10,15,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Phoenix Suns",111,79,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,2,1,58,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Indiana Pacers",-111,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,2,3,32,1,"Turnaround Fadeaway shot","2PT Field Goal",17,"Detroit Pistons",79,161,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,1,11,24,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Denver Nuggets",-109,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,2,9,02,0,"Turnaround Fadeaway shot","2PT Field Goal",8,"Phoenix Suns",-25,84,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-22,2017,3136195,1610612750,400975012,4,3,33,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Orlando Magic",-110,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,1,7,13,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Los Angeles Clippers",-144,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-15,2017,0,1610612750,0,3,7,13,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"San Antonio Spurs",-96,36,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,2,1,57,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Atlanta Hawks",-125,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,4,3,10,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Atlanta Hawks",-123,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-29,2017,3136195,1610612750,400975060,1,7,59,1,"Turnaround Fadeaway shot","2PT Field Goal",16,"New Orleans Pelicans",116,119,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,3,6,47,1,"Turnaround Hook Shot","2PT Field Goal",7,"San Antonio Spurs",71,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,1,5,37,0,"Turnaround Hook Shot","2PT Field Goal",6,"Dallas Mavericks",66,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-22,2017,3136195,1610612750,400975012,3,6,07,0,"Turnaround Hook Shot","2PT Field Goal",7,"Orlando Magic",-67,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-22,2017,3136195,1610612750,400975012,1,11,15,0,"Turnaround Hook Shot","2PT Field Goal",6,"Orlando Magic",-2,64,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-22,2017,3136195,1610612750,400975441,4,8,43,1,"Turnaround Hook Shot","2PT Field Goal",5,"Los Angeles Clippers",51,5,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-27,2017,3136195,1610612750,400974825,1,4,44,0,"Turnaround Hook Shot","2PT Field Goal",6,"Oklahoma City Thunder",67,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,3,9,57,0,"Turnaround Hook Shot","2PT Field Goal",11,"Dallas Mavericks",-54,99,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-01,2017,3136195,1610612750,400975671,4,0,11,0,"Turnaround Hook Shot","2PT Field Goal",2,"Portland Trail Blazers",21,16,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,2,8,01,0,"Turnaround Hook Shot","2PT Field Goal",9,"Dallas Mavericks",-74,61,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,4,6,32,1,"Turnaround Hook Shot","2PT Field Goal",8,"Houston Rockets",81,39,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,3,10,42,0,"Turnaround Hook Shot","2PT Field Goal",7,"Houston Rockets",74,8,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,2,7,22,0,"Turnaround Hook Shot","2PT Field Goal",8,"Houston Rockets",-5,85,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-10,2017,3136195,1610612750,400975139,1,5,19,1,"Turnaround Hook Shot","2PT Field Goal",7,"Dallas Mavericks",74,24,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,2,4,31,1,"Turnaround Hook Shot","2PT Field Goal",9,"Los Angeles Clippers",-76,59,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,4,6,12,0,"Turnaround Hook Shot","2PT Field Goal",6,"San Antonio Spurs",-43,46,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,1,7,45,1,"Turnaround Hook Shot","2PT Field Goal",5,"Brooklyn Nets",57,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-19,2017,3136195,1610612750,400974989,1,4,58,1,"Turnaround Hook Shot","2PT Field Goal",4,"Detroit Pistons",1,43,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-03,2017,3136195,1610612750,400975303,2,2,05,1,"Turnaround Hook Shot","2PT Field Goal",7,"Brooklyn Nets",-43,62,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,1,7,40,0,"Turnaround Hook Shot","2PT Field Goal",10,"Los Angeles Lakers",-28,100,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-08,2017,3136195,1610612750,400975340,1,5,57,1,"Turnaround Hook Shot","2PT Field Goal",4,"Cleveland Cavaliers",2,41,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,2,6,32,0,"Turnaround Hook Shot","2PT Field Goal",2,"Houston Rockets",17,11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-27,2017,3136195,1610612750,400975475,2,3,46,1,"Turnaround Hook Shot","2PT Field Goal",4,"Brooklyn Nets",-7,41,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-29,2017,3136195,1610612750,400975485,1,5,27,1,"Turnaround Hook Shot","2PT Field Goal",8,"Atlanta Hawks",79,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,1,11,43,1,"Turnaround Hook Shot","2PT Field Goal",9,"Sacramento Kings",89,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,4,4,56,1,"Turnaround Hook Shot","2PT Field Goal",8,"Houston Rockets",-73,42,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,1,6,30,0,"Turnaround Hook Shot","2PT Field Goal",6,"Philadelphia 76ers",62,-1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-24,2017,3136195,1610612750,400975834,1,2,25,0,"Turnaround Hook Shot","2PT Field Goal",6,"Philadelphia 76ers",-22,58,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,3,9,18,0,"Turnaround Hook Shot","2PT Field Goal",5,"Los Angeles Lakers",6,59,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,1,11,14,1,"Turnaround Hook Shot","2PT Field Goal",9,"Houston Rockets",81,47,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,2,6,38,1,"Turnaround Hook Shot","2PT Field Goal",6,"Golden State Warriors",-2,64,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-25,2017,3136195,1610612750,400974449,4,8,56,1,"Turnaround Hook Shot","2PT Field Goal",4,"Los Angeles Lakers",-18,38,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-17,2017,3136195,1610612750,400975788,2,1,35,0,"Turnaround Hook Shot","2PT Field Goal",6,"San Antonio Spurs",-59,29,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-09,2017,3136195,1610612750,400975955,2,7,09,1,"Turnaround Hook Shot","2PT Field Goal",8,"Memphis Grizzlies",85,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,4,5,51,0,"Turnaround Hook Shot","2PT Field Goal",11,"Boston Celtics",-67,99,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-05,2017,3136195,1610612750,400975316,2,7,08,0,"Turnaround Hook Shot","2PT Field Goal",8,"Boston Celtics",7,83,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,4,11,46,1,"Turnaround Hook Shot","2PT Field Goal",7,"Phoenix Suns",3,74,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-18,2017,3136195,1610612750,400974440,3,9,09,1,"Turnaround Hook Shot","2PT Field Goal",9,"San Antonio Spurs",-55,83,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-03,2017,3136195,1610612750,400975087,4,7,40,0,"Turnaround Hook Shot","2PT Field Goal",5,"Los Angeles Clippers",57,2,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,1,10,20,0,"Turnaround Hook Shot","2PT Field Goal",9,"Phoenix Suns",-86,37,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,4,3,19,1,"Turnaround Hook Shot","2PT Field Goal",8,"Denver Nuggets",-81,15,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,2,10,46,0,"Turnaround Hook Shot","2PT Field Goal",4,"Denver Nuggets",-47,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,3,9,55,0,"Turnaround Hook Shot","2PT Field Goal",7,"Oklahoma City Thunder",-68,32,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-05,2017,3136195,1610612750,400975926,3,11,41,1,"Turnaround Hook Shot","2PT Field Goal",9,"Denver Nuggets",98,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-01,2017,3136195,1610612750,400975075,4,8,02,0,"Turnaround Hook Shot","2PT Field Goal",6,"Oklahoma City Thunder",-60,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-17,2017,3136195,1610612750,400974975,2,7,22,1,"Turnaround Hook Shot","2PT Field Goal",4,"Dallas Mavericks",25,38,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,3,5,43,0,"Turnaround Hook Shot","2PT Field Goal",7,"Dallas Mavericks",-72,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,1,9,04,1,"Turnaround Hook Shot","2PT Field Goal",9,"Atlanta Hawks",-77,62,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-30,2017,3136195,1610612750,400975880,1,11,45,0,"Turnaround Hook Shot","2PT Field Goal",8,"Dallas Mavericks",83,10,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,4,6,51,1,"Turnaround Jump Shot","2PT Field Goal",6,"Utah Jazz",-27,59,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,1,11,43,0,"Turnaround Jump Shot","2PT Field Goal",8,"Phoenix Suns",-81,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-28,2017,3136195,1610612750,400975051,1,8,56,1,"Turnaround Jump Shot","2PT Field Goal",3,"Washington Wizards",-4,35,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,1,5,08,1,"Turnaround Jump Shot","2PT Field Goal",10,"Indiana Pacers",-101,43,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,3,4,39,0,"Turnaround Jump Shot","2PT Field Goal",8,"Phoenix Suns",82,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,2,0,57,1,"Turnaround Jump Shot","2PT Field Goal",2,"Houston Rockets",8,22,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-25,2017,3136195,1610612750,400974807,2,7,30,0,"Turnaround Jump Shot","2PT Field Goal",15,"Detroit Pistons",-156,-21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-20,2017,3136195,1610612750,400975806,2,4,06,1,"Turnaround Jump Shot","2PT Field Goal",8,"Los Angeles Clippers",83,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,3,11,45,0,"Turnaround Jump Shot","2PT Field Goal",18,"Houston Rockets",-183,43,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,3,4,13,1,"Turnaround Jump Shot","2PT Field Goal",9,"Atlanta Hawks",-84,48,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-11,2017,3136195,1610612750,400975584,1,9,00,1,"Turnaround Jump Shot","2PT Field Goal",10,"Sacramento Kings",3,103,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-24,2017,3136195,1610612750,400975023,2,6,11,0,"Turnaround Jump Shot","2PT Field Goal",10,"Miami Heat",101,43,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-10-24,2017,3136195,1610612750,400974803,3,11,31,1,"Turnaround Jump Shot","2PT Field Goal",6,"Indiana Pacers",57,21,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,3,11,48,0,"Turnaround Jump Shot","2PT Field Goal",12,"Atlanta Hawks",122,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-09,2017,3136195,1610612750,400975568,2,2,54,1,"Turnaround Jump Shot","2PT Field Goal",9,"Chicago Bulls",90,20,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,2,7,19,0,"Turnaround Jump Shot","2PT Field Goal",13,"Houston Rockets",-139,-11,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,2,8,09,0,"Turnaround Jump Shot","2PT Field Goal",7,"Houston Rockets",79,1,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,4,3,28,1,"Turnaround Jump Shot","2PT Field Goal",7,"Houston Rockets",-76,-6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,1,11,28,1,"Turnaround Jump Shot","2PT Field Goal",10,"Indiana Pacers",-64,78,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-29,2017,3136195,1610612750,400975060,1,4,46,1,"Turnaround Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-152,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,1,11,21,1,"Turnaround Jump Shot","2PT Field Goal",6,"Houston Rockets",-62,0,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-31,2017,0,1610612750,0,2,1,55,0,"Turnaround Jump Shot","2PT Field Goal",7,"Indiana Pacers",-71,3,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,2,6,56,0,"Turnaround Jump Shot","2PT Field Goal",8,"Phoenix Suns",79,25,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,3,9,36,1,"Turnaround Jump Shot","2PT Field Goal",10,"Utah Jazz",101,40,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-28,2017,3136195,1610612750,400975866,4,9,49,0,"Turnaround Jump Shot","2PT Field Goal",7,"Atlanta Hawks",2,78,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-27,2017,3136195,1610612750,400975256,3,10,06,0,"Turnaround Jump Shot","2PT Field Goal",5,"Denver Nuggets",-58,6,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-11,2017,3136195,1610612750,400975971,1,4,50,1,"Turnaround Jump Shot","2PT Field Goal",8,"Denver Nuggets",49,72,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-25,2017,3136195,1610612750,400975459,1,4,36,1,"Turnaround Jump Shot","2PT Field Goal",14,"Golden State Warriors",-135,62,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-06,2017,3136195,1610612750,400975113,3,6,29,1,"Turnaround Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",40,174,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-01,2017,3136195,1610612750,400975509,1,8,29,0,"Turnaround Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",139,95,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,2,6,24,1,"Turnaround Jump Shot","2PT Field Goal",8,"Houston Rockets",79,14,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-23,2017,3136195,1610612750,400975623,1,11,40,0,"Turnaround Jump Shot","2PT Field Goal",6,"Houston Rockets",61,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-01,2017,3136195,1610612750,400975897,4,9,41,0,"Turnaround Jump Shot","2PT Field Goal",14,"Utah Jazz",-136,51,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-12-16,2017,3136195,1610612750,400975185,2,9,27,0,"Turnaround Jump Shot","2PT Field Goal",8,"Phoenix Suns",-88,17,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-02-13,2017,3136195,1610612750,400975595,2,6,00,0,"Turnaround Jump Shot","2PT Field Goal",7,"Houston Rockets",-42,66,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-01-14,2017,3136195,1610612750,400975383,3,9,36,1,"Turnaround Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-188,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-04-06,2017,3136195,1610612750,400975936,1,11,39,0,"Turnaround Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-130,109,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-11,2017,3136195,1610612750,400974937,1,11,39,0,"Turnaround Jump Shot","2PT Field Goal",12,"Phoenix Suns",-120,35,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2017-11-26,2017,3136195,1610612750,400975039,2,0,32,0,"Turnaround Jump Shot","2PT Field Goal",6,"Phoenix Suns",63,13,0,0.00,,0.00,0.00
+"KarlAnthony Towns","Minnesota Timberwolves",2018-03-18,2017,3136195,1610612750,400975794,1,7,28,0,"Turnaround Jump Shot","2PT Field Goal",17,"Houston Rockets",170,-11,0,0.00,,0.00,0.00

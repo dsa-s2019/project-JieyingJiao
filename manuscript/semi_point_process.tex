@@ -1,0 +1,126 @@
+
+\title{Bayesian Semiparametric Model for Spatial Nonhomogeneous Poisson Process with Applications}
+\author{Jieying Jiao, Jun Yan, Guanyu Hu \footnote{\baselineskip=10pt (to whom correspondence should be addressed), Email: {guanyu.hu@uconn.edu}, Department of Statistics, University of Connecticut}}
+\date{\today}
+
+\documentclass[12pt]{article}
+ \linespread{1}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{amsmath,amsthm,amssymb,bm}
+\usepackage{float}
+\usepackage{cases}
+\usepackage{mathrsfs}
+\usepackage{amsmath}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{natbib}
+\usepackage{pdflscape}
+\usepackage{booktabs,caption}
+\usepackage{color}
+
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{remark}{Remark}
+\newcommand{\onen}{\frac{1}{n}}
+\newcommand{\onenr}{\frac{1}{nr}}
+\newcommand{\op}{o_{P}(1)}
+\newcommand{\ud}{\mathrm{d}}
+\newcommand{\Fn}{\mathcal{D}_N}
+\newcommand{\sumn}{\sum_{i=1}^{n}}
+\newcommand{\oner}{\frac{1}{r}}%
+\newcommand{\sumr}{\sum_{i=1}^{r}}%
+\newcommand{\partiald}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\tp}{^{\rm T}}
+\newcommand{\tr}{\mathrm{tr}}
+\newcommand{\cvp}{\xrightarrow{P}}
+\newcommand{\cvd}{\xrightarrow{D}}
+\renewcommand{\Pr}{\mathbb{P}}
+\newcommand{\Exp}{\mathbb{E}}
+\newcommand{\Nor}{\mathbb{N}}
+\newcommand{\Var}{\mathbb{V}}
+\newcommand{\mle}{\mathrm{mle}}
+\newcommand{\opt}{\mathrm{opt}}
+\newcommand{\bpi}{\bm{\eta}}
+\newcommand{\blue}[1]{{\textcolor{blue}{#1}}}
+\newcommand{\red}[1]{{\textcolor{red}{#1}}}
+\RequirePackage[colorlinks,citecolor=blue,urlcolor=blue]{hyperref}
+\newcommand{\R}[1]{{\textsf{#1}}}
+\newcommand{\abs}[1]{\left\vert#1\right\vert}
+\def\m{\mathcal}
+\begin{document}
+\maketitle
+\begin{abstract}
+
+\end{abstract}
+
+\section{Introduction}\label{sec:intro}
+\section{Methodology}\label{sec:method}
+\subsection{Spatial Poisson Process}
+
+\subsection{Chinese Restaurant Process }
+The natural semiparametric model for $\lambda(s)$ is to give gamma Dirichlet Process prior on $u_i$. Let $\m U_{n, k} = \big\{(u_1, \ldots, u_n) : u_i \in \{1, \ldots, k\}, 1 \le i \le n \big\}$ denote all possible clusterings of $n$ observations into $k$ clusters, where $u_i \in \{1, \ldots, k\}$ denotes the cluster assignment of the $i$th observation. The Chinese restaurant process (CRP)\citep{pitman1995exchangeable, neal2000markov} offer choices to allow uncertainty in the number of clusters by assigning a prior distribution on $(u_1, u_2, \ldots, u_n)$. In CRP, $u_i, i=2, \ldots, n$ are defined through the following conditional distribution  (also called a P\'{o}lya urn scheme \cite{blackwell1973ferguson})
+\begin{eqnarray}\label{eq:crp}
+P(u_{i} = c \mid u_{1}, \ldots, u_{i-1})  \propto
+\begin{cases}
+\abs{c}  , \quad  \text{at an existing cluster labeled}\, c\\
+\alpha,  \quad \quad \quad \, \text{at a new cluster}.
+\end{cases}
+\end{eqnarray}
+
+	CRP: As customers enter, they may sit at an occupied table with probability proportionate to how many customers are already seated there, or they may sit at an unoccupied table with probability proportionate to $\alpha$. Also, at each table, a dish is selected and shared by the customers seated there; this is analogous to a draw $\theta$ from the base measure H. We can also see from this example that the distribution does not depend on the ordering in which the customers arrived; this is the property of exchangeability. This way, each customer can be treated independently, as if they were the last to arrive; this is a useful property for Gibbs sampling in Dirichlet Processes.
+
+
+\subsection{Bayesian Semiparametric Model}
+\subsection{Bayesian Variable Selection}
+\section{Computation}\label{sec:bayes_comp}
+\subsection{Priors and Posterior}
+\subsection{The MCMC Sampling Schemes}
+\subsection{Model Assessment}
+Logarithm of the Pseudo-marginal likelihood (LPML) is an important bayesian assessment criterion \cite{gelfand1994bayesian}. The LPML is defined as
+\begin{align}
+\label{eq:defLPML}
+\text{LPML} = \sum_{i=1}^{n} \text{log}(\text{CPO}_i),
+\end{align}
+where $\text{CPO}_i$ is the conditional predictive ordinate (CPO) for the $i$-th subject. CPO is based on the leave-one-out-cross-validation. CPO estimates the probability of observing $y_i$ in the future
+after having already observed $y_1,\cdots,y_{i-1},y_{i+1},\cdots,y_n$. The CPO for the $i$-th subject is defined as
+\begin{align}
+	\text{CPO}_i=f(y_i|\bm{y}_{-i}) \equiv \int f(y_i|\bm{\theta})\pi(\bm{\theta}|\bm{y}_{(-i)})d\bm{\theta},
+	\label{cpo def}
+\end{align}
+where $\bm{y}_{-i}$ is $y_1,\cdots,y_{i-1},y_{i+1}\cdots,y_n$,
+\begin{align}
+	\pi(\bm{\theta}|\bm{y}_{-i})=\frac{\prod_{j\neq i}f(y_j|\bm{\theta})\pi(\bm{\theta})}{c(\bm{y}_{-i})},
+\end{align}
+and $c(\bm{y}_{-i})$ is the normalizing constant.
+The $\text{CPO}_i$ in \eqref{cpo def} can be expressed as
+\begin{align}
+	\text{CPO}_i=\frac{1}{\int\frac{1}{f(y_i|\bm{\theta})}\pi(\bm{\theta}|\bm{y}_{-i})d\bm{\theta}}.
+	\label{CPO1}
+\end{align}
+
+
+Based on \citet{hu2019bayesianmodel}, a natural Monte Carlo estimate of the LPML
+is given by
+\begin{equation}
+  \widehat{\text{LPML}}
+= \sum_{j=1}^k\log \widetilde{\lambda}(s_j)-\int_{\mathcal{B}}\overline{\lambda}(u)\,du,
+\end{equation}
+where
+$\widetilde{\lambda}(s_j)=(\frac{1}{B}\sum_{b=1}^B\lambda(s_j|\bm{\theta_b})^{-1})^{-1}$,
+$\overline{\lambda}(u)=\frac{1}{B}\sum_{b=1}^B
+\lambda(u|\bm{\theta_b}) $, and $\{\theta_1,\theta_2,\cdots,\theta_B\}$ is a sample
+from the posterior.
+
+\section{Simulation}\label{sec:simu}
+
+\section{Real Data Analysis}\label{sec:real_data}
+\subsection{Data Description}
+\subsection{Data Analysis}
+
+\section{Discussion}\label{sec:discussion}
+
+
+\bibliographystyle{chicago}
+\bibliography{main}
+\end{document}

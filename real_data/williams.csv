@@ -1,0 +1,1193 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,4,5,46,0,"Alley Oop Layup shot","2PT Field Goal",1,"Sacramento Kings",-1,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,2,3,11,1,"Cutting Dunk Shot","2PT Field Goal",1,"Miami Heat",-12,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-04,2017,2799,1610612746,400974882,4,9,27,0,"Cutting Dunk Shot","2PT Field Goal",1,"Memphis Grizzlies",6,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,4,8,35,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",3,"Denver Nuggets",31,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,2,7,30,1,"Cutting Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-8,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-24,2017,2799,1610612746,400974805,3,1,23,1,"Cutting Layup Shot","2PT Field Goal",1,"Utah Jazz",-13,6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,1,5,58,0,"Cutting Layup Shot","2PT Field Goal",3,"Toronto Raptors",2,32,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,3,9,49,1,"Cutting Layup Shot","2PT Field Goal",3,"Atlanta Hawks",-31,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,2,8,09,1,"Cutting Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",20,6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-28,2017,2799,1610612746,400975868,3,3,37,1,"Cutting Layup Shot","2PT Field Goal",0,"Phoenix Suns",-1,1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,1,5,02,1,"Cutting Layup Shot","2PT Field Goal",1,"New York Knicks",14,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,4,5,47,0,"Cutting Layup Shot","2PT Field Goal",1,"Miami Heat",4,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,2,5,23,1,"Driving Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",6,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,3,1,32,1,"Driving Dunk Shot","2PT Field Goal",1,"Denver Nuggets",4,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,3,7,06,1,"Driving Dunk Shot","2PT Field Goal",0,"Miami Heat",1,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,2,4,24,1,"Driving Dunk Shot","2PT Field Goal",0,"Phoenix Suns",-5,-2,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,2,7,52,1,"Driving Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,3,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,2,3,43,1,"Driving Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",-9,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,4,1,56,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",0,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,4,11,41,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Phoenix Suns",0,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,2,2,08,0,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Denver Nuggets",28,14,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,4,9,25,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Denver Nuggets",-1,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,4,1,36,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Boston Celtics",8,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-05,2017,2799,1610612746,400975925,2,11,07,1,"Driving Finger Roll Layup Shot","2PT Field Goal",4,"Utah Jazz",-21,37,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-28,2017,2799,1610612746,400975868,4,10,26,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Phoenix Suns",0,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,4,7,06,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"San Antonio Spurs",20,14,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,4,5,57,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Indiana Pacers",3,-1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,2,3,56,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Indiana Pacers",-4,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,3,1,31,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",8,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-26,2017,2799,1610612746,400974819,3,0,49,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",10,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,4,7,10,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",2,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,3,1,00,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Brooklyn Nets",6,26,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,3,8,58,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Miami Heat",-13,9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,4,3,45,0,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",17,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,4,8,24,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Brooklyn Nets",3,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-22,2017,2799,1610612746,400975618,1,2,52,1,"Driving Finger Roll Layup Shot","2PT Field Goal",6,"Golden State Warriors",3,67,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-21,2017,2799,1610612746,0,1,2,49,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-8,-2,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,2,2,31,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-4,14,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,1,1,42,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-9,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-21,2017,2799,1610612746,0,4,2,25,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",13,1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,4,4,57,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",20,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,1,2,39,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-2,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,5,0,54,1,"Driving Finger Roll Layup Shot","2PT Field Goal",4,"Cleveland Cavaliers",-9,39,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,2,1,36,1,"Driving Finger Roll Layup Shot","2PT Field Goal",6,"Brooklyn Nets",56,34,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,1,1,42,0,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Phoenix Suns",9,9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,1,9,38,0,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Denver Nuggets",6,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,2,4,49,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",1,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,2,3,01,0,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Milwaukee Bucks",-2,31,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,4,7,09,0,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",5,2,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,3,10,17,0,"Driving Floating Bank Jump Shot","2PT Field Goal",7,"Sacramento Kings",75,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,3,1,07,1,"Driving Floating Bank Jump Shot","2PT Field Goal",2,"Los Angeles Lakers",28,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,1,3,03,0,"Driving Floating Bank Jump Shot","2PT Field Goal",2,"Portland Trail Blazers",20,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,2,9,46,1,"Driving Floating Bank Jump Shot","2PT Field Goal",4,"Memphis Grizzlies",-24,43,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,3,0,03,0,"Driving Floating Bank Jump Shot","2PT Field Goal",2,"Brooklyn Nets",18,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-05,2017,2799,1610612746,400975925,3,0,27,0,"Driving Floating Bank Jump Shot","2PT Field Goal",9,"Utah Jazz",82,52,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-01,2017,2799,1610612746,400974867,4,10,32,1,"Driving Floating Bank Jump Shot","2PT Field Goal",3,"Dallas Mavericks",37,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,4,5,05,0,"Driving Floating Bank Jump Shot","2PT Field Goal",2,"San Antonio Spurs",22,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,1,3,59,0,"Driving Floating Bank Jump Shot","2PT Field Goal",7,"Oklahoma City Thunder",-62,43,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,3,0,05,1,"Driving Floating Bank Jump Shot","2PT Field Goal",16,"Washington Wizards",-106,120,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-04,2017,2799,1610612746,400974882,3,0,47,1,"Driving Floating Bank Jump Shot","2PT Field Goal",1,"Memphis Grizzlies",11,7,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,3,2,29,0,"Driving Floating Bank Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",32,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,4,7,46,0,"Driving Floating Bank Jump Shot","2PT Field Goal",2,"San Antonio Spurs",13,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,1,1,20,1,"Driving Floating Bank Jump Shot","2PT Field Goal",9,"Brooklyn Nets",88,35,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-28,2017,2799,1610612746,400974835,1,2,14,1,"Driving Floating Bank Jump Shot","2PT Field Goal",2,"Detroit Pistons",20,6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,1,1,06,1,"Driving Floating Bank Jump Shot","2PT Field Goal",10,"Minnesota Timberwolves",98,36,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,1,0,37,0,"Driving Floating Jump Shot","2PT Field Goal",7,"Dallas Mavericks",32,68,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,4,11,45,0,"Driving Floating Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",-54,85,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,1,0,00,0,"Driving Floating Jump Shot","2PT Field Goal",9,"Dallas Mavericks",-74,64,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,2,3,18,1,"Driving Floating Jump Shot","2PT Field Goal",11,"Dallas Mavericks",44,105,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,4,1,43,1,"Driving Floating Jump Shot","2PT Field Goal",10,"Miami Heat",0,105,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,1,6,34,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Los Angeles Lakers",51,9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,4,10,44,1,"Driving Floating Jump Shot","2PT Field Goal",8,"Phoenix Suns",-14,85,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,3,2,15,0,"Driving Floating Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",29,117,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,2,11,27,0,"Driving Floating Jump Shot","2PT Field Goal",8,"Los Angeles Lakers",30,83,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,4,2,45,1,"Driving Floating Jump Shot","2PT Field Goal",3,"San Antonio Spurs",0,34,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,3,7,02,1,"Driving Floating Jump Shot","2PT Field Goal",13,"Atlanta Hawks",-13,131,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,4,11,37,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Miami Heat",3,57,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,2,4,29,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Memphis Grizzlies",32,30,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,4,8,52,0,"Driving Floating Jump Shot","2PT Field Goal",3,"Boston Celtics",19,34,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,4,7,28,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",-24,64,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,4,2,23,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Boston Celtics",3,63,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-19,2017,2799,1610612746,400974442,4,7,09,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Los Angeles Lakers",63,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,1,3,49,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Indiana Pacers",61,68,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,4,10,58,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Brooklyn Nets",-49,43,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,4,2,47,1,"Driving Floating Jump Shot","2PT Field Goal",10,"Toronto Raptors",-96,52,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,3,7,59,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Sacramento Kings",9,46,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,2,7,01,1,"Driving Floating Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",51,106,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,1,0,55,0,"Driving Floating Jump Shot","2PT Field Goal",12,"Phoenix Suns",-89,83,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,1,11,05,0,"Driving Floating Jump Shot","2PT Field Goal",7,"Sacramento Kings",38,61,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-26,2017,2799,1610612746,400974819,3,1,35,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",-2,67,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,1,1,09,1,"Driving Floating Jump Shot","2PT Field Goal",8,"Indiana Pacers",-8,88,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,3,0,05,0,"Driving Floating Jump Shot","2PT Field Goal",12,"Boston Celtics",-71,102,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,1,0,48,1,"Driving Floating Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",0,32,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,3,8,47,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Milwaukee Bucks",-85,37,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,4,11,45,0,"Driving Floating Jump Shot","2PT Field Goal",12,"San Antonio Spurs",49,112,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,2,0,05,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Brooklyn Nets",-84,38,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,3,8,46,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Atlanta Hawks",20,95,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-26,2017,2799,1610612746,400974819,3,0,25,0,"Driving Floating Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",48,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,2,6,30,1,"Driving Floating Jump Shot","2PT Field Goal",5,"New York Knicks",-6,59,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,4,9,32,1,"Driving Floating Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",-9,29,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,1,2,57,0,"Driving Floating Jump Shot","2PT Field Goal",9,"Minnesota Timberwolves",-8,93,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,4,4,47,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Miami Heat",2,92,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,4,4,17,1,"Driving Floating Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",71,103,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,3,8,03,0,"Driving Floating Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",32,101,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,4,8,27,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Charlotte Hornets",4,58,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,1,3,51,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",-3,43,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,4,6,41,1,"Driving Floating Jump Shot","2PT Field Goal",2,"San Antonio Spurs",14,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-28,2017,2799,1610612746,400975868,3,0,06,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Phoenix Suns",3,64,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,2,11,37,0,"Driving Floating Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",-106,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,2,11,22,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",44,87,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,1,4,20,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Miami Heat",-29,50,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,3,4,48,0,"Driving Floating Jump Shot","2PT Field Goal",2,"Toronto Raptors",-17,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,4,1,26,1,"Driving Floating Jump Shot","2PT Field Goal",1,"Charlotte Hornets",-16,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,3,0,11,0,"Driving Floating Jump Shot","2PT Field Goal",9,"Toronto Raptors",76,57,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,4,10,57,0,"Driving Floating Jump Shot","2PT Field Goal",12,"Toronto Raptors",-3,125,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,1,4,28,0,"Driving Floating Jump Shot","2PT Field Goal",5,"Denver Nuggets",-41,40,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,4,1,12,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",-12,91,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,4,4,03,1,"Driving Floating Jump Shot","2PT Field Goal",10,"Miami Heat",-1,102,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,4,11,37,1,"Driving Floating Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",-119,62,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,2,7,50,1,"Driving Floating Jump Shot","2PT Field Goal",8,"New York Knicks",61,59,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,2,2,00,0,"Driving Floating Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",71,106,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,1,4,00,0,"Driving Floating Jump Shot","2PT Field Goal",5,"Charlotte Hornets",-52,27,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,2,5,31,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Denver Nuggets",43,43,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,1,6,48,0,"Driving Floating Jump Shot","2PT Field Goal",9,"Toronto Raptors",2,94,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,4,7,13,1,"Driving Floating Jump Shot","2PT Field Goal",13,"Brooklyn Nets",-52,127,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,2,9,45,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Oklahoma City Thunder",-40,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-09,2017,2799,1610612746,400975563,4,9,38,0,"Driving Floating Jump Shot","2PT Field Goal",7,"Detroit Pistons",69,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,1,11,07,0,"Driving Floating Jump Shot","2PT Field Goal",9,"Utah Jazz",0,98,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-28,2017,2799,1610612746,400975868,2,6,43,0,"Driving Floating Jump Shot","2PT Field Goal",4,"Phoenix Suns",-37,27,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,3,1,52,1,"Driving Floating Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",98,107,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,3,9,54,1,"Driving Floating Jump Shot","2PT Field Goal",2,"Los Angeles Lakers",-11,21,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,4,3,34,1,"Driving Floating Jump Shot","2PT Field Goal",3,"San Antonio Spurs",14,27,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,2,5,56,1,"Driving Hook Shot","2PT Field Goal",2,"Sacramento Kings",16,25,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,2,4,13,0,"Driving Hook Shot","2PT Field Goal",5,"Atlanta Hawks",54,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,2,2,06,1,"Driving Hook Shot","2PT Field Goal",6,"Toronto Raptors",-6,64,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,2,8,09,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",16,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,3,10,33,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",13,-3,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,2,10,13,1,"Driving Layup Shot","2PT Field Goal",4,"Brooklyn Nets",-41,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,2,2,01,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",25,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,2,6,13,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",14,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,1,8,01,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",10,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-28,2017,2799,1610612746,400974835,3,0,45,0,"Driving Layup Shot","2PT Field Goal",2,"Detroit Pistons",-20,-3,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,2,9,23,1,"Driving Layup Shot","2PT Field Goal",2,"Indiana Pacers",22,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,3,1,33,0,"Driving Layup Shot","2PT Field Goal",3,"Charlotte Hornets",25,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,4,9,46,0,"Driving Layup Shot","2PT Field Goal",3,"Charlotte Hornets",30,18,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-28,2017,2799,1610612746,400974835,1,0,19,0,"Driving Layup Shot","2PT Field Goal",2,"Detroit Pistons",18,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,4,0,19,1,"Driving Layup Shot","2PT Field Goal",0,"Charlotte Hornets",2,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,1,0,53,0,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",16,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,1,7,45,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-10,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,4,5,02,0,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",10,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,3,4,39,0,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",25,6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,3,7,09,0,"Driving Layup Shot","2PT Field Goal",4,"Utah Jazz",-9,42,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,4,2,14,0,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",13,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,3,1,43,0,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",14,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,1,8,21,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",-21,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,4,10,25,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",21,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,3,2,41,1,"Driving Layup Shot","2PT Field Goal",8,"Utah Jazz",-6,89,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,3,6,02,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",8,7,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,2,8,27,1,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",16,1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,4,1,17,1,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",-17,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,4,10,13,0,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",3,1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-22,2017,2799,1610612746,400975618,2,2,57,0,"Driving Layup Shot","2PT Field Goal",10,"Golden State Warriors",9,100,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-19,2017,2799,1610612746,400974442,3,0,06,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",8,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,3,3,49,0,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",-8,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,2,3,38,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",17,9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,1,5,32,1,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",-18,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,1,1,51,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-9,9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,3,5,39,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",14,6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,2,8,36,0,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-3,-5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,3,3,45,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",18,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,4,3,01,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-19,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,4,4,49,0,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",9,2,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,4,8,52,0,"Driving Layup Shot","2PT Field Goal",5,"Oklahoma City Thunder",46,38,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,2,4,18,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",20,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,4,10,06,1,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-8,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,4,7,31,1,"Driving Layup Shot","2PT Field Goal",1,"Orlando Magic",2,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-05,2017,2799,1610612746,400975925,3,4,43,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",27,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,2,5,14,1,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",9,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,4,9,14,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",11,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,2,7,21,1,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",2,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,2,8,09,0,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",9,3,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,2,3,55,0,"Driving Layup Shot","2PT Field Goal",5,"Orlando Magic",26,46,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,2,10,36,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",-17,1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,3,9,40,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",1,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,2,11,28,0,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-18,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,4,3,16,1,"Driving Layup Shot","2PT Field Goal",4,"Atlanta Hawks",28,38,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,3,2,34,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",9,27,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,4,7,33,0,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",18,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,2,6,44,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",8,21,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,4,7,02,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,2,2,58,1,"Driving Layup Shot","2PT Field Goal",6,"Sacramento Kings",-45,49,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,3,4,24,1,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",9,3,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,2,3,30,0,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",10,1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,4,9,46,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",8,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,4,10,31,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",1,27,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,4,8,07,1,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",2,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,4,1,57,1,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-15,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-05,2017,2799,1610612746,400975925,2,9,34,0,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",28,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,3,5,55,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",9,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,1,0,33,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",8,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-26,2017,2799,1610612746,400975251,4,8,13,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",6,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-01,2017,2799,1610612746,400974867,1,1,10,0,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",24,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,1,0,11,0,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",12,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,3,7,45,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",0,26,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,1,0,47,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",2,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,2,1,19,0,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-8,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-20,2017,2799,1610612746,400975806,4,9,48,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",0,14,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,3,1,34,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",9,9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,3,1,53,1,"Driving Layup Shot","2PT Field Goal",7,"Denver Nuggets",-51,53,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,3,3,09,0,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",9,28,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,4,10,56,0,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",19,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,4,6,53,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",14,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,2,0,31,0,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-2,24,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,3,4,32,1,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",16,21,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,3,2,39,0,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",5,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,1,2,44,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-8,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,2,5,10,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",13,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,1,8,05,0,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-13,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,3,4,36,0,"Driving Layup Shot","2PT Field Goal",3,"Portland Trail Blazers",0,35,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,2,0,34,1,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",-12,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,4,3,21,1,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",14,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,1,1,55,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-6,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,2,9,57,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",9,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,4,1,34,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",8,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,2,0,24,0,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",-9,23,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,4,11,38,1,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",5,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,4,6,37,1,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-3,6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,2,7,50,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",12,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,1,0,09,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",12,14,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,4,3,42,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",6,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,1,1,06,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-9,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,2,0,26,0,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",8,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,4,5,32,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",7,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,3,6,55,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",7,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-21,2017,2799,1610612746,0,2,8,56,0,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",2,19,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,4,0,32,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-1,7,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,1,0,02,0,"Driving Layup Shot","2PT Field Goal",4,"Toronto Raptors",40,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,4,9,11,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",13,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-21,2017,2799,1610612746,0,3,4,16,1,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",20,6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-30,2017,2799,1610612746,400974851,2,8,57,0,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",22,-1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-30,2017,2799,1610612746,400974851,4,10,31,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-3,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,4,7,13,0,"Driving Layup Shot","2PT Field Goal",4,"Toronto Raptors",40,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,2,2,37,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",25,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,4,7,26,0,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",20,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,5,3,10,0,"Driving Layup Shot","2PT Field Goal",4,"Cleveland Cavaliers",-36,30,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,2,9,36,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",11,7,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,2,11,16,1,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",25,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,1,0,59,0,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",-2,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,3,0,00,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",11,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,4,6,04,0,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",0,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,4,2,31,1,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",-2,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,4,10,22,1,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",2,24,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,1,1,27,0,"Driving Layup Shot","2PT Field Goal",3,"Portland Trail Blazers",13,37,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,2,10,26,0,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",-11,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,2,8,48,0,"Driving Layup Shot","2PT Field Goal",3,"Toronto Raptors",18,32,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-24,2017,2799,1610612746,400974805,1,2,02,0,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",16,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-28,2017,2799,1610612746,400975868,1,1,43,0,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",-14,6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-28,2017,2799,1610612746,400975868,1,1,14,1,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",-2,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,1,4,06,0,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",14,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-28,2017,2799,1610612746,400975667,3,3,20,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-5,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,4,8,27,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",5,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,4,11,35,0,"Driving Layup Shot","2PT Field Goal",4,"Oklahoma City Thunder",13,43,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-09,2017,2799,1610612746,400975563,4,7,12,0,"Driving Layup Shot","2PT Field Goal",5,"Detroit Pistons",54,7,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-28,2017,2799,1610612746,400975868,2,8,59,0,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",7,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,2,1,14,0,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-6,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-28,2017,2799,1610612746,400975667,3,0,14,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",8,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-28,2017,2799,1610612746,400975667,4,9,06,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",14,18,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,4,6,41,0,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",10,2,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,4,4,39,0,"Driving Layup Shot","2PT Field Goal",4,"Atlanta Hawks",36,32,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,2,6,05,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",7,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,4,2,33,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",7,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,2,0,58,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",16,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,4,9,50,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",3,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,4,8,50,0,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",14,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,3,2,41,0,"Driving Layup Shot","2PT Field Goal",3,"Milwaukee Bucks",0,33,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,3,1,00,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",3,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,3,1,00,1,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",20,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,2,7,38,0,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",-5,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,4,2,31,0,"Driving Layup Shot","2PT Field Goal",5,"Philadelphia 76ers",-6,50,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,1,1,00,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",8,19,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,2,11,00,0,"Driving Layup Shot","2PT Field Goal",6,"Sacramento Kings",33,59,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,4,6,38,0,"Driving Layup Shot","2PT Field Goal",4,"Miami Heat",43,23,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,1,5,00,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",-1,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,4,8,38,0,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",18,7,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,3,6,26,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Orlando Magic",18,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,4,6,36,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",7,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,2,3,57,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Charlotte Hornets",14,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-20,2017,2799,1610612746,400975806,1,0,28,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",2,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,2,0,56,1,"Dunk Shot","2PT Field Goal",1,"San Antonio Spurs",1,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,4,1,52,1,"Fadeaway Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-160,193,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,3,4,53,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Boston Celtics",-109,-10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,2,10,47,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-152,55,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,2,0,35,0,"Fadeaway Jump Shot","2PT Field Goal",17,"New York Knicks",-178,25,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,3,0,37,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",110,159,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,3,5,10,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",60,111,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,1,4,42,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Miami Heat",-70,100,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,2,0,11,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Boston Celtics",-114,159,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-20,2017,2799,1610612746,400975806,2,8,01,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",-144,120,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-05,2017,2799,1610612746,400975925,1,0,14,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Utah Jazz",-91,98,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,4,6,12,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Boston Celtics",175,-20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,1,7,24,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Atlanta Hawks",-103,26,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,4,5,24,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-65,152,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,2,2,45,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-95,143,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,2,10,40,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Denver Nuggets",-85,143,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,2,0,03,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Phoenix Suns",-156,-5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,2,4,30,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Miami Heat",-92,112,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,1,1,36,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Phoenix Suns",-138,32,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,4,1,58,1,"Fadeaway Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-96,110,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-05,2017,2799,1610612746,400975925,2,4,17,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Utah Jazz",-189,-6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-05,2017,2799,1610612746,400975925,2,1,42,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Utah Jazz",-117,-2,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,1,3,11,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Chicago Bulls",116,135,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,2,4,20,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-156,35,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,2,8,20,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Phoenix Suns",-119,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,4,0,59,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Toronto Raptors",-96,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,3,8,55,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-128,105,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,3,2,42,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Washington Wizards",-36,131,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-01,2017,2799,1610612746,400974867,1,0,07,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Dallas Mavericks",-75,138,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,3,4,12,0,"Fadeaway Jump Shot","2PT Field Goal",5,"Brooklyn Nets",-30,42,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,3,4,49,1,"Fadeaway Jump Shot","2PT Field Goal",20,"Sacramento Kings",-186,75,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,4,0,55,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Oklahoma City Thunder",105,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,4,0,08,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Brooklyn Nets",-76,130,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,2,0,28,0,"Fadeaway Jump Shot","2PT Field Goal",5,"Minnesota Timberwolves",-55,-1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,4,6,02,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Washington Wizards",49,97,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,2,1,39,0,"Fadeaway Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-15,156,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,2,1,23,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Chicago Bulls",147,111,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,2,0,53,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Brooklyn Nets",26,155,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,2,1,00,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Chicago Bulls",-106,27,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,2,3,53,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",-68,123,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,1,1,15,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Dallas Mavericks",-128,31,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,3,1,06,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",42,194,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,4,2,20,1,"Fadeaway Jump Shot","2PT Field Goal",18,"San Antonio Spurs",-179,32,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-20,2017,2799,1610612746,400975806,3,4,50,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-173,79,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,3,10,55,1,"Fadeaway Jump Shot","3PT Field Goal",28,"Los Angeles Lakers",55,283,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,2,5,06,1,"Fadeaway Jump Shot","3PT Field Goal",23,"Sacramento Kings",-231,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,4,11,28,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Toronto Raptors",-93,48,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,1,7,55,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Utah Jazz",-97,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,1,10,45,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Atlanta Hawks",-112,71,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,4,9,30,0,"Fadeaway Jump Shot","3PT Field Goal",24,"Toronto Raptors",-236,74,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,2,7,45,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Brooklyn Nets",-92,58,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,2,6,26,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Utah Jazz",-130,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,4,5,36,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Denver Nuggets",22,127,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,3,2,40,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Denver Nuggets",55,92,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,1,7,13,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",-86,111,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,1,1,16,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Charlotte Hornets",-130,19,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,3,2,22,1,"Fadeaway Jump Shot","2PT Field Goal",14,"San Antonio Spurs",139,44,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,2,9,46,1,"Fadeaway Jump Shot","2PT Field Goal",13,"New York Knicks",-128,34,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,2,2,28,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Denver Nuggets",96,168,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,2,5,40,0,"Fadeaway Jump Shot","2PT Field Goal",20,"Utah Jazz",-198,31,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,2,3,53,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Dallas Mavericks",-151,46,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,1,2,37,0,"Fadeaway Jump Shot","3PT Field Goal",22,"Washington Wizards",-225,38,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,3,5,29,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Washington Wizards",-112,83,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,3,5,07,0,"Fadeaway Jump Shot","2PT Field Goal",20,"San Antonio Spurs",123,169,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,1,0,00,0,"Fadeaway Jump Shot","3PT Field Goal",22,"San Antonio Spurs",-223,-12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,2,5,45,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",-182,79,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,3,5,52,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Washington Wizards",91,42,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,1,0,42,0,"Fadeaway Jump Shot","2PT Field Goal",21,"New York Knicks",125,172,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,3,9,25,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",-145,28,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,2,9,09,0,"Fadeaway Jump Shot","2PT Field Goal",20,"Boston Celtics",-107,179,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,2,5,47,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Dallas Mavericks",-118,53,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-28,2017,2799,1610612746,400975667,1,0,37,0,"Finger Roll Layup Shot","2PT Field Goal",6,"Houston Rockets",30,59,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,4,5,34,0,"Finger Roll Layup Shot","2PT Field Goal",5,"Brooklyn Nets",42,33,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,1,0,30,0,"Floating Jump shot","2PT Field Goal",8,"Indiana Pacers",-48,68,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,1,10,12,0,"Floating Jump shot","2PT Field Goal",11,"Sacramento Kings",25,109,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,2,6,57,0,"Floating Jump shot","2PT Field Goal",9,"Brooklyn Nets",11,96,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,3,3,31,1,"Floating Jump shot","2PT Field Goal",11,"Sacramento Kings",44,101,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,1,0,59,1,"Floating Jump shot","2PT Field Goal",8,"New Orleans Pelicans",-24,82,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,1,3,44,0,"Floating Jump shot","2PT Field Goal",12,"New Orleans Pelicans",54,108,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,4,9,23,0,"Floating Jump shot","2PT Field Goal",14,"Phoenix Suns",-35,142,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-04,2017,2799,1610612746,400974882,2,11,11,0,"Floating Jump shot","2PT Field Goal",8,"Memphis Grizzlies",79,41,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,1,2,42,0,"Floating Jump shot","2PT Field Goal",7,"Miami Heat",8,70,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-28,2017,2799,1610612746,400975667,1,4,23,0,"Floating Jump shot","2PT Field Goal",8,"Houston Rockets",18,82,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,2,5,48,0,"Floating Jump shot","2PT Field Goal",7,"San Antonio Spurs",19,73,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-30,2017,2799,1610612746,400974851,2,4,47,0,"Floating Jump shot","2PT Field Goal",12,"Golden State Warriors",7,129,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,4,11,12,0,"Floating Jump shot","2PT Field Goal",6,"Atlanta Hawks",-46,51,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,3,1,00,0,"Floating Jump shot","2PT Field Goal",6,"Oklahoma City Thunder",14,63,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,4,4,11,0,"Floating Jump shot","2PT Field Goal",8,"Utah Jazz",85,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-30,2017,2799,1610612746,400974851,2,10,34,0,"Floating Jump shot","2PT Field Goal",8,"Golden State Warriors",23,80,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,1,0,17,0,"Floating Jump shot","2PT Field Goal",1,"San Antonio Spurs",3,18,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,2,1,02,0,"Floating Jump shot","2PT Field Goal",2,"Portland Trail Blazers",-12,27,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,4,4,13,1,"Floating Jump shot","2PT Field Goal",6,"Indiana Pacers",-12,59,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,2,4,50,1,"Floating Jump shot","2PT Field Goal",12,"Oklahoma City Thunder",-54,115,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,4,4,23,1,"Floating Jump shot","2PT Field Goal",11,"Denver Nuggets",49,105,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,2,5,38,1,"Floating Jump shot","2PT Field Goal",4,"Portland Trail Blazers",19,42,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-05,2017,2799,1610612746,400975925,3,6,32,0,"Floating Jump shot","2PT Field Goal",16,"Utah Jazz",54,153,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,2,1,09,0,"Floating Jump shot","2PT Field Goal",7,"Denver Nuggets",-67,30,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,2,4,15,1,"Floating Jump shot","2PT Field Goal",10,"Oklahoma City Thunder",-55,92,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,2,3,39,0,"Floating Jump shot","2PT Field Goal",7,"Oklahoma City Thunder",14,73,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,1,4,43,0,"Floating Jump shot","2PT Field Goal",15,"Denver Nuggets",9,151,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,4,0,29,0,"Floating Jump shot","2PT Field Goal",7,"Atlanta Hawks",55,56,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,4,5,41,1,"Floating Jump shot","2PT Field Goal",12,"Oklahoma City Thunder",121,19,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,2,7,25,0,"Floating Jump shot","2PT Field Goal",1,"San Antonio Spurs",4,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,3,6,01,0,"Floating Jump shot","2PT Field Goal",3,"Orlando Magic",14,27,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-19,2017,2799,1610612746,400974442,2,9,27,1,"Floating Jump shot","2PT Field Goal",4,"Los Angeles Lakers",-38,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,4,2,22,0,"Floating Jump shot","2PT Field Goal",7,"Sacramento Kings",39,66,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,2,4,15,0,"Floating Jump shot","2PT Field Goal",7,"Denver Nuggets",-20,68,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-24,2017,2799,1610612746,400974805,1,4,54,0,"Floating Jump shot","2PT Field Goal",4,"Utah Jazz",-28,29,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,3,3,20,1,"Floating Jump shot","2PT Field Goal",2,"Toronto Raptors",-27,6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-19,2017,2799,1610612746,400974442,4,9,15,0,"Floating Jump shot","2PT Field Goal",4,"Los Angeles Lakers",-14,46,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,2,2,38,0,"Floating Jump shot","2PT Field Goal",0,"San Antonio Spurs",6,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-04,2017,2799,1610612746,400974882,2,7,29,0,"Floating Jump shot","2PT Field Goal",14,"Memphis Grizzlies",46,136,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,1,5,28,0,"Floating Jump shot","2PT Field Goal",2,"Toronto Raptors",-11,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,4,9,16,0,"Floating Jump shot","2PT Field Goal",8,"Portland Trail Blazers",35,72,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,4,9,04,1,"Floating Jump shot","2PT Field Goal",6,"Phoenix Suns",41,45,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,3,1,10,0,"Floating Jump shot","2PT Field Goal",7,"Portland Trail Blazers",3,74,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,1,0,48,0,"Floating Jump shot","2PT Field Goal",11,"Orlando Magic",100,52,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-19,2017,2799,1610612746,400974442,2,7,53,0,"Floating Jump shot","2PT Field Goal",7,"Los Angeles Lakers",-17,78,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,1,8,36,0,"Floating Jump shot","2PT Field Goal",13,"Atlanta Hawks",9,134,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,3,3,56,1,"Floating Jump shot","2PT Field Goal",7,"New Orleans Pelicans",14,69,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,3,3,11,0,"Floating Jump shot","2PT Field Goal",10,"Los Angeles Lakers",14,102,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,2,3,00,0,"Floating Jump shot","2PT Field Goal",7,"Oklahoma City Thunder",-47,62,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,4,0,33,0,"Floating Jump shot","2PT Field Goal",8,"Atlanta Hawks",46,66,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,2,9,47,1,"Floating Jump shot","2PT Field Goal",7,"Sacramento Kings",-33,68,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,1,4,28,0,"Floating Jump shot","2PT Field Goal",7,"Denver Nuggets",2,72,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,1,4,08,0,"Floating Jump shot","2PT Field Goal",13,"Brooklyn Nets",71,112,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,4,1,55,0,"Floating Jump shot","2PT Field Goal",8,"Orlando Magic",-21,80,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,4,1,09,0,"Floating Jump shot","2PT Field Goal",7,"Brooklyn Nets",66,43,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,3,1,34,1,"Floating Jump shot","2PT Field Goal",11,"Orlando Magic",-78,84,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-09,2017,2799,1610612746,400975563,4,11,48,1,"Floating Jump shot","2PT Field Goal",9,"Detroit Pistons",-1,99,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,2,6,29,0,"Floating Jump shot","2PT Field Goal",5,"Golden State Warriors",-3,59,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,1,0,04,0,"Floating Jump shot","2PT Field Goal",6,"Toronto Raptors",-51,42,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,2,11,40,0,"Floating Jump shot","2PT Field Goal",6,"Chicago Bulls",41,53,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,3,4,07,1,"Floating Jump shot","2PT Field Goal",18,"Orlando Magic",74,166,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,4,4,23,0,"Floating Jump shot","2PT Field Goal",6,"Memphis Grizzlies",-17,65,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,2,11,32,0,"Floating Jump shot","2PT Field Goal",7,"Dallas Mavericks",71,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,1,5,07,0,"Floating Jump shot","2PT Field Goal",9,"Houston Rockets",78,62,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,1,4,56,0,"Floating Jump shot","2PT Field Goal",10,"Charlotte Hornets",49,98,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,4,10,30,1,"Floating Jump shot","2PT Field Goal",7,"Brooklyn Nets",-60,43,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,1,2,06,1,"Floating Jump shot","2PT Field Goal",11,"Memphis Grizzlies",-10,111,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,4,1,00,0,"Floating Jump shot","2PT Field Goal",6,"Milwaukee Bucks",55,25,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,4,2,18,0,"Floating Jump shot","2PT Field Goal",1,"Memphis Grizzlies",-3,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,1,2,47,0,"Floating Jump shot","2PT Field Goal",16,"Indiana Pacers",-75,144,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,2,0,54,1,"Floating Jump shot","2PT Field Goal",10,"Memphis Grizzlies",-108,-7,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-28,2017,2799,1610612746,400975868,3,2,28,0,"Floating Jump shot","2PT Field Goal",15,"Phoenix Suns",-18,158,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,3,3,55,1,"Hook Shot","2PT Field Goal",10,"Golden State Warriors",27,106,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,1,3,16,0,"Hook Shot","2PT Field Goal",5,"Los Angeles Lakers",3,51,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,1,5,08,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-91,127,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,3,11,08,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-207,173,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,3,11,45,1,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",228,-1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,2,10,44,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-54,243,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,3,5,54,0,"Jump Shot","3PT Field Goal",28,"Oklahoma City Thunder",-204,196,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,3,1,48,0,"Jump Shot","3PT Field Goal",30,"Oklahoma City Thunder",147,272,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,4,11,21,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",202,151,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,4,8,57,0,"Jump Shot","3PT Field Goal",29,"Sacramento Kings",71,284,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,3,2,26,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",128,233,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,4,4,11,1,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-136,227,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,4,5,33,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",230,-16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,2,6,30,1,"Jump Shot","3PT Field Goal",28,"Oklahoma City Thunder",-109,268,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,3,7,11,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-230,32,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,4,7,57,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-230,43,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-04,2017,2799,1610612746,400974882,4,5,43,0,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",221,-20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,3,1,00,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",-232,6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-04,2017,2799,1610612746,400974882,3,2,37,0,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",-226,21,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-04,2017,2799,1610612746,400974882,3,3,09,1,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",143,226,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-04,2017,2799,1610612746,400974882,4,0,27,0,"Jump Shot","3PT Field Goal",31,"Memphis Grizzlies",-201,244,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-04,2017,2799,1610612746,400974882,4,5,27,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",116,216,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,4,3,31,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-110,230,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,4,3,19,0,"Jump Shot","3PT Field Goal",28,"Miami Heat",-112,262,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,2,1,00,1,"Jump Shot","3PT Field Goal",29,"Minnesota Timberwolves",-109,272,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,4,2,04,0,"Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",4,61,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,4,5,43,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",-223,45,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,1,4,55,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",231,-14,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,3,0,37,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-97,221,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,1,10,26,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",239,68,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-22,2017,2799,1610612746,400975618,3,1,18,1,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",6,162,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-22,2017,2799,1610612746,400975618,2,8,04,0,"Jump Shot","2PT Field Goal",10,"Golden State Warriors",-90,45,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-22,2017,2799,1610612746,400975618,3,1,55,1,"Jump Shot","2PT Field Goal",11,"Golden State Warriors",-38,105,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-22,2017,2799,1610612746,400975618,3,5,03,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-179,191,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-22,2017,2799,1610612746,400975618,2,1,19,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",1,268,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-28,2017,2799,1610612746,400974835,3,1,23,0,"Jump Shot","2PT Field Goal",7,"Detroit Pistons",29,67,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-28,2017,2799,1610612746,400974835,4,11,33,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-22,265,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-28,2017,2799,1610612746,400974835,2,9,26,0,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",-222,-6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-28,2017,2799,1610612746,400974835,2,7,24,0,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",-228,-12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-28,2017,2799,1610612746,400974835,2,10,23,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-169,180,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,2,3,41,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-184,195,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,4,3,44,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-232,90,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,3,4,26,1,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",226,-11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,4,5,37,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-161,193,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,2,2,33,0,"Jump Shot","3PT Field Goal",22,"Orlando Magic",-229,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,3,9,16,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-166,206,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-20,2017,2799,1610612746,400975806,2,1,09,0,"Jump Shot","3PT Field Goal",27,"Minnesota Timberwolves",-154,231,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-20,2017,2799,1610612746,400975806,4,11,08,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",232,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-20,2017,2799,1610612746,400975806,1,0,34,0,"Jump Shot","2PT Field Goal",9,"Minnesota Timberwolves",-14,92,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,4,2,38,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",35,207,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-20,2017,2799,1610612746,400975806,1,3,51,0,"Jump Shot","2PT Field Goal",5,"Minnesota Timberwolves",51,21,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,3,5,12,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",-41,272,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,4,7,44,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-239,-6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,4,6,45,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",16,268,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,4,1,28,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-127,230,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,4,7,01,1,"Jump Shot","2PT Field Goal",20,"Orlando Magic",51,200,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-20,2017,2799,1610612746,400974996,2,11,22,1,"Jump Shot","3PT Field Goal",26,"New York Knicks",-89,246,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,2,10,14,0,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",-220,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,1,0,39,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",230,-1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,4,3,03,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-188,159,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,1,0,34,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",141,217,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,2,11,12,0,"Jump Shot","2PT Field Goal",10,"Philadelphia 76ers",-67,80,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,4,0,23,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-118,234,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,1,0,03,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-114,228,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,4,8,01,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-120,226,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-28,2017,2799,1610612746,400975868,4,8,23,1,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-66,256,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-28,2017,2799,1610612746,400975868,1,2,21,0,"Jump Shot","3PT Field Goal",27,"Phoenix Suns",164,219,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-28,2017,2799,1610612746,400975868,2,11,00,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",-196,29,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,2,9,50,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-223,110,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,2,1,01,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",228,44,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,4,4,44,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",-194,43,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,1,1,01,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",233,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,4,9,25,0,"Jump Shot","3PT Field Goal",30,"Phoenix Suns",-2,309,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,4,5,22,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-202,149,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,3,3,54,1,"Jump Shot","3PT Field Goal",23,"Miami Heat",-230,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,1,0,01,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-150,209,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,3,4,49,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-185,176,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,4,10,20,1,"Jump Shot","3PT Field Goal",26,"Miami Heat",-139,225,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-20,2017,2799,1610612746,400974996,2,0,57,0,"Jump Shot","3PT Field Goal",22,"New York Knicks",225,32,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-20,2017,2799,1610612746,400974996,2,8,55,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",210,137,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-20,2017,2799,1610612746,400974996,1,0,49,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",-112,174,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-20,2017,2799,1610612746,400974996,3,1,14,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-115,231,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-20,2017,2799,1610612746,400974996,2,1,49,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",133,231,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,4,9,37,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-219,151,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,4,9,01,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-210,146,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,4,1,35,1,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-207,165,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,3,1,09,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-159,202,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,1,6,27,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-172,199,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,1,2,00,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",-98,142,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,2,6,06,1,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-227,19,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,4,8,24,1,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-188,188,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,4,7,51,1,"Jump Shot","3PT Field Goal",27,"Houston Rockets",116,251,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,2,2,49,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-171,180,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,1,4,29,1,"Jump Shot","2PT Field Goal",21,"Houston Rockets",-140,163,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,3,1,34,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-70,246,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,4,11,41,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",-111,256,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,2,7,26,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-235,32,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,4,2,50,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",241,84,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,3,5,21,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-226,130,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,3,4,42,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",122,234,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,3,3,34,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-201,157,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,3,0,36,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",-160,221,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,4,5,16,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-134,220,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,2,8,39,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-171,181,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-29,2017,2799,1610612746,400975275,4,10,18,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",236,55,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,2,1,40,0,"Jump Shot","3PT Field Goal",28,"Boston Celtics",-111,258,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,2,1,23,1,"Jump Shot","2PT Field Goal",18,"New York Knicks",-123,138,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,2,2,53,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",6,254,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,3,0,07,0,"Jump Shot","3PT Field Goal",27,"Boston Celtics",71,266,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,4,7,35,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-103,234,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,4,9,57,0,"Jump Shot","2PT Field Goal",10,"Boston Celtics",-32,99,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,2,0,41,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-139,223,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,3,3,34,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-227,45,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,1,3,10,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-225,121,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,3,4,01,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",65,194,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,4,10,41,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-182,42,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,4,11,47,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",177,187,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,2,5,53,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",116,227,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,4,4,38,1,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-112,235,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,2,4,32,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",227,110,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,3,0,00,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-184,194,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,2,6,36,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-110,233,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,4,8,41,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-107,226,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,2,9,18,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",234,109,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,4,6,11,0,"Jump Shot","3PT Field Goal",28,"New York Knicks",-95,272,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,4,4,17,0,"Jump Shot","3PT Field Goal",28,"New York Knicks",-155,244,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,2,0,01,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-2,252,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,3,2,52,1,"Jump Shot","2PT Field Goal",15,"New York Knicks",8,157,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,2,3,55,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",9,257,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-21,2017,2799,1610612746,0,1,0,28,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",225,56,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-21,2017,2799,1610612746,0,4,7,17,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",238,52,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-21,2017,2799,1610612746,0,4,6,53,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",87,246,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-21,2017,2799,1610612746,0,4,10,02,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-202,179,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-30,2017,2799,1610612746,400974851,4,8,10,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",130,216,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-30,2017,2799,1610612746,400974851,2,7,21,1,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",-106,131,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,4,4,18,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-235,44,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,4,10,05,0,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",-182,-18,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,3,1,27,0,"Jump Shot","3PT Field Goal",27,"Phoenix Suns",-148,232,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,4,1,50,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",-203,150,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,3,0,10,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-43,247,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,1,10,52,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",-176,202,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,2,2,30,0,"Jump Shot","2PT Field Goal",13,"Miami Heat",-138,23,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,2,3,05,1,"Jump Shot","3PT Field Goal",22,"Phoenix Suns",-227,-15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,4,0,16,0,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",-145,239,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,2,10,08,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-119,218,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,3,2,39,1,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",-195,71,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-24,2017,2799,1610612746,400974805,2,8,35,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-231,21,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,2,5,06,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",150,200,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,4,8,30,1,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",-202,176,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-24,2017,2799,1610612746,400974805,1,0,27,1,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-110,158,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-24,2017,2799,1610612746,400974805,4,10,35,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-176,182,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-24,2017,2799,1610612746,400974805,3,2,25,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-168,193,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,3,2,56,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",1,251,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,2,6,33,0,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",-154,-11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,4,10,10,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",20,248,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,4,2,01,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-183,74,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-09,2017,2799,1610612746,400975563,4,0,48,1,"Jump Shot","3PT Field Goal",30,"Detroit Pistons",-125,277,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-09,2017,2799,1610612746,400975563,1,3,00,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-178,188,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,4,4,41,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-129,220,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-09,2017,2799,1610612746,400975563,2,3,50,0,"Jump Shot","3PT Field Goal",29,"Detroit Pistons",207,205,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-09,2017,2799,1610612746,400975563,4,4,22,1,"Jump Shot","2PT Field Goal",21,"Detroit Pistons",-127,176,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-09,2017,2799,1610612746,400975563,3,0,23,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",162,199,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-09,2017,2799,1610612746,400975563,1,1,54,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",237,43,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-09,2017,2799,1610612746,400975563,4,10,29,1,"Jump Shot","3PT Field Goal",28,"Detroit Pistons",182,225,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,1,11,02,1,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",231,-3,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,2,6,41,1,"Jump Shot","2PT Field Goal",14,"Indiana Pacers",-120,75,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,1,0,22,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-230,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,2,0,43,0,"Jump Shot","3PT Field Goal",32,"Atlanta Hawks",-77,319,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,2,2,53,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-51,252,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,4,7,36,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-89,231,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,3,5,00,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",50,240,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,2,0,36,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-230,52,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,3,9,29,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-109,227,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,4,8,20,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",87,234,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,2,8,59,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-131,215,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,2,8,48,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-22,251,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,5,0,20,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",52,262,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,3,7,26,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-182,176,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,3,0,03,0,"Jump Shot","3PT Field Goal",27,"Utah Jazz",-80,267,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,1,3,34,0,"Jump Shot","2PT Field Goal",4,"Utah Jazz",22,38,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,2,7,09,0,"Jump Shot","3PT Field Goal",22,"Utah Jazz",228,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,1,7,30,0,"Jump Shot","3PT Field Goal",29,"Denver Nuggets",-140,256,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,3,7,25,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-210,147,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,3,0,41,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-171,188,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,2,6,50,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",149,204,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,2,2,46,0,"Jump Shot","3PT Field Goal",27,"Denver Nuggets",-85,258,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,4,4,00,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",160,193,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,4,5,34,0,"Jump Shot","2PT Field Goal",21,"Miami Heat",133,167,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,1,1,56,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",152,207,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,3,0,57,0,"Jump Shot","3PT Field Goal",28,"Miami Heat",144,248,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,3,8,19,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",-226,72,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,1,5,49,0,"Jump Shot","2PT Field Goal",15,"Miami Heat",62,146,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-16,2017,2799,1610612746,400975183,2,0,05,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-117,228,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,1,0,04,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-227,62,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,2,8,20,0,"Jump Shot","3PT Field Goal",22,"Charlotte Hornets",-225,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,3,4,26,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-190,78,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,3,1,00,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",67,239,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,4,10,28,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",150,200,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,4,5,21,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-132,230,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,2,8,53,0,"Jump Shot","3PT Field Goal",29,"Charlotte Hornets",84,287,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,1,6,59,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-187,153,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,1,5,52,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-190,164,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,1,8,46,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-178,166,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,1,0,43,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-155,195,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,2,2,27,0,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",226,-21,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,2,7,25,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-226,77,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-19,2017,2799,1610612746,400974442,1,2,55,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",204,131,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,4,10,06,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-230,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,1,2,30,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-218,113,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-19,2017,2799,1610612746,400974442,2,11,17,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-231,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,2,7,56,0,"Jump Shot","2PT Field Goal",21,"Indiana Pacers",-64,204,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-19,2017,2799,1610612746,400974442,4,3,25,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",-163,218,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-19,2017,2799,1610612746,400974442,4,6,38,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-178,190,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-19,2017,2799,1610612746,400974442,2,10,23,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",57,127,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-01,2017,2799,1610612746,400974867,3,1,51,0,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",-155,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,4,7,38,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-102,230,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,3,0,47,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",84,231,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-01,2017,2799,1610612746,400974867,2,10,15,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",35,252,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,3,0,35,1,"Jump Shot","2PT Field Goal",22,"Denver Nuggets",15,228,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,5,2,10,0,"Jump Shot","3PT Field Goal",29,"Cleveland Cavaliers",-139,258,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,2,0,15,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-143,208,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,4,5,00,0,"Jump Shot","3PT Field Goal",28,"Cleveland Cavaliers",-133,248,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,2,8,52,0,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",122,90,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,3,2,31,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-109,241,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,3,3,35,0,"Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",-11,97,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,1,2,50,1,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",-149,148,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,4,8,50,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-163,201,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,3,0,32,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",68,261,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,2,4,48,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-177,184,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,1,4,08,0,"Jump Shot","3PT Field Goal",29,"Memphis Grizzlies",-114,275,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,1,2,01,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-136,221,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,3,3,00,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-139,213,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,3,6,50,0,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-228,30,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,4,3,52,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-136,211,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,3,1,17,1,"Jump Shot","3PT Field Goal",29,"Memphis Grizzlies",12,299,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,4,6,12,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-128,232,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,4,1,00,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-108,235,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,2,4,20,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",165,189,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,2,2,36,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-234,86,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,2,2,10,1,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",227,36,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,1,2,03,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",227,41,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,2,0,00,0,"Jump Shot","3PT Field Goal",28,"Memphis Grizzlies",54,280,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,2,11,27,1,"Jump Shot","3PT Field Goal",28,"New Orleans Pelicans",-84,274,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-01,2017,2799,1610612746,400974867,2,7,40,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",239,32,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-26,2017,2799,1610612746,400974819,1,4,01,1,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-232,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-01,2017,2799,1610612746,400974867,4,11,48,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-218,128,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,2,7,50,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-230,1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,4,9,14,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",121,226,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,4,10,33,1,"Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",53,111,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,1,5,41,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-36,258,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,2,9,06,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",101,232,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,3,7,37,0,"Jump Shot","2PT Field Goal",7,"Oklahoma City Thunder",-78,-12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,4,4,01,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",195,167,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,1,1,39,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-115,233,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,2,8,15,1,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-124,101,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,1,0,08,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-218,133,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,1,4,03,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-241,-25,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,4,1,23,0,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",-31,273,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,2,7,16,1,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-163,209,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,4,8,28,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",29,261,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,1,0,43,1,"Jump Shot","3PT Field Goal",30,"Philadelphia 76ers",-183,246,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,4,0,52,0,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",-185,92,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,4,3,29,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-225,115,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,4,2,19,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",220,152,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,2,0,05,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-41,256,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,4,4,22,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-176,84,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,4,7,07,0,"Jump Shot","3PT Field Goal",27,"Memphis Grizzlies",-99,257,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,1,1,44,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-231,21,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,4,5,15,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-225,104,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,4,7,31,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",83,164,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,2,9,39,1,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",-179,191,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,4,1,03,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",239,68,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,2,8,02,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",-179,99,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,3,0,09,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",-79,255,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,2,11,05,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",-127,236,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,3,11,25,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",188,25,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,4,8,30,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",68,244,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,2,6,25,0,"Jump Shot","2PT Field Goal",11,"Denver Nuggets",87,75,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,2,5,30,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",231,9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,2,10,46,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-85,178,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,4,1,54,0,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",92,50,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,4,7,08,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",59,254,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,4,0,49,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-40,183,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,3,2,29,1,"Jump Shot","3PT Field Goal",28,"Memphis Grizzlies",-121,257,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,3,1,46,0,"Jump Shot","3PT Field Goal",29,"Memphis Grizzlies",-179,232,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,2,11,13,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-150,218,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,3,2,49,1,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-190,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,4,0,48,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-174,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,4,1,10,1,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-79,151,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,2,0,11,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-166,192,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,2,5,49,0,"Jump Shot","3PT Field Goal",28,"Chicago Bulls",127,255,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,4,6,30,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",44,259,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,1,3,11,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-76,235,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,4,4,03,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-210,137,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,4,9,20,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",90,243,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,4,4,26,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",-98,241,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,2,3,03,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-44,245,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,3,0,02,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",-155,211,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,3,1,40,1,"Jump Shot","3PT Field Goal",27,"Washington Wizards",176,209,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,3,0,31,1,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-215,147,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,3,5,35,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-152,78,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,4,11,51,0,"Jump Shot","3PT Field Goal",27,"Washington Wizards",79,260,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,4,11,16,0,"Jump Shot","2PT Field Goal",4,"Denver Nuggets",-20,41,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,3,3,59,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",114,243,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,3,7,04,1,"Jump Shot","3PT Field Goal",28,"Denver Nuggets",2,285,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-07,2017,2799,1610612746,400975937,3,1,09,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",225,85,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,3,3,23,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",107,233,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,2,3,54,0,"Jump Shot","2PT Field Goal",21,"Dallas Mavericks",-130,177,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,2,0,31,0,"Jump Shot","3PT Field Goal",27,"Dallas Mavericks",-107,257,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,3,2,05,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-232,26,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,4,2,36,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",59,155,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,4,5,05,0,"Jump Shot","2PT Field Goal",21,"Indiana Pacers",21,216,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,2,6,22,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-130,117,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,3,2,53,0,"Jump Shot","3PT Field Goal",28,"Golden State Warriors",62,278,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,2,3,21,1,"Jump Shot","2PT Field Goal",10,"New Orleans Pelicans",73,72,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,2,1,00,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",-29,199,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,1,6,29,1,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",-200,57,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,4,5,00,1,"Jump Shot","2PT Field Goal",9,"Golden State Warriors",8,90,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,3,7,35,0,"Jump Shot","2PT Field Goal",22,"Golden State Warriors",49,215,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,2,7,06,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-187,162,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,1,6,46,0,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",24,61,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,3,3,11,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",166,185,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,4,0,29,1,"Jump Shot","3PT Field Goal",29,"Golden State Warriors",162,252,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,3,0,08,1,"Jump Shot","3PT Field Goal",28,"Golden State Warriors",-93,265,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,1,7,45,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-204,141,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,2,0,17,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-160,194,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,2,5,02,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",99,148,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,1,11,11,1,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",-223,-21,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,1,4,59,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",150,213,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,4,1,33,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",179,175,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,3,7,57,1,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",130,230,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,2,2,33,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-218,114,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,4,2,06,0,"Jump Shot","3PT Field Goal",30,"Golden State Warriors",8,302,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,3,0,38,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-73,252,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,3,5,08,1,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-57,179,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,2,9,04,0,"Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",29,114,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,1,0,00,0,"Jump Shot","3PT Field Goal",29,"New Orleans Pelicans",-212,208,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,3,1,39,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-6,206,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,2,1,20,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-172,176,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,2,0,08,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",16,277,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,3,6,04,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-176,196,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,2,7,03,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-174,193,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,4,5,01,1,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",116,247,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,4,7,03,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-231,-3,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-26,2017,2799,1610612746,400975251,1,1,57,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",83,156,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,3,0,04,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",140,227,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,4,5,04,0,"Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",-35,64,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,4,7,48,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-224,153,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-26,2017,2799,1610612746,400975251,2,8,05,0,"Jump Shot","3PT Field Goal",27,"Sacramento Kings",-74,260,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-26,2017,2799,1610612746,400975251,1,2,26,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",127,142,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-26,2017,2799,1610612746,400975251,3,1,52,1,"Jump Shot","3PT Field Goal",28,"Sacramento Kings",154,235,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-26,2017,2799,1610612746,400975251,1,3,51,1,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-131,231,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-26,2017,2799,1610612746,400975251,2,9,56,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",221,135,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-26,2017,2799,1610612746,400975251,4,10,25,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",233,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-26,2017,2799,1610612746,400975251,3,0,46,0,"Jump Shot","3PT Field Goal",28,"Sacramento Kings",-136,246,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,2,10,18,0,"Jump Shot","2PT Field Goal",17,"Washington Wizards",168,34,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,2,4,54,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-221,127,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,3,2,53,1,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-230,23,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,3,3,14,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-183,71,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,1,10,54,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-217,113,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,2,11,44,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",114,223,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,3,5,20,0,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",-37,140,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,4,0,59,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-11,253,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,3,1,53,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-146,209,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,2,4,24,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-142,120,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,3,9,12,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",11,250,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,4,4,35,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",-74,141,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,1,8,52,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",230,7,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,3,3,09,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-31,247,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,4,6,38,0,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",229,19,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,1,11,45,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-123,217,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,2,0,59,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-174,184,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,2,3,47,0,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",-168,155,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,3,0,34,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-171,183,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,1,7,16,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",54,251,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,2,0,03,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-188,170,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,3,7,01,0,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",229,21,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,4,1,26,0,"Jump Shot","2PT Field Goal",11,"Sacramento Kings",-102,50,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,1,0,39,0,"Jump Shot","3PT Field Goal",31,"New Orleans Pelicans",-58,310,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,2,0,24,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",161,206,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,1,2,30,0,"Jump Shot","3PT Field Goal",28,"New Orleans Pelicans",-140,251,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,2,3,34,1,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-239,21,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,1,3,00,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-187,171,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,4,2,12,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",145,212,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,2,11,01,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-193,181,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,2,6,53,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-111,153,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,4,5,04,0,"Jump Shot","2PT Field Goal",7,"Phoenix Suns",77,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,2,7,13,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",138,218,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,4,4,35,1,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-108,241,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,3,0,18,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-176,177,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,4,5,45,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-198,173,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,4,11,20,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",166,173,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,2,1,56,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-170,185,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,1,3,28,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-79,246,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,4,9,47,1,"Jump Shot","3PT Field Goal",28,"Utah Jazz",-188,214,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,2,3,45,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",191,179,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,3,4,04,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",48,246,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,4,8,03,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-180,185,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,2,11,27,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",168,183,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,1,0,10,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-17,263,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,3,10,29,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-230,3,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,3,11,02,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-70,246,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,4,0,33,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-169,179,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,3,9,59,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-146,190,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,1,3,13,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-134,200,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,3,0,58,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",189,153,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,1,0,00,1,"Jump Shot","3PT Field Goal",29,"Dallas Mavericks",-60,290,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,3,0,39,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-131,218,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,3,3,03,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",143,212,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,4,2,15,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-195,160,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,4,6,34,0,"Jump Shot","3PT Field Goal",27,"Toronto Raptors",-92,254,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,1,3,33,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",84,250,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,4,11,26,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-237,55,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,3,0,48,0,"Jump Shot","3PT Field Goal",30,"Toronto Raptors",-128,281,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,2,0,47,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",133,227,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,3,6,09,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",242,75,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,1,5,09,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-93,247,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,4,10,49,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-3,256,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,2,8,46,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-220,82,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,1,0,31,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-79,229,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,3,5,36,0,"Jump Shot","3PT Field Goal",28,"Denver Nuggets",26,281,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,1,4,40,1,"Jump Shot","2PT Field Goal",7,"Denver Nuggets",17,78,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,3,3,43,0,"Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",41,42,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,3,3,21,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",231,45,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,2,6,36,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",230,75,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,2,11,45,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",123,222,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,4,5,28,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-207,153,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,2,8,26,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-227,82,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,4,9,54,1,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-213,162,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,2,9,39,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-8,248,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,3,0,01,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-226,107,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,4,0,23,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",135,230,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,1,0,32,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",231,63,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,3,5,37,1,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",223,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,2,11,43,1,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",221,83,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,2,0,13,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",-6,178,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,2,5,28,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",179,170,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,4,7,11,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",207,173,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,3,0,02,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-233,19,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,3,0,53,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-35,256,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,2,1,45,1,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-228,-1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,4,0,32,0,"Jump Shot","3PT Field Goal",27,"Portland Trail Blazers",134,236,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,4,1,14,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",-142,231,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,4,0,40,0,"Jump Shot","3PT Field Goal",30,"Indiana Pacers",-208,217,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,4,1,43,1,"Jump Shot","3PT Field Goal",30,"Indiana Pacers",-212,220,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,2,3,56,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-188,167,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,4,6,53,1,"Jump Shot","2PT Field Goal",21,"Indiana Pacers",-76,199,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-28,2017,2799,1610612746,400975667,1,0,05,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",22,247,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,3,4,44,0,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-226,-6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,4,4,37,1,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-226,35,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-28,2017,2799,1610612746,400975667,2,0,43,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",149,225,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-28,2017,2799,1610612746,400975667,2,8,21,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-234,53,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,4,5,52,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",71,157,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,4,7,51,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-67,247,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,1,1,03,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",233,42,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,4,8,36,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",223,101,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,2,10,19,1,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",83,155,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,3,5,49,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-234,44,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,4,2,44,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",55,244,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,1,0,00,0,"Jump Shot","3PT Field Goal",28,"Milwaukee Bucks",-8,288,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,2,6,27,0,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",228,-15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,4,11,51,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",11,254,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,2,9,24,0,"Jump Shot","2PT Field Goal",11,"San Antonio Spurs",14,115,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,1,4,23,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",-225,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,4,6,26,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-202,137,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,4,7,51,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-116,233,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,3,2,57,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",-115,165,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,4,9,47,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",133,222,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,4,0,31,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-175,190,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,1,2,04,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-229,33,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,2,4,49,1,"Jump Shot","3PT Field Goal",27,"San Antonio Spurs",-125,242,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,1,0,35,0,"Jump Shot","3PT Field Goal",27,"San Antonio Spurs",-147,233,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,3,2,12,0,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",3,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-04,2017,2799,1610612746,400974882,2,1,48,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",6,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,3,1,59,1,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",4,27,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-17,2017,2799,1610612746,400974971,2,1,10,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",2,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,4,7,26,1,"Layup Shot","2PT Field Goal",3,"Oklahoma City Thunder",28,14,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-28,2017,2799,1610612746,400975667,3,5,43,0,"Layup Shot","2PT Field Goal",0,"Houston Rockets",2,-4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,2,2,13,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",22,19,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,4,3,25,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",-13,9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,4,9,49,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",6,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,4,9,51,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",14,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,1,11,20,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",13,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,4,6,54,0,"Layup Shot","2PT Field Goal",9,"Sacramento Kings",51,78,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,2,1,50,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-2,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,2,4,05,0,"Layup Shot","2PT Field Goal",3,"Charlotte Hornets",-19,25,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-24,2017,2799,1610612746,400974805,2,10,03,0,"Layup Shot","2PT Field Goal",0,"Utah Jazz",-1,-6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,2,0,46,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",2,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,4,3,14,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-3,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,2,7,41,0,"Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",33,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,4,4,35,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",3,1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,2,0,21,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",0,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,4,7,02,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",2,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,3,3,45,1,"Layup Shot","2PT Field Goal",5,"New Orleans Pelicans",-35,42,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,3,2,53,0,"Layup Shot","2PT Field Goal",4,"Portland Trail Blazers",-9,42,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,3,2,52,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-11,19,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-04,2017,2799,1610612746,400974882,1,0,04,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",16,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,2,10,10,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",4,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,3,1,58,1,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",5,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,2,5,04,0,"Layup Shot","2PT Field Goal",4,"New York Knicks",39,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,2,1,42,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",19,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,2,8,30,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",24,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-11,2017,2799,1610612746,400974929,1,0,40,0,"Layup Shot","2PT Field Goal",5,"New Orleans Pelicans",44,26,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-26,2017,2799,1610612746,400975251,2,2,49,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-2,19,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-26,2017,2799,1610612746,400975251,2,4,24,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",17,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-22,2017,2799,1610612746,400975618,3,5,20,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-2,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-22,2017,2799,1610612746,400975618,2,11,01,0,"Layup Shot","2PT Field Goal",8,"Golden State Warriors",65,50,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,3,0,03,0,"Layup Shot","2PT Field Goal",3,"Portland Trail Blazers",7,31,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,2,8,54,0,"Layup Shot","2PT Field Goal",4,"Oklahoma City Thunder",30,28,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,3,7,12,0,"Layup Shot","2PT Field Goal",3,"Portland Trail Blazers",13,31,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,2,9,32,0,"Layup Shot","2PT Field Goal",4,"Portland Trail Blazers",-19,46,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,3,5,49,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-26,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,2,0,56,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",8,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,4,3,37,0,"Layup Shot","2PT Field Goal",1,"Houston Rockets",12,9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,4,9,50,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",10,5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,2,4,29,0,"Layup Shot","2PT Field Goal",5,"New Orleans Pelicans",47,30,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-20,2017,2799,1610612746,400974996,3,4,16,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",-13,11,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,1,2,31,0,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",14,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,3,4,59,0,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",6,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,3,2,08,0,"Pullup Jump shot","2PT Field Goal",9,"Phoenix Suns",82,48,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,3,4,28,0,"Pullup Jump shot","3PT Field Goal",25,"Brooklyn Nets",40,249,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,4,8,38,1,"Pullup Jump shot","3PT Field Goal",24,"Minnesota Timberwolves",-182,170,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,2,1,23,1,"Pullup Jump shot","2PT Field Goal",13,"Charlotte Hornets",46,125,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-31,2017,0,1610612746,0,2,6,11,0,"Pullup Jump shot","2PT Field Goal",14,"Charlotte Hornets",-16,141,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,1,2,54,1,"Pullup Jump shot","2PT Field Goal",15,"Philadelphia 76ers",-150,22,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,4,0,56,0,"Pullup Jump shot","2PT Field Goal",21,"Boston Celtics",-204,59,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,2,4,27,0,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",65,159,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-09,2017,2799,1610612746,400975563,3,0,45,1,"Pullup Jump shot","2PT Field Goal",21,"Detroit Pistons",-67,206,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,1,5,43,0,"Pullup Jump shot","2PT Field Goal",15,"Dallas Mavericks",2,159,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-09,2017,2799,1610612746,400975563,2,6,56,0,"Pullup Jump shot","2PT Field Goal",11,"Detroit Pistons",-100,55,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,1,0,15,1,"Pullup Jump shot","3PT Field Goal",24,"Memphis Grizzlies",-145,201,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-26,2017,2799,1610612746,400974819,4,10,23,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-100,149,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,3,0,56,0,"Pullup Jump shot","3PT Field Goal",25,"Charlotte Hornets",-168,197,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,4,8,07,0,"Pullup Jump shot","3PT Field Goal",25,"Charlotte Hornets",-217,142,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,3,3,58,0,"Pullup Jump shot","2PT Field Goal",10,"Philadelphia 76ers",-78,68,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,4,10,04,1,"Pullup Jump shot","3PT Field Goal",25,"Indiana Pacers",-27,258,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,3,0,49,1,"Pullup Jump shot","2PT Field Goal",16,"Memphis Grizzlies",-1,162,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,4,11,51,1,"Pullup Jump shot","2PT Field Goal",21,"Portland Trail Blazers",-60,204,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,3,0,05,0,"Pullup Jump shot","2PT Field Goal",19,"San Antonio Spurs",-24,190,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,3,0,31,0,"Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",-89,236,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,2,0,09,0,"Pullup Jump shot","2PT Field Goal",14,"Brooklyn Nets",-61,132,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-24,2017,2799,1610612746,400974805,3,0,26,0,"Pullup Jump shot","3PT Field Goal",26,"Utah Jazz",-204,169,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,2,9,13,1,"Pullup Jump shot","2PT Field Goal",15,"Brooklyn Nets",-67,138,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,1,1,05,0,"Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",150,-5,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,4,10,42,1,"Pullup Jump shot","2PT Field Goal",17,"Philadelphia 76ers",-91,148,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,2,4,04,0,"Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",-73,141,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,1,0,15,1,"Pullup Jump shot","3PT Field Goal",24,"San Antonio Spurs",-93,226,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,2,7,51,1,"Pullup Jump shot","2PT Field Goal",18,"Denver Nuggets",127,137,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,1,8,18,1,"Pullup Jump shot","3PT Field Goal",27,"Los Angeles Lakers",-76,264,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,4,10,11,1,"Pullup Jump shot","3PT Field Goal",26,"San Antonio Spurs",-174,201,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,2,10,11,1,"Pullup Jump shot","3PT Field Goal",22,"Oklahoma City Thunder",-224,13,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,2,7,09,0,"Pullup Jump shot","3PT Field Goal",24,"Phoenix Suns",-151,195,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,4,8,44,0,"Pullup Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",-161,189,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,2,1,44,1,"Pullup Jump shot","2PT Field Goal",6,"Oklahoma City Thunder",60,33,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,3,0,08,0,"Pullup Jump shot","3PT Field Goal",27,"Oklahoma City Thunder",98,261,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,2,6,18,1,"Pullup Jump shot","2PT Field Goal",9,"Phoenix Suns",-95,26,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,1,4,20,0,"Pullup Jump shot","2PT Field Goal",14,"Portland Trail Blazers",-12,148,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,3,2,06,1,"Pullup Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",-21,243,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,3,1,20,0,"Pullup Jump shot","2PT Field Goal",17,"Memphis Grizzlies",94,147,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,3,6,04,0,"Pullup Jump shot","2PT Field Goal",21,"Dallas Mavericks",-180,112,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-02,2017,2799,1610612746,400975078,1,10,17,0,"Pullup Jump shot","2PT Field Goal",15,"Dallas Mavericks",-154,24,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,1,6,33,0,"Pullup Jump shot","2PT Field Goal",20,"Atlanta Hawks",62,200,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,4,2,35,0,"Pullup Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",-40,241,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,4,3,25,1,"Pullup Jump shot","2PT Field Goal",14,"New Orleans Pelicans",-6,142,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-20,2017,2799,1610612746,400975806,1,4,13,0,"Pullup Jump shot","2PT Field Goal",17,"Minnesota Timberwolves",-142,110,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-20,2017,2799,1610612746,400975806,2,10,15,1,"Pullup Jump shot","2PT Field Goal",16,"Minnesota Timberwolves",-111,127,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-01,2017,2799,1610612746,400974867,4,9,00,1,"Pullup Jump shot","2PT Field Goal",22,"Dallas Mavericks",-147,167,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,4,3,53,0,"Pullup Jump shot","2PT Field Goal",21,"Toronto Raptors",35,211,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,2,1,13,1,"Pullup Jump shot","2PT Field Goal",16,"Phoenix Suns",-6,162,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,2,8,49,1,"Pullup Jump shot","3PT Field Goal",25,"Phoenix Suns",-10,255,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-20,2017,2799,1610612746,400974996,4,10,16,0,"Pullup Jump shot","2PT Field Goal",17,"New York Knicks",-35,173,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,2,7,48,1,"Pullup Jump shot","2PT Field Goal",8,"Boston Celtics",83,25,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-26,2017,2799,1610612746,400974819,1,2,06,0,"Pullup Jump shot","3PT Field Goal",25,"Portland Trail Blazers",-135,214,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-21,2017,2799,1610612746,0,2,10,38,0,"Pullup Jump shot","3PT Field Goal",26,"Milwaukee Bucks",-128,232,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,4,2,36,1,"Pullup Jump shot","3PT Field Goal",28,"Golden State Warriors",-130,256,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,4,2,10,1,"Pullup Jump shot","2PT Field Goal",13,"Toronto Raptors",-90,107,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,2,8,42,0,"Pullup Jump shot","2PT Field Goal",16,"Toronto Raptors",-101,136,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-26,2017,2799,1610612746,400974819,2,11,49,0,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-87,157,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,2,6,04,0,"Pullup Jump shot","2PT Field Goal",18,"Toronto Raptors",70,176,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,1,0,17,1,"Pullup Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",-109,235,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,3,5,39,1,"Pullup Jump shot","2PT Field Goal",16,"Sacramento Kings",-71,153,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,4,5,17,1,"Pullup Jump shot","3PT Field Goal",26,"Phoenix Suns",-182,188,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-21,2017,2799,1610612746,0,3,0,29,0,"Pullup Jump shot","3PT Field Goal",27,"Milwaukee Bucks",-87,259,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-10,2017,2799,1610612746,400975359,3,4,29,1,"Pullup Jump shot","2PT Field Goal",19,"Golden State Warriors",-56,188,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,1,1,43,0,"Pullup Jump shot","2PT Field Goal",17,"New York Knicks",22,173,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,4,4,30,1,"Pullup Jump shot","2PT Field Goal",17,"Toronto Raptors",9,175,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,1,1,14,0,"Pullup Jump shot","2PT Field Goal",18,"Atlanta Hawks",-82,170,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-05,2017,2799,1610612746,400974888,4,11,10,1,"Pullup Jump shot","2PT Field Goal",19,"Miami Heat",-126,146,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,1,0,40,0,"Pullup Jump shot","2PT Field Goal",17,"Orlando Magic",-67,167,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-28,2017,2799,1610612746,400974835,4,7,43,1,"Pullup Jump shot","2PT Field Goal",19,"Detroit Pistons",-24,191,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,3,4,54,1,"Pullup Jump shot","2PT Field Goal",16,"Memphis Grizzlies",110,126,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,3,4,40,0,"Pullup Jump shot","3PT Field Goal",26,"New Orleans Pelicans",-85,247,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,4,9,51,1,"Pullup Jump shot","2PT Field Goal",7,"Indiana Pacers",48,55,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,3,2,02,0,"Pullup Jump shot","2PT Field Goal",17,"San Antonio Spurs",-98,150,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,1,5,10,1,"Pullup Jump shot","2PT Field Goal",20,"New Orleans Pelicans",-127,157,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-22,2017,2799,1610612746,400975618,2,9,53,0,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",-179,184,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,4,0,45,0,"Pullup Jump shot","3PT Field Goal",26,"Brooklyn Nets",51,258,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,4,6,40,0,"Pullup Jump shot","3PT Field Goal",24,"San Antonio Spurs",228,75,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,3,2,01,0,"Pullup Jump shot","2PT Field Goal",8,"Atlanta Hawks",-35,72,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,2,7,16,0,"Pullup Jump shot","2PT Field Goal",19,"Boston Celtics",-101,168,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-05,2017,2799,1610612746,400975925,3,10,42,0,"Pullup Jump shot","2PT Field Goal",20,"Utah Jazz",14,200,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,3,6,04,0,"Pullup Jump shot","2PT Field Goal",14,"Portland Trail Blazers",52,131,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,4,0,50,1,"Pullup Jump shot","2PT Field Goal",18,"San Antonio Spurs",-82,167,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-04,2017,2799,1610612746,400974882,2,7,57,1,"Pullup Jump shot","2PT Field Goal",21,"Memphis Grizzlies",-29,208,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-05,2017,2799,1610612746,400975925,2,7,00,0,"Pullup Jump shot","3PT Field Goal",24,"Utah Jazz",-228,96,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,3,0,06,0,"Pullup Jump shot","3PT Field Goal",24,"Atlanta Hawks",-100,227,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,3,2,52,0,"Pullup Jump shot","2PT Field Goal",22,"Phoenix Suns",60,221,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-22,2017,2799,1610612746,400975226,2,6,37,0,"Pullup Jump shot","3PT Field Goal",27,"Houston Rockets",150,225,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,2,2,31,0,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-59,151,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,2,5,33,0,"Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",-147,194,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,4,8,15,1,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-143,79,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,1,1,11,0,"Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",-199,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,1,6,28,0,"Pullup Jump shot","2PT Field Goal",7,"Oklahoma City Thunder",10,76,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,1,2,59,1,"Pullup Jump shot","2PT Field Goal",10,"Portland Trail Blazers",66,82,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-28,2017,2799,1610612746,400975667,3,7,54,0,"Pullup Jump shot","2PT Field Goal",15,"Houston Rockets",-152,31,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-21,2017,2799,1610612746,400974788,2,9,36,1,"Pullup Jump shot","2PT Field Goal",13,"Phoenix Suns",-5,130,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,2,7,18,1,"Pullup Jump shot","2PT Field Goal",15,"Portland Trail Blazers",-11,151,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,4,7,00,1,"Pullup Jump shot","3PT Field Goal",25,"Minnesota Timberwolves",106,235,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,4,2,14,0,"Pullup Jump shot","2PT Field Goal",17,"Washington Wizards",-92,147,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,1,7,23,1,"Pullup Jump shot","2PT Field Goal",12,"Washington Wizards",55,116,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,2,0,40,0,"Pullup Jump shot","2PT Field Goal",16,"Minnesota Timberwolves",-134,99,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,4,0,12,0,"Pullup Jump shot","3PT Field Goal",25,"Minnesota Timberwolves",-174,183,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,4,0,01,1,"Pullup Jump shot","3PT Field Goal",28,"Washington Wizards",58,281,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-28,2017,2799,1610612746,400975667,1,3,24,0,"Pullup Jump shot","2PT Field Goal",17,"Houston Rockets",78,152,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,4,5,45,0,"Pullup Jump shot","2PT Field Goal",20,"Phoenix Suns",-37,204,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,4,4,35,0,"Pullup Jump shot","3PT Field Goal",26,"Utah Jazz",-5,260,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,4,8,53,0,"Pullup Jump shot","3PT Field Goal",27,"Utah Jazz",-163,220,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-19,2017,2799,1610612746,400974442,1,3,29,0,"Pullup Jump shot","2PT Field Goal",18,"Los Angeles Lakers",-139,128,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,4,8,35,1,"Pullup Jump shot","3PT Field Goal",24,"Minnesota Timberwolves",-30,245,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,3,3,35,1,"Pullup Jump shot","2PT Field Goal",12,"Minnesota Timberwolves",-100,79,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,1,9,10,1,"Pullup Jump shot","3PT Field Goal",26,"Denver Nuggets",-166,205,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,4,6,17,1,"Pullup Jump shot","2PT Field Goal",18,"Denver Nuggets",-126,130,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-12,2017,2799,1610612746,400975589,3,0,05,0,"Pullup Jump shot","3PT Field Goal",29,"Brooklyn Nets",-67,285,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,1,2,00,1,"Pullup Jump shot","2PT Field Goal",16,"Philadelphia 76ers",-7,167,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,1,6,18,1,"Pullup Jump shot","3PT Field Goal",25,"Philadelphia 76ers",-134,220,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,2,5,35,1,"Pullup Jump shot","2PT Field Goal",14,"Sacramento Kings",-145,-3,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,3,1,28,0,"Pullup Jump shot","2PT Field Goal",16,"Sacramento Kings",85,136,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-25,2017,2799,1610612746,400975037,3,4,54,1,"Pullup Jump shot","3PT Field Goal",25,"Sacramento Kings",34,251,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,4,11,18,1,"Pullup Jump shot","2PT Field Goal",19,"Philadelphia 76ers",-95,166,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,4,10,35,0,"Pullup Jump shot","3PT Field Goal",24,"Utah Jazz",-163,183,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,1,6,17,1,"Pullup Jump shot","3PT Field Goal",25,"Utah Jazz",-141,210,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,3,1,31,1,"Pullup Jump shot","2PT Field Goal",21,"Toronto Raptors",-188,104,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,1,4,56,1,"Pullup Jump shot","2PT Field Goal",18,"Portland Trail Blazers",-37,185,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,4,7,46,0,"Pullup Jump shot","2PT Field Goal",15,"Toronto Raptors",-150,-9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,3,6,19,0,"Pullup Jump shot","2PT Field Goal",18,"Dallas Mavericks",185,28,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,2,5,03,0,"Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",52,160,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,4,3,40,1,"Pullup Jump shot","2PT Field Goal",13,"Dallas Mavericks",-128,29,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,4,0,54,0,"Pullup Jump shot","2PT Field Goal",18,"Dallas Mavericks",-81,167,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,4,10,49,0,"Pullup Jump shot","2PT Field Goal",16,"Dallas Mavericks",-23,165,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,4,7,14,0,"Pullup Jump shot","3PT Field Goal",24,"Atlanta Hawks",-145,201,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,4,3,05,0,"Pullup Jump shot","2PT Field Goal",11,"Atlanta Hawks",19,114,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-26,2017,2799,1610612746,400974819,4,9,10,1,"Pullup Jump shot","3PT Field Goal",25,"Portland Trail Blazers",-84,244,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-05,2017,2799,1610612746,400975542,2,0,37,0,"Pullup Jump shot","3PT Field Goal",24,"Dallas Mavericks",-152,195,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,2,1,01,1,"Putback Layup Shot","2PT Field Goal",0,"Denver Nuggets",0,-6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-28,2017,2799,1610612746,400975868,2,6,39,1,"Putback Layup Shot","2PT Field Goal",0,"Phoenix Suns",-3,3,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-21,2017,2799,1610612746,0,2,5,39,1,"Reverse Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-5,19,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-17,2017,2799,1610612746,400975408,3,5,51,0,"Reverse Layup Shot","2PT Field Goal",1,"Denver Nuggets",15,6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,2,10,45,1,"Running Dunk Shot","2PT Field Goal",1,"Minnesota Timberwolves",7,9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,3,0,02,1,"Running Dunk Shot","2PT Field Goal",1,"Phoenix Suns",-9,14,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,2,6,06,1,"Running Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",-4,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,2,8,54,1,"Running Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",2,9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-30,2017,2799,1610612746,400975883,4,9,08,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",0,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,1,4,52,1,"Running Finger Roll Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",-5,33,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-10,2017,2799,1610612746,400975574,3,0,30,0,"Running Finger Roll Layup Shot","2PT Field Goal",3,"Philadelphia 76ers",13,28,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,4,6,41,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",18,3,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,2,5,39,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-3,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,4,0,12,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Indiana Pacers",-6,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,3,0,29,1,"Running Finger Roll Layup Shot","2PT Field Goal",2,"Toronto Raptors",-6,20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,4,9,51,1,"Running Finger Roll Layup Shot","2PT Field Goal",2,"Toronto Raptors",-1,23,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-03,2017,2799,1610612746,400975914,1,3,53,1,"Running Jump Shot","2PT Field Goal",3,"San Antonio Spurs",-3,33,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,4,0,44,1,"Running Jump Shot","2PT Field Goal",11,"Sacramento Kings",95,63,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,3,0,31,0,"Running Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-38,266,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-30,2017,2799,1610612746,400974851,3,4,15,1,"Running Jump Shot","3PT Field Goal",24,"Golden State Warriors",-241,18,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,3,1,53,1,"Running Jump Shot","2PT Field Goal",13,"Minnesota Timberwolves",127,55,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-11,2017,2799,1610612746,400975362,4,5,01,0,"Running Jump Shot","2PT Field Goal",12,"Sacramento Kings",-82,88,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-30,2017,2799,1610612746,400974851,4,9,45,0,"Running Jump Shot","3PT Field Goal",23,"Golden State Warriors",238,21,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,4,0,00,0,"Running Jump Shot","3PT Field Goal",52,"Philadelphia 76ers",-68,518,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,4,1,41,0,"Running Jump Shot","3PT Field Goal",33,"Minnesota Timberwolves",-212,254,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,2,8,12,1,"Running Jump Shot","2PT Field Goal",10,"Utah Jazz",-57,89,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,2,8,07,0,"Running Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",2,46,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,1,3,01,0,"Running Jump Shot","2PT Field Goal",2,"Phoenix Suns",14,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-27,2017,2799,1610612746,400975861,3,10,31,1,"Running Jump Shot","2PT Field Goal",5,"Milwaukee Bucks",-11,50,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,2,7,51,0,"Running Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-138,218,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,1,0,01,0,"Running Jump Shot","3PT Field Goal",48,"Boston Celtics",110,471,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-23,2017,2799,1610612746,400975238,2,0,36,0,"Running Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-231,128,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,3,0,01,0,"Running Jump Shot","3PT Field Goal",46,"Washington Wizards",-87,457,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-22,2017,2799,1610612746,400975618,3,0,00,1,"Running Jump Shot","2PT Field Goal",11,"Golden State Warriors",10,111,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-20,2017,2799,1610612746,400975216,4,8,05,1,"Running Layup Shot","2PT Field Goal",1,"Phoenix Suns",16,9,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,3,3,29,1,"Running Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",6,-4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,2,8,05,1,"Running Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-13,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,1,1,32,1,"Running Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-4,1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,4,3,16,1,"Running Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-16,17,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-24,2017,2799,1610612746,400975455,2,11,09,1,"Running Layup Shot","2PT Field Goal",1,"Boston Celtics",-5,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-22,2017,2799,1610612746,400975007,3,7,38,1,"Running Layup Shot","2PT Field Goal",1,"Atlanta Hawks",2,15,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-08,2017,2799,1610612746,400975344,1,6,57,0,"Running Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-13,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,2,4,09,1,"Running Layup Shot","2PT Field Goal",2,"Utah Jazz",-25,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-13,2017,2799,1610612746,400975374,2,2,57,0,"Running Layup Shot","2PT Field Goal",1,"Sacramento Kings",-10,0,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,2,9,28,1,"Running Layup Shot","2PT Field Goal",2,"Chicago Bulls",13,24,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,4,4,10,0,"Running Layup Shot","2PT Field Goal",0,"Chicago Bulls",0,-1,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,4,7,58,1,"Running Layup Shot","2PT Field Goal",1,"Chicago Bulls",-3,18,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,3,2,52,1,"Running Layup Shot","2PT Field Goal",0,"Chicago Bulls",5,8,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-09,2017,2799,1610612746,400975126,1,4,15,1,"Running Layup Shot","2PT Field Goal",1,"Washington Wizards",6,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,1,5,15,0,"Running Layup Shot","2PT Field Goal",7,"Memphis Grizzlies",25,70,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,4,4,32,0,"Running Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",15,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-01,2017,2799,1610612746,400975892,4,5,45,1,"Running Layup Shot","2PT Field Goal",0,"Indiana Pacers",9,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,3,4,17,1,"Running Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",11,4,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-13,2017,2799,1610612746,400975156,1,3,59,0,"Running Layup Shot","2PT Field Goal",3,"Orlando Magic",0,39,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-22,2017,2799,1610612746,400975441,4,9,02,1,"Running Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",4,6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-02,2017,2799,1610612746,400975681,3,1,52,0,"Running Pull-Up Jump Shot","3PT Field Goal",25,"New York Knicks",-93,241,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,1,2,34,0,"Running Pull-Up Jump Shot","3PT Field Goal",27,"Oklahoma City Thunder",148,235,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,4,6,25,1,"Running Pull-Up Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-109,219,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,4,8,12,1,"Running Pull-Up Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",64,12,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,3,5,23,1,"Running Pull-Up Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",124,215,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,3,2,24,1,"Running Pull-Up Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-54,161,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,1,0,00,1,"Running Pull-Up Jump Shot","3PT Field Goal",46,"Oklahoma City Thunder",185,428,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-30,2017,2799,1610612746,400975498,4,4,44,0,"Running Pull-Up Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",177,174,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,4,7,35,0,"Running Pull-Up Jump Shot","2PT Field Goal",16,"Utah Jazz",34,162,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,4,3,22,1,"Step Back Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",141,56,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-23,2017,2799,1610612746,400975824,3,0,08,0,"Step Back Jump shot","2PT Field Goal",17,"Indiana Pacers",101,143,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,4,10,59,0,"Step Back Jump shot","3PT Field Goal",22,"New Orleans Pelicans",-226,10,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,2,7,54,0,"Step Back Jump shot","3PT Field Goal",23,"Brooklyn Nets",-230,60,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-13,2017,2799,1610612746,400974951,3,1,29,0,"Step Back Jump shot","2PT Field Goal",14,"Philadelphia 76ers",-130,67,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,2,0,07,0,"Step Back Jump shot","3PT Field Goal",22,"Minnesota Timberwolves",-225,-20,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-05,2017,2799,1610612746,400975925,3,9,16,0,"Step Back Jump shot","3PT Field Goal",25,"Utah Jazz",53,252,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-04,2017,2799,1610612746,400975694,1,3,20,0,"Step Back Jump shot","2PT Field Goal",19,"Brooklyn Nets",-179,89,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-07,2017,2799,1610612746,400974905,4,7,53,1,"Step Back Jump shot","2PT Field Goal",18,"San Antonio Spurs",-76,170,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,4,11,25,1,"Step Back Jump shot","2PT Field Goal",14,"Minnesota Timberwolves",-138,42,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,2,9,18,0,"Step Back Jump shot","2PT Field Goal",16,"New Orleans Pelicans",-53,153,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-30,2017,2799,1610612746,400975068,2,4,37,0,"Step Back Jump shot","2PT Field Goal",17,"Utah Jazz",-171,53,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-10,2017,2799,1610612746,400974923,3,5,53,1,"Step Back Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",-40,243,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-27,2017,2799,1610612746,400975658,2,1,12,0,"Step Back Jump shot","3PT Field Goal",23,"Denver Nuggets",-230,16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-18,2017,2799,1610612746,400974979,2,10,04,0,"Step Back Jump shot","3PT Field Goal",26,"Charlotte Hornets",-67,261,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-20,2017,2799,1610612746,400975806,3,8,29,0,"Step Back Jump shot","2PT Field Goal",15,"Minnesota Timberwolves",-5,152,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,4,3,21,0,"Step Back Jump shot","3PT Field Goal",31,"Oklahoma City Thunder",-199,249,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,4,1,43,0,"Step Back Jump shot","3PT Field Goal",25,"Phoenix Suns",6,259,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-26,2017,2799,1610612746,400974819,2,7,51,0,"Step Back Jump shot","3PT Field Goal",23,"Portland Trail Blazers",-222,67,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,2,10,49,0,"Step Back Jump shot","3PT Field Goal",23,"Boston Celtics",-230,-16,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-11-27,2017,2799,1610612746,400975048,3,0,29,0,"Step Back Jump shot","3PT Field Goal",26,"Los Angeles Lakers",-17,269,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-16,2017,2799,1610612746,400975778,3,8,20,0,"Step Back Jump shot","3PT Field Goal",22,"Oklahoma City Thunder",-228,-2,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-03,2017,2799,1610612746,400975521,3,0,56,0,"Step Back Jump shot","2PT Field Goal",17,"Chicago Bulls",-87,155,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,2,3,34,0,"Step Back Jump shot","2PT Field Goal",14,"Phoenix Suns",-143,-2,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-18,2017,2799,1610612746,400975795,2,6,32,1,"Step Back Jump shot","2PT Field Goal",13,"Portland Trail Blazers",-138,-3,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-23,2017,2799,1610612746,400975627,2,0,42,1,"Step Back Jump shot","2PT Field Goal",15,"Phoenix Suns",28,152,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-04,2017,2799,1610612746,400975313,4,9,36,0,"Step Back Jump shot","3PT Field Goal",31,"Oklahoma City Thunder",158,267,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-03-25,2017,2799,1610612746,400975843,4,1,30,1,"Step Back Jump shot","2PT Field Goal",21,"Toronto Raptors",194,102,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,1,9,53,1,"Step Back Jump shot","2PT Field Goal",16,"Utah Jazz",-157,43,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-26,2017,2799,1610612746,400975464,3,0,56,1,"Step Back Jump shot","2PT Field Goal",20,"Memphis Grizzlies",179,105,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-04-05,2017,2799,1610612746,400975925,1,4,19,0,"Step Back Jump shot","3PT Field Goal",24,"Utah Jazz",134,206,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-20,2017,2799,1610612746,400975427,4,8,17,0,"Step Back Jump shot","3PT Field Goal",27,"Utah Jazz",-121,244,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-02-14,2017,2799,1610612746,400975604,2,5,42,0,"Step Back Jump shot","3PT Field Goal",26,"Boston Celtics",119,235,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-11,2017,2799,1610612746,400975147,1,4,01,1,"Tip Layup Shot","2PT Field Goal",0,"Toronto Raptors",0,-6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-19,2017,2799,1610612746,400974442,3,2,45,1,"Tip Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,1,2,48,0,"Tip Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",2,25,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,2,6,37,0,"Tip Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,-6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-02,2017,2799,1610612746,400975299,4,2,13,0,"Tip Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",0,-6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-10-24,2017,2799,1610612746,400974805,1,1,55,0,"Tip Layup Shot","2PT Field Goal",0,"Utah Jazz",0,-6,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-03,2017,2799,1610612746,400975087,4,0,31,1,"Turnaround Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",225,114,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2018-01-28,2017,2799,1610612746,400975479,4,8,21,1,"Turnaround Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",82,2,0,0.00,,0.00,0.00
+"Lou Williams","LA Clippers",2017-12-06,2017,2799,1610612746,400975113,3,0,00,1,"Turnaround Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",117,233,0,0.00,,0.00,0.00

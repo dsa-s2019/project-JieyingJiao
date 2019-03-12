@@ -1,0 +1,876 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,3,2,09,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Denver Nuggets",-5,4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,1,5,51,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Charlotte Hornets",8,7,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,1,10,01,0,"Alley Oop Dunk Shot","2PT Field Goal",1,"Portland Trail Blazers",11,-4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,1,8,32,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Indiana Pacers",-5,8,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,4,0,50,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Memphis Grizzlies",3,15,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,1,0,02,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Sacramento Kings",-8,0,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,1,1,53,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",-9,1,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,3,10,15,0,"Alley Oop Layup shot","2PT Field Goal",1,"San Antonio Spurs",10,17,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,1,7,45,1,"Alley Oop Layup shot","2PT Field Goal",2,"Milwaukee Bucks",-13,17,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,2,5,15,1,"Cutting Dunk Shot","2PT Field Goal",2,"Milwaukee Bucks",-6,26,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,1,4,10,1,"Cutting Dunk Shot","2PT Field Goal",0,"Phoenix Suns",-4,0,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,4,1,02,1,"Cutting Dunk Shot","2PT Field Goal",3,"New Orleans Pelicans",6,31,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,5,0,00,1,"Cutting Dunk Shot","2PT Field Goal",0,"Chicago Bulls",-8,0,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,2,2,39,1,"Cutting Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",3,6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,1,10,16,1,"Cutting Dunk Shot","2PT Field Goal",1,"Minnesota Timberwolves",3,11,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,3,9,43,1,"Cutting Dunk Shot","2PT Field Goal",0,"Chicago Bulls",2,5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,1,7,14,1,"Cutting Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",-6,4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,1,1,22,1,"Cutting Dunk Shot","2PT Field Goal",2,"San Antonio Spurs",2,21,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,2,1,03,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",16,22,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,2,0,39,1,"Cutting Layup Shot","2PT Field Goal",6,"Washington Wizards",44,52,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,2,7,17,1,"Cutting Layup Shot","2PT Field Goal",10,"Atlanta Hawks",-8,104,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,4,2,14,1,"Cutting Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,8,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,4,7,11,1,"Cutting Layup Shot","2PT Field Goal",5,"Boston Celtics",54,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,4,11,40,1,"Cutting Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-5,4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,4,2,08,0,"Cutting Layup Shot","2PT Field Goal",6,"Los Angeles Lakers",46,47,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,1,1,19,0,"Cutting Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-20,10,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,2,2,27,0,"Cutting Layup Shot","2PT Field Goal",2,"Denver Nuggets",18,15,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,3,11,13,0,"Driving Bank Hook Shot","2PT Field Goal",4,"Toronto Raptors",40,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-14,2017,3102531,1610612752,400975165,1,8,40,1,"Driving Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",-6,-2,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,4,4,48,1,"Driving Dunk Shot","2PT Field Goal",1,"Phoenix Suns",-3,-10,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,3,4,09,1,"Driving Dunk Shot","2PT Field Goal",1,"New Orleans Pelicans",-2,11,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,2,2,43,1,"Driving Dunk Shot","2PT Field Goal",1,"Utah Jazz",5,13,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,2,6,18,1,"Driving Dunk Shot","2PT Field Goal",1,"Chicago Bulls",0,11,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,1,11,02,1,"Driving Dunk Shot","2PT Field Goal",0,"Chicago Bulls",-3,8,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,1,7,22,1,"Driving Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",3,-4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,3,5,39,1,"Driving Dunk Shot","2PT Field Goal",0,"Chicago Bulls",9,3,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,3,5,32,0,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",8,16,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,4,0,11,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Charlotte Hornets",6,21,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,4,2,47,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",6,28,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-26,2017,3102531,1610612752,400975469,2,6,37,0,"Driving Floating Bank Jump Shot","2PT Field Goal",4,"Phoenix Suns",43,25,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,3,6,26,1,"Driving Floating Bank Jump Shot","2PT Field Goal",6,"Dallas Mavericks",-39,54,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,4,2,30,1,"Driving Floating Bank Jump Shot","2PT Field Goal",9,"Memphis Grizzlies",-92,36,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,1,3,25,1,"Driving Floating Bank Jump Shot","2PT Field Goal",11,"Houston Rockets",-82,76,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,2,5,00,1,"Driving Floating Bank Jump Shot","2PT Field Goal",7,"Oklahoma City Thunder",75,26,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,4,7,46,0,"Driving Floating Bank Jump Shot","2PT Field Goal",4,"Chicago Bulls",32,26,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,4,6,14,0,"Driving Floating Jump Shot","2PT Field Goal",19,"Chicago Bulls",134,142,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,1,10,00,1,"Driving Floating Jump Shot","2PT Field Goal",2,"Miami Heat",27,5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,1,11,01,0,"Driving Floating Jump Shot","2PT Field Goal",1,"Los Angeles Lakers",-13,13,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,2,9,54,0,"Driving Floating Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",19,125,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,2,4,25,0,"Driving Floating Jump Shot","2PT Field Goal",9,"Milwaukee Bucks",-30,88,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,3,1,06,1,"Driving Hook Shot","2PT Field Goal",6,"Toronto Raptors",57,26,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,1,7,47,1,"Driving Hook Shot","2PT Field Goal",11,"Boston Celtics",32,109,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,3,9,16,0,"Driving Hook Shot","2PT Field Goal",2,"Dallas Mavericks",-3,23,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-26,2017,3102531,1610612752,400975469,2,6,09,0,"Driving Hook Shot","2PT Field Goal",9,"Phoenix Suns",27,94,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,2,0,23,1,"Driving Hook Shot","2PT Field Goal",10,"Chicago Bulls",-87,63,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,3,8,42,1,"Driving Hook Shot","2PT Field Goal",6,"Atlanta Hawks",47,42,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,3,4,24,1,"Driving Hook Shot","2PT Field Goal",5,"Sacramento Kings",32,47,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,4,8,30,0,"Driving Hook Shot","2PT Field Goal",13,"Washington Wizards",-47,130,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,5,0,52,1,"Driving Hook Shot","2PT Field Goal",2,"Los Angeles Lakers",19,19,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,2,1,15,0,"Driving Hook Shot","2PT Field Goal",10,"Oklahoma City Thunder",-32,95,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,1,2,44,0,"Driving Hook Shot","2PT Field Goal",8,"Toronto Raptors",5,84,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,2,1,43,0,"Driving Hook Shot","2PT Field Goal",8,"Toronto Raptors",0,83,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,3,8,19,0,"Driving Layup Shot","2PT Field Goal",6,"New Orleans Pelicans",-38,54,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,2,3,51,1,"Driving Layup Shot","2PT Field Goal",4,"Indiana Pacers",-7,48,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,4,6,58,0,"Driving Layup Shot","2PT Field Goal",4,"Phoenix Suns",-39,22,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,4,5,46,0,"Driving Layup Shot","2PT Field Goal",3,"Chicago Bulls",-35,5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,3,11,20,1,"Driving Layup Shot","2PT Field Goal",6,"Atlanta Hawks",-13,67,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,4,6,41,1,"Driving Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-5,7,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,1,4,12,0,"Driving Layup Shot","2PT Field Goal",3,"Toronto Raptors",-35,5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,4,6,03,0,"Driving Layup Shot","2PT Field Goal",5,"Cleveland Cavaliers",-51,31,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,2,7,06,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",7,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,1,7,14,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-4,19,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,4,3,11,0,"Driving Layup Shot","2PT Field Goal",3,"San Antonio Spurs",-30,6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,1,10,05,0,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-6,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,1,4,47,1,"Driving Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",20,29,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,2,7,04,1,"Driving Layup Shot","2PT Field Goal",2,"Detroit Pistons",-17,13,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,1,9,41,0,"Driving Layup Shot","2PT Field Goal",3,"Boston Celtics",-20,25,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,3,7,55,0,"Driving Layup Shot","2PT Field Goal",3,"Boston Celtics",21,23,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,1,2,44,0,"Driving Layup Shot","2PT Field Goal",9,"Boston Celtics",-71,59,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,2,0,19,1,"Driving Layup Shot","2PT Field Goal",3,"Sacramento Kings",30,8,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,1,2,06,1,"Driving Layup Shot","2PT Field Goal",7,"New Orleans Pelicans",55,58,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,4,0,37,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-6,13,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-14,2017,3102531,1610612752,400975165,1,7,22,0,"Driving Layup Shot","2PT Field Goal",3,"Brooklyn Nets",36,9,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,1,3,40,0,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",6,18,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,4,1,54,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",12,27,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,2,9,00,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",5,-5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,2,5,34,1,"Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",-6,3,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,4,6,31,1,"Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",-4,3,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,2,1,59,1,"Dunk Shot","2PT Field Goal",2,"Brooklyn Nets",-11,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,2,6,40,1,"Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",3,3,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,3,6,57,1,"Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",3,17,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,1,9,52,0,"Dunk Shot","2PT Field Goal",2,"Atlanta Hawks",1,29,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,1,9,23,1,"Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",3,5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,1,6,10,1,"Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,-1,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,3,3,24,1,"Dunk Shot","2PT Field Goal",0,"Chicago Bulls",-4,-4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,3,4,53,1,"Dunk Shot","2PT Field Goal",1,"Brooklyn Nets",-13,0,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,2,10,58,1,"Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,2,5,36,1,"Dunk Shot","2PT Field Goal",1,"Phoenix Suns",6,15,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,1,8,29,1,"Dunk Shot","2PT Field Goal",0,"Denver Nuggets",-7,4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,1,7,54,1,"Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,-1,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-06,2017,3102531,1610612752,400975547,2,8,50,1,"Dunk Shot","2PT Field Goal",1,"Milwaukee Bucks",6,13,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,2,0,42,1,"Dunk Shot","2PT Field Goal",0,"Detroit Pistons",-1,6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,4,4,38,1,"Dunk Shot","2PT Field Goal",1,"Brooklyn Nets",-1,12,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,1,4,17,1,"Dunk Shot","2PT Field Goal",2,"New Orleans Pelicans",5,22,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,1,10,25,1,"Dunk Shot","2PT Field Goal",0,"Toronto Raptors",-5,5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,4,11,27,1,"Dunk Shot","2PT Field Goal",1,"Indiana Pacers",-3,16,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,1,7,35,1,"Dunk Shot","2PT Field Goal",1,"New Orleans Pelicans",3,15,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,1,5,09,1,"Dunk Shot","2PT Field Goal",1,"Detroit Pistons",-13,11,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,2,8,23,1,"Dunk Shot","2PT Field Goal",1,"Utah Jazz",-6,17,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,6,1,46,1,"Dunk Shot","2PT Field Goal",1,"Chicago Bulls",2,-12,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-14,2017,3102531,1610612752,400975165,1,6,49,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Brooklyn Nets",-32,142,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,3,8,44,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Boston Celtics",-116,17,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,3,10,46,1,"Fadeaway Jump Shot","2PT Field Goal",8,"Los Angeles Clippers",77,32,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,3,0,50,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Indiana Pacers",47,150,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,1,9,34,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Houston Rockets",-131,94,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,1,9,17,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Atlanta Hawks",83,101,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,1,0,23,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Toronto Raptors",35,99,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,1,10,30,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Memphis Grizzlies",105,92,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,4,3,44,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Toronto Raptors",-86,40,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,1,2,49,0,"Fadeaway Jump Shot","2PT Field Goal",22,"Portland Trail Blazers",-128,186,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,2,7,15,0,"Fadeaway Jump Shot","3PT Field Goal",82,"Houston Rockets",40,827,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,4,8,53,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Dallas Mavericks",-114,107,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,3,8,38,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Detroit Pistons",129,134,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,2,4,22,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Denver Nuggets",-63,121,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,3,7,47,1,"Fadeaway Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",-2,64,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,3,11,26,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Houston Rockets",-89,10,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,1,1,37,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",42,100,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,4,10,35,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Brooklyn Nets",-14,101,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,2,2,33,1,"Floating Jump shot","2PT Field Goal",8,"Indiana Pacers",75,28,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,4,3,05,1,"Floating Jump shot","2PT Field Goal",5,"Houston Rockets",25,51,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,1,8,06,0,"Hook Bank Shot","2PT Field Goal",9,"Detroit Pistons",73,68,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,1,1,47,0,"Hook Bank Shot","2PT Field Goal",10,"Detroit Pistons",93,58,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,4,4,51,0,"Hook Shot","2PT Field Goal",3,"New Orleans Pelicans",22,30,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,4,9,32,0,"Hook Shot","2PT Field Goal",6,"Brooklyn Nets",59,36,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-21,2017,3102531,1610612752,400975219,1,6,07,0,"Hook Shot","2PT Field Goal",7,"Boston Celtics",13,71,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,2,5,09,1,"Hook Shot","2PT Field Goal",5,"Atlanta Hawks",-30,50,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,2,0,10,0,"Hook Shot","2PT Field Goal",2,"Utah Jazz",-4,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,3,11,35,1,"Hook Shot","2PT Field Goal",11,"Los Angeles Lakers",-84,75,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,1,6,14,0,"Hook Shot","2PT Field Goal",9,"Houston Rockets",-20,89,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,4,7,26,0,"Hook Shot","2PT Field Goal",6,"Toronto Raptors",52,30,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,1,7,45,0,"Hook Shot","2PT Field Goal",2,"Brooklyn Nets",5,21,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-21,2017,3102531,1610612752,400975219,1,10,58,0,"Hook Shot","2PT Field Goal",13,"Boston Celtics",-6,131,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,2,6,20,1,"Hook Shot","2PT Field Goal",6,"Memphis Grizzlies",68,15,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,4,6,55,0,"Jump Bank Shot","2PT Field Goal",15,"Cleveland Cavaliers",-122,102,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,3,9,10,1,"Jump Bank Shot","2PT Field Goal",16,"Utah Jazz",-143,76,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,1,4,32,1,"Jump Bank Shot","2PT Field Goal",11,"Indiana Pacers",-99,54,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,2,4,55,1,"Jump Bank Shot","2PT Field Goal",11,"Denver Nuggets",96,67,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,2,6,09,1,"Jump Bank Shot","2PT Field Goal",13,"Indiana Pacers",-114,73,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,2,6,10,1,"Jump Bank Shot","2PT Field Goal",11,"Phoenix Suns",73,94,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,4,2,20,0,"Jump Bank Shot","2PT Field Goal",11,"Miami Heat",-92,61,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,2,2,38,1,"Jump Bank Shot","2PT Field Goal",11,"Miami Heat",-84,84,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,2,6,24,0,"Jump Bank Shot","2PT Field Goal",12,"Atlanta Hawks",-109,52,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,4,3,10,0,"Jump Bank Shot","2PT Field Goal",5,"Atlanta Hawks",9,51,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,4,3,59,0,"Jump Bank Shot","2PT Field Goal",1,"Oklahoma City Thunder",18,8,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,1,8,40,0,"Jump Bank Shot","2PT Field Goal",14,"Utah Jazz",109,101,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,4,5,00,0,"Jump Bank Shot","2PT Field Goal",12,"Los Angeles Clippers",-92,82,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,2,3,41,0,"Jump Bank Shot","2PT Field Goal",15,"Boston Celtics",121,90,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,2,11,19,0,"Jump Bank Shot","2PT Field Goal",9,"Utah Jazz",-89,30,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,1,5,02,1,"Jump Bank Shot","2PT Field Goal",13,"Houston Rockets",93,96,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,1,6,26,1,"Jump Bank Shot","2PT Field Goal",13,"Dallas Mavericks",-109,80,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,1,6,22,0,"Jump Bank Shot","2PT Field Goal",15,"Detroit Pistons",111,113,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,2,6,07,0,"Jump Bank Shot","2PT Field Goal",7,"Philadelphia 76ers",49,55,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,1,4,03,0,"Jump Bank Shot","2PT Field Goal",5,"Los Angeles Lakers",19,53,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,3,7,09,1,"Jump Shot","2PT Field Goal",10,"Denver Nuggets",14,106,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,3,8,54,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",116,218,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,3,11,39,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",141,210,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,2,4,00,0,"Jump Shot","2PT Field Goal",12,"Dallas Mavericks",-90,80,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,1,1,55,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-9,250,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,3,10,52,0,"Jump Shot","2PT Field Goal",13,"Dallas Mavericks",-39,125,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,3,1,34,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",-62,259,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,1,0,46,1,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-141,77,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,1,3,52,0,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",-108,116,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,4,9,05,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-94,176,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,4,6,06,0,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",130,120,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,4,2,21,1,"Jump Shot","3PT Field Goal",29,"Utah Jazz",-115,267,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,4,1,25,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-104,239,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,2,6,28,1,"Jump Shot","2PT Field Goal",12,"Utah Jazz",88,82,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,3,6,10,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",-1,179,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,1,11,40,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-41,179,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,1,4,28,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-123,221,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,1,10,48,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",64,154,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,3,1,42,0,"Jump Shot","3PT Field Goal",29,"Denver Nuggets",-40,289,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,1,11,46,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",13,154,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,1,4,29,0,"Jump Shot","3PT Field Goal",29,"Denver Nuggets",-103,274,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,4,5,00,0,"Jump Shot","2PT Field Goal",9,"Denver Nuggets",89,38,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,1,6,52,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",131,226,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,4,3,11,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-86,242,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,4,7,03,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-106,169,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,2,0,42,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-119,210,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,2,1,34,1,"Jump Shot","3PT Field Goal",28,"Brooklyn Nets",47,281,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,3,3,55,0,"Jump Shot","3PT Field Goal",29,"Miami Heat",36,289,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,3,11,09,0,"Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",-25,32,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,3,10,22,0,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",51,147,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,1,6,48,1,"Jump Shot","2PT Field Goal",12,"San Antonio Spurs",-121,2,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,3,9,29,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",119,218,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,1,2,47,0,"Jump Shot","2PT Field Goal",12,"San Antonio Spurs",-111,62,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,2,2,47,0,"Jump Shot","2PT Field Goal",10,"San Antonio Spurs",104,-4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-21,2017,3102531,1610612752,400975219,1,6,58,0,"Jump Shot","3PT Field Goal",27,"Boston Celtics",119,246,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-21,2017,3102531,1610612752,400975219,2,0,33,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",-31,207,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-21,2017,3102531,1610612752,400975219,1,4,07,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",-41,194,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-21,2017,3102531,1610612752,400975219,1,3,29,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",2,260,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-21,2017,3102531,1610612752,400975219,2,4,16,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",-226,-16,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,2,2,16,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-42,245,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,4,6,38,0,"Jump Shot","2PT Field Goal",17,"Boston Celtics",-71,158,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,4,5,32,1,"Jump Shot","2PT Field Goal",12,"Detroit Pistons",63,107,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,5,3,26,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",45,261,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,3,10,45,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",39,271,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,1,0,26,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",33,189,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,4,5,57,0,"Jump Shot","2PT Field Goal",10,"Los Angeles Lakers",-100,38,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,1,4,07,0,"Jump Shot","2PT Field Goal",10,"Los Angeles Lakers",5,104,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,3,5,32,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",-120,247,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,4,1,29,1,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-29,159,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,1,5,59,1,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",116,79,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,2,3,29,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",131,228,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,3,4,13,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",123,218,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,4,0,00,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",19,261,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,1,5,21,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",166,223,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,4,2,37,0,"Jump Shot","2PT Field Goal",22,"Los Angeles Lakers",157,156,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,4,2,06,1,"Jump Shot","2PT Field Goal",10,"Los Angeles Lakers",-100,15,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,2,4,31,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",114,121,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,4,7,25,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",88,251,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,5,3,29,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",22,256,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,1,10,44,0,"Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",52,117,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,1,1,41,0,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",63,119,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,2,2,48,1,"Jump Shot","2PT Field Goal",17,"Boston Celtics",33,173,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,1,9,56,0,"Jump Shot","3PT Field Goal",27,"Boston Celtics",180,208,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,4,8,49,0,"Jump Shot","2PT Field Goal",16,"Boston Celtics",-127,109,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,1,11,21,1,"Jump Shot","3PT Field Goal",27,"Boston Celtics",73,266,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,2,7,29,0,"Jump Shot","3PT Field Goal",27,"Boston Celtics",-90,255,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,2,10,03,0,"Jump Shot","3PT Field Goal",27,"Boston Celtics",134,236,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,3,5,47,0,"Jump Shot","2PT Field Goal",17,"Boston Celtics",134,110,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,2,1,13,0,"Jump Shot","2PT Field Goal",16,"Boston Celtics",79,150,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,3,9,51,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",44,257,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,2,8,46,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-86,162,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,2,2,06,0,"Jump Shot","3PT Field Goal",27,"Portland Trail Blazers",52,274,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,1,7,40,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-53,251,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,4,2,21,1,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-170,207,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,2,1,20,0,"Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",56,108,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,1,5,05,1,"Jump Shot","3PT Field Goal",27,"Portland Trail Blazers",56,268,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,1,5,35,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",127,220,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,2,0,37,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-31,257,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,3,3,01,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-105,233,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,2,2,58,1,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",66,113,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,3,4,52,1,"Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",81,96,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,2,1,21,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",211,179,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,2,2,12,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-193,7,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,2,5,07,1,"Jump Shot","3PT Field Goal",29,"Detroit Pistons",-3,294,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,3,7,48,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",120,231,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,4,6,54,0,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",16,134,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,1,4,31,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-160,214,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,3,5,35,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",221,137,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,1,0,25,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",100,104,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,4,0,10,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-48,150,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,3,9,07,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-70,163,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,2,5,24,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",119,252,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,3,3,11,1,"Jump Shot","3PT Field Goal",28,"New Orleans Pelicans",79,276,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,5,0,11,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-102,231,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,1,9,49,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-36,258,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,4,1,18,0,"Jump Shot","3PT Field Goal",29,"New Orleans Pelicans",-185,224,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,2,5,20,0,"Jump Shot","3PT Field Goal",29,"Cleveland Cavaliers",-78,288,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,2,1,30,1,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-121,71,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,4,5,21,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-182,178,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,2,10,26,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",117,231,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,1,11,30,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",156,118,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,4,4,45,1,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",168,200,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,2,7,26,0,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",135,38,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,4,9,19,1,"Jump Shot","2PT Field Goal",10,"Cleveland Cavaliers",-29,106,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,2,8,32,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-83,246,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,3,9,49,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",132,131,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,1,0,15,0,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",175,114,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,1,8,53,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",123,140,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,2,5,50,0,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",-35,147,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,3,8,27,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-110,233,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,4,3,41,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-234,50,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,2,3,32,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",72,247,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,1,3,09,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",188,180,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,4,4,13,0,"Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",87,41,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,1,4,26,1,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-136,61,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,3,10,01,1,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-148,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,1,11,19,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",127,143,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,1,9,59,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",161,104,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,1,9,40,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",167,81,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,2,0,00,0,"Jump Shot","3PT Field Goal",53,"Detroit Pistons",-117,525,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,3,7,55,0,"Jump Shot","3PT Field Goal",49,"Detroit Pistons",5,492,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,4,5,12,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",52,253,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,4,7,27,1,"Jump Shot","2PT Field Goal",10,"Detroit Pistons",105,24,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,1,5,13,1,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",96,91,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,4,2,53,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",232,64,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,2,5,16,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-127,226,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,2,5,50,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-155,202,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,2,1,08,0,"Jump Shot","3PT Field Goal",34,"Detroit Pistons",105,331,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,3,6,25,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-62,195,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,1,1,58,1,"Jump Shot","2PT Field Goal",12,"Detroit Pistons",16,123,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,3,5,19,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",62,197,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,4,4,39,0,"Jump Shot","2PT Field Goal",8,"Detroit Pistons",-80,32,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,1,7,50,1,"Jump Shot","3PT Field Goal",32,"Denver Nuggets",0,322,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,2,1,51,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",111,239,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,1,8,49,0,"Jump Shot","2PT Field Goal",13,"Indiana Pacers",-116,73,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,1,5,41,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-130,128,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,3,0,12,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-119,236,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,4,2,14,1,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",125,103,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,3,7,39,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",-151,226,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,4,8,50,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-53,174,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,4,3,26,1,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",43,156,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,1,3,42,0,"Jump Shot","2PT Field Goal",12,"Indiana Pacers",48,116,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,2,5,46,0,"Jump Shot","3PT Field Goal",28,"Indiana Pacers",3,283,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,4,9,24,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-143,210,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,1,9,00,1,"Jump Shot","3PT Field Goal",28,"Denver Nuggets",-110,265,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,3,8,23,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-25,257,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,1,8,55,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",105,257,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,3,11,22,1,"Jump Shot","2PT Field Goal",22,"Los Angeles Clippers",95,206,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,3,7,24,0,"Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",96,35,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,2,6,31,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",147,205,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,1,4,25,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",92,110,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,3,9,48,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-230,53,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,2,5,13,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",80,105,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,1,5,44,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",118,105,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,2,3,26,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",143,122,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,1,6,55,0,"Jump Shot","3PT Field Goal",28,"Los Angeles Clippers",-79,274,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,3,9,13,0,"Jump Shot","3PT Field Goal",29,"Los Angeles Clippers",152,250,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,4,4,11,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-112,87,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,2,5,07,1,"Jump Shot","2PT Field Goal",11,"Charlotte Hornets",37,109,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,2,2,02,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-145,210,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,1,3,07,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-164,206,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,2,0,07,0,"Jump Shot","2PT Field Goal",4,"Miami Heat",40,13,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,4,3,48,1,"Jump Shot","2PT Field Goal",12,"Miami Heat",-1,125,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,4,3,12,1,"Jump Shot","2PT Field Goal",16,"Miami Heat",-84,140,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,3,10,36,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-162,187,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,3,9,14,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",-15,258,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,4,1,42,0,"Jump Shot","2PT Field Goal",15,"Miami Heat",-76,136,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,4,4,27,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",84,150,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,4,0,00,0,"Jump Shot","3PT Field Goal",37,"Detroit Pistons",-161,336,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,1,4,35,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",180,177,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,4,4,50,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",147,214,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,3,11,40,1,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-161,1,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,4,3,07,1,"Jump Shot","2PT Field Goal",21,"Detroit Pistons",-142,162,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,3,2,42,0,"Jump Shot","2PT Field Goal",11,"Detroit Pistons",-60,100,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,2,5,50,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-184,183,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,3,3,43,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",43,258,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,4,9,13,0,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",155,228,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,4,0,54,0,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",-183,205,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,1,10,07,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",147,225,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,4,7,06,0,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",-115,68,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,1,11,42,0,"Jump Shot","2PT Field Goal",20,"Miami Heat",129,158,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,1,2,48,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",10,193,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,4,4,11,0,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",-56,122,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,4,5,09,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",98,259,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,3,3,00,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",87,244,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,1,10,45,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",72,264,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,4,0,38,1,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-41,173,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,1,9,13,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-107,231,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,1,9,44,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",81,239,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,3,9,39,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",223,99,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,3,8,47,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",205,138,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,1,8,03,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",77,242,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,4,1,49,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",65,260,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-14,2017,3102531,1610612752,400975165,2,7,52,0,"Jump Shot","2PT Field Goal",13,"Brooklyn Nets",132,3,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-14,2017,3102531,1610612752,400975165,3,9,55,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",147,209,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-14,2017,3102531,1610612752,400975165,1,4,20,0,"Jump Shot","3PT Field Goal",28,"Brooklyn Nets",136,248,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-14,2017,3102531,1610612752,400975165,2,5,36,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-19,252,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,4,1,30,1,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",227,59,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,3,10,17,1,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",-58,126,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,3,9,41,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-107,251,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,3,7,10,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",55,138,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,2,3,34,1,"Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",-41,74,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,4,9,57,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-90,162,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,1,9,30,1,"Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",49,47,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,2,2,12,0,"Jump Shot","3PT Field Goal",28,"New Orleans Pelicans",-32,281,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,1,6,14,1,"Jump Shot","3PT Field Goal",27,"Charlotte Hornets",-84,258,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,2,4,43,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",100,232,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,1,10,16,1,"Jump Shot","2PT Field Goal",14,"Charlotte Hornets",-81,120,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,1,6,59,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",139,214,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,3,3,34,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",46,251,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,3,10,49,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",113,230,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,1,8,32,1,"Jump Shot","2PT Field Goal",14,"Boston Celtics",-51,135,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-29,2017,3102531,1610612752,400975057,1,11,06,1,"Jump Shot","2PT Field Goal",20,"Miami Heat",-100,178,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-29,2017,3102531,1610612752,400975057,1,11,42,1,"Jump Shot","2PT Field Goal",21,"Miami Heat",-136,165,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,2,6,20,0,"Jump Shot","2PT Field Goal",22,"Memphis Grizzlies",43,222,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,1,1,43,0,"Jump Shot","2PT Field Goal",14,"Toronto Raptors",125,79,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,2,3,44,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",103,247,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,4,1,43,0,"Jump Shot","3PT Field Goal",28,"Milwaukee Bucks",-137,252,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,4,4,37,0,"Jump Shot","2PT Field Goal",7,"Milwaukee Bucks",-73,-4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,1,3,46,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-92,248,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,2,0,00,0,"Jump Shot","3PT Field Goal",59,"Milwaukee Bucks",123,586,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,3,4,54,1,"Jump Shot","2PT Field Goal",13,"Milwaukee Bucks",8,133,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,1,8,24,1,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",148,229,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,2,5,10,1,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-230,-8,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,3,5,04,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",72,253,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,1,9,42,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",24,256,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,4,7,00,1,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-71,251,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,1,6,34,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-136,215,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,3,9,08,1,"Jump Shot","3PT Field Goal",27,"Memphis Grizzlies",79,264,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,1,4,14,1,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",46,162,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,3,10,42,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-149,209,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,4,8,04,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",60,257,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,4,4,15,0,"Jump Shot","3PT Field Goal",32,"Toronto Raptors",76,321,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,4,4,54,1,"Jump Shot","2PT Field Goal",8,"Toronto Raptors",84,14,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,4,7,53,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-227,100,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,4,7,42,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",187,179,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,1,2,15,0,"Jump Shot","2PT Field Goal",13,"Houston Rockets",-95,96,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,3,3,41,0,"Jump Shot","2PT Field Goal",7,"Memphis Grizzlies",52,57,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,1,6,37,1,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",64,164,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,4,2,01,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-166,188,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,1,10,57,0,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",109,169,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,3,11,42,1,"Jump Shot","3PT Field Goal",28,"Memphis Grizzlies",-46,278,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,1,4,28,0,"Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",-72,83,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,2,2,03,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",70,157,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,2,0,38,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-81,247,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,2,1,44,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-158,194,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,2,10,30,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",125,216,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,1,5,41,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",2,249,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,3,5,07,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-19,258,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,1,7,26,1,"Jump Shot","2PT Field Goal",21,"Oklahoma City Thunder",-193,90,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,3,9,06,0,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",98,180,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,3,3,52,1,"Jump Shot","2PT Field Goal",11,"Utah Jazz",-96,55,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,3,6,57,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",90,236,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,1,10,48,1,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",22,203,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,1,3,19,0,"Jump Shot","2PT Field Goal",12,"San Antonio Spurs",44,120,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,3,6,31,1,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",231,58,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,3,4,29,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",97,247,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,4,5,37,0,"Jump Shot","2PT Field Goal",12,"Toronto Raptors",-119,38,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,4,5,57,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-139,212,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,3,7,53,0,"Jump Shot","2PT Field Goal",5,"Toronto Raptors",-48,19,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,4,5,59,0,"Jump Shot","2PT Field Goal",6,"Toronto Raptors",-29,53,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,1,1,20,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-12,264,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,2,1,03,0,"Jump Shot","2PT Field Goal",15,"Toronto Raptors",-58,143,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,4,9,38,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",32,253,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,2,3,56,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",6,201,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,1,9,38,1,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",19,260,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,4,4,09,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",32,173,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,1,10,03,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",24,252,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,4,3,41,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",54,188,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,1,2,52,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",16,147,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-26,2017,3102531,1610612752,400975469,3,5,16,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",227,48,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-26,2017,3102531,1610612752,400975469,3,11,22,1,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-168,201,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-26,2017,3102531,1610612752,400975469,3,10,28,1,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",24,195,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-26,2017,3102531,1610612752,400975469,1,7,47,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",120,224,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-26,2017,3102531,1610612752,400975469,1,4,45,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",27,251,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,1,8,35,0,"Jump Shot","2PT Field Goal",7,"Houston Rockets",-65,37,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,3,8,41,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",18,253,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,4,3,20,0,"Jump Shot","3PT Field Goal",27,"Houston Rockets",94,256,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,2,6,56,0,"Jump Shot","2PT Field Goal",11,"Houston Rockets",111,7,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,3,10,23,0,"Jump Shot","2PT Field Goal",22,"Houston Rockets",-32,219,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,2,2,03,1,"Jump Shot","2PT Field Goal",14,"Houston Rockets",-120,73,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,2,1,19,1,"Jump Shot","2PT Field Goal",14,"Houston Rockets",86,115,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,2,2,42,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",90,232,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,4,8,09,0,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",193,88,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,1,4,04,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",11,253,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,2,2,13,1,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",65,143,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,4,7,33,1,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",-130,243,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,3,10,24,0,"Jump Shot","2PT Field Goal",22,"Philadelphia 76ers",-73,211,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,2,1,21,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-100,235,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,1,11,32,0,"Jump Shot","2PT Field Goal",22,"Philadelphia 76ers",82,205,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,2,0,08,0,"Jump Shot","2PT Field Goal",22,"Philadelphia 76ers",-42,224,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,4,5,20,1,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",59,178,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,4,3,55,0,"Jump Shot","2PT Field Goal",23,"Phoenix Suns",-68,222,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,1,0,45,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-76,120,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,3,10,52,1,"Jump Shot","2PT Field Goal",13,"San Antonio Spurs",-5,138,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,2,4,45,0,"Jump Shot","2PT Field Goal",4,"San Antonio Spurs",28,37,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,4,3,06,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-99,167,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,1,4,42,0,"Jump Shot","2PT Field Goal",5,"San Antonio Spurs",-3,56,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,1,6,09,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-139,216,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,3,4,10,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",95,105,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,3,8,22,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",-88,189,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,3,8,56,0,"Jump Shot","2PT Field Goal",16,"Brooklyn Nets",78,143,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,4,11,21,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-79,247,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,4,7,11,0,"Jump Shot","3PT Field Goal",28,"Brooklyn Nets",167,232,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,1,2,52,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-14,258,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,1,8,41,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",138,224,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,1,9,46,1,"Jump Shot","2PT Field Goal",14,"Brooklyn Nets",-136,60,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,1,3,36,0,"Jump Shot","3PT Field Goal",30,"Brooklyn Nets",166,258,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,1,11,20,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-21,267,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,4,2,12,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-150,202,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,2,11,25,0,"Jump Shot","2PT Field Goal",10,"Utah Jazz",0,108,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,1,1,41,0,"Jump Shot","3PT Field Goal",28,"Utah Jazz",2,283,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,1,11,45,1,"Jump Shot","2PT Field Goal",21,"Utah Jazz",-5,219,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,3,7,25,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",9,155,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,5,3,50,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-193,167,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,5,4,22,1,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",-155,215,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,1,4,05,1,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-115,237,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,1,3,37,0,"Jump Shot","3PT Field Goal",22,"Chicago Bulls",223,49,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,1,9,06,0,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",163,4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,1,4,52,0,"Jump Shot","2PT Field Goal",9,"Phoenix Suns",-84,45,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,1,11,42,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-121,217,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,6,0,07,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-57,241,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,1,2,26,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",89,248,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,3,11,19,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",79,162,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,5,2,47,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-134,219,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,3,8,38,1,"Jump Shot","2PT Field Goal",11,"Sacramento Kings",-37,104,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,2,1,51,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",47,180,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,2,3,06,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",59,246,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,6,0,42,0,"Jump Shot","2PT Field Goal",8,"Chicago Bulls",-64,57,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,1,8,38,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",-63,147,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,3,3,08,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",-164,18,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,1,7,07,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-104,231,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,3,9,38,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",-150,132,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,3,9,14,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",158,204,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,1,9,49,0,"Jump Shot","3PT Field Goal",27,"Sacramento Kings",47,274,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,1,7,43,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",-12,199,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,1,0,50,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-145,211,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,3,4,56,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-232,-5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,2,3,14,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",162,71,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,1,7,52,0,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",-42,183,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,1,6,09,1,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-119,137,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,1,6,03,0,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",63,178,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,1,10,39,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",100,240,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,3,4,55,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",113,227,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,2,6,07,1,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",33,271,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,4,1,44,1,"Jump Shot","2PT Field Goal",11,"Atlanta Hawks",-112,4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,1,9,59,0,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",104,152,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,1,11,40,1,"Jump Shot","3PT Field Goal",28,"Atlanta Hawks",133,257,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,4,6,10,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",86,248,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,4,5,13,1,"Jump Shot","2PT Field Goal",13,"Atlanta Hawks",133,6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,2,4,14,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",67,252,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,4,9,03,1,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-36,189,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,2,0,00,0,"Jump Shot","3PT Field Goal",63,"Phoenix Suns",185,603,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,1,9,17,1,"Jump Shot","2PT Field Goal",12,"Phoenix Suns",71,104,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,1,10,51,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",17,171,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,1,7,05,1,"Jump Shot","2PT Field Goal",10,"Phoenix Suns",89,55,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,1,4,16,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",170,96,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,4,2,37,0,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",-94,125,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,1,9,29,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",107,226,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,1,8,46,1,"Jump Shot","2PT Field Goal",21,"Brooklyn Nets",-71,198,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,4,0,01,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-75,237,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,3,2,32,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-112,225,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,1,9,07,0,"Jump Shot","2PT Field Goal",11,"Chicago Bulls",107,46,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,2,0,43,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",176,176,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,3,9,03,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",210,122,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,1,4,03,0,"Jump Shot","2PT Field Goal",22,"Chicago Bulls",-111,191,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,2,10,32,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",106,237,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,2,1,58,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-177,18,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,4,1,52,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",95,239,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,4,0,08,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",107,148,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,1,7,49,1,"Jump Shot","2PT Field Goal",21,"Washington Wizards",-75,200,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,4,5,49,0,"Jump Shot","2PT Field Goal",14,"Atlanta Hawks",119,83,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,4,6,28,1,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-111,101,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,1,0,52,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-6,169,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,3,7,28,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",143,134,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,2,5,15,1,"Jump Shot","3PT Field Goal",27,"Washington Wizards",138,243,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,3,11,25,0,"Jump Shot","3PT Field Goal",27,"Washington Wizards",-120,246,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,2,4,05,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",20,267,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,1,3,40,0,"Jump Shot","3PT Field Goal",27,"Washington Wizards",65,271,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,3,3,13,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",43,148,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,3,7,55,0,"Jump Shot","3PT Field Goal",27,"Brooklyn Nets",79,259,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,3,8,12,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",143,231,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,3,9,26,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",115,232,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,1,5,57,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-83,159,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-06,2017,3102531,1610612752,400975547,1,9,18,1,"Jump Shot","2PT Field Goal",9,"Milwaukee Bucks",29,94,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,2,6,15,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",79,252,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,1,1,33,1,"Jump Shot","2PT Field Goal",12,"Atlanta Hawks",94,87,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,4,2,52,0,"Jump Shot","2PT Field Goal",8,"Atlanta Hawks",37,73,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,1,0,34,0,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",96,260,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,4,3,19,0,"Jump Shot","2PT Field Goal",14,"Atlanta Hawks",-67,130,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,2,7,08,1,"Jump Shot","2PT Field Goal",7,"Atlanta Hawks",3,73,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,3,1,52,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",25,263,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,1,1,07,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",16,248,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,3,6,09,0,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",6,214,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,2,0,44,0,"Jump Shot","2PT Field Goal",8,"Atlanta Hawks",-80,11,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,3,2,41,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",67,186,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,3,3,14,1,"Jump Shot","2PT Field Goal",16,"Atlanta Hawks",108,127,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,1,4,48,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",73,250,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,3,10,15,0,"Jump Shot","2PT Field Goal",13,"Atlanta Hawks",59,116,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,2,5,45,0,"Jump Shot","2PT Field Goal",12,"Atlanta Hawks",-123,3,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,4,7,32,1,"Jump Shot","3PT Field Goal",27,"Brooklyn Nets",-39,272,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,1,10,54,1,"Jump Shot","3PT Field Goal",22,"Brooklyn Nets",-228,-5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,3,10,46,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-122,148,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,2,2,53,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-11,257,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,1,6,32,1,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",97,247,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,3,9,16,0,"Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",-26,61,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,4,5,46,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-173,187,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,3,7,04,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",-226,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,1,2,23,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-96,134,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,3,8,02,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",60,241,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,2,2,39,1,"Jump Shot","3PT Field Goal",27,"Brooklyn Nets",82,260,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,3,5,23,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",147,105,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,4,6,58,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",78,194,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,1,1,30,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",15,251,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,1,11,20,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-56,174,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,1,7,02,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-16,247,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,3,8,35,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",149,216,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,2,6,35,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-77,242,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,1,3,33,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-25,253,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,3,2,49,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",142,213,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-06,2017,3102531,1610612752,400975547,2,9,51,0,"Jump Shot","3PT Field Goal",28,"Milwaukee Bucks",2,284,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-06,2017,3102531,1610612752,400975547,2,11,15,1,"Jump Shot","3PT Field Goal",28,"Milwaukee Bucks",-5,289,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,2,3,34,0,"Jump Shot","2PT Field Goal",16,"Brooklyn Nets",85,140,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,2,4,08,0,"Jump Shot","2PT Field Goal",21,"Brooklyn Nets",141,158,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,4,7,55,0,"Jump Shot","2PT Field Goal",13,"Brooklyn Nets",111,69,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,4,4,36,1,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",-150,223,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,1,4,42,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",10,12,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,1,8,43,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",3,13,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,3,10,22,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-10,27,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,3,11,18,0,"Layup Shot","2PT Field Goal",6,"Denver Nuggets",8,64,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,4,5,03,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",11,24,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,1,7,15,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",0,11,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,4,6,41,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-14,19,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,2,5,59,0,"Layup Shot","2PT Field Goal",10,"Brooklyn Nets",-57,88,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,3,8,28,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",14,6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,2,7,33,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",6,-1,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,2,4,26,1,"Layup Shot","2PT Field Goal",4,"Los Angeles Clippers",-38,16,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,2,0,05,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-14,6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,4,0,30,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",3,15,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,1,3,12,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",8,17,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,1,7,46,1,"Layup Shot","2PT Field Goal",4,"Denver Nuggets",-41,26,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,2,0,56,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",8,3,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,2,2,10,1,"Layup Shot","2PT Field Goal",2,"Utah Jazz",22,8,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,2,3,47,1,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",1,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,4,6,42,0,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-16,16,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,3,4,59,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",6,11,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,4,7,59,0,"Layup Shot","2PT Field Goal",3,"Detroit Pistons",-26,17,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-05,2017,3102531,1610612752,400975314,1,5,33,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-20,13,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,3,8,09,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",6,10,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,4,2,57,1,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",2,27,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,2,5,48,0,"Layup Shot","2PT Field Goal",5,"Chicago Bulls",-35,41,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,1,3,08,0,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",3,22,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,4,4,30,1,"Layup Shot","2PT Field Goal",13,"Atlanta Hawks",2,137,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,3,2,51,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",27,11,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,4,3,38,1,"Layup Shot","2PT Field Goal",5,"New Orleans Pelicans",-50,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,1,2,52,0,"Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",-35,1,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,1,9,46,1,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",3,8,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,4,2,50,0,"Layup Shot","2PT Field Goal",3,"Denver Nuggets",-30,17,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,1,11,44,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-11,21,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,4,5,25,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",6,16,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,4,9,49,1,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",3,26,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,2,2,17,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",18,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,4,10,20,0,"Layup Shot","2PT Field Goal",3,"Indiana Pacers",12,31,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,3,9,46,0,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-3,16,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,3,3,08,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-13,10,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,2,5,12,0,"Pullup Jump shot","2PT Field Goal",15,"Boston Celtics",-13,155,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,3,11,07,1,"Pullup Jump shot","2PT Field Goal",17,"Utah Jazz",134,116,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,2,6,02,1,"Pullup Jump shot","2PT Field Goal",15,"Utah Jazz",-41,151,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,1,5,53,1,"Pullup Jump shot","2PT Field Goal",12,"Atlanta Hawks",14,120,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,3,9,17,1,"Pullup Jump shot","2PT Field Goal",12,"Brooklyn Nets",-33,120,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,1,6,49,0,"Pullup Jump shot","2PT Field Goal",16,"Chicago Bulls",-101,128,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,1,7,26,0,"Pullup Jump shot","2PT Field Goal",14,"Chicago Bulls",141,48,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,1,11,23,1,"Pullup Jump shot","2PT Field Goal",16,"Detroit Pistons",11,164,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,4,10,07,0,"Pullup Jump shot","2PT Field Goal",7,"Minnesota Timberwolves",13,73,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,4,6,21,1,"Pullup Jump shot","2PT Field Goal",10,"Chicago Bulls",-78,66,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,3,4,55,1,"Pullup Jump shot","2PT Field Goal",10,"Chicago Bulls",-89,63,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,2,6,02,0,"Pullup Jump shot","2PT Field Goal",20,"Minnesota Timberwolves",95,185,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,3,3,25,0,"Pullup Jump shot","2PT Field Goal",14,"Atlanta Hawks",-145,35,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,1,5,33,0,"Pullup Jump shot","2PT Field Goal",12,"Chicago Bulls",-114,43,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,3,5,32,0,"Pullup Jump shot","2PT Field Goal",12,"Utah Jazz",-81,92,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,1,10,58,1,"Pullup Jump shot","2PT Field Goal",11,"Utah Jazz",117,16,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,3,8,48,0,"Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",-117,225,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,2,6,20,0,"Pullup Jump shot","2PT Field Goal",7,"Denver Nuggets",-70,17,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,1,6,17,0,"Pullup Jump shot","2PT Field Goal",15,"Detroit Pistons",-78,137,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,4,1,17,1,"Pullup Jump shot","2PT Field Goal",17,"Detroit Pistons",-127,127,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,2,3,18,0,"Pullup Jump shot","2PT Field Goal",13,"Detroit Pistons",-26,136,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,3,6,55,0,"Pullup Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",-119,99,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,1,3,24,0,"Pullup Jump shot","2PT Field Goal",19,"New Orleans Pelicans",93,166,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,2,7,47,0,"Pullup Jump shot","2PT Field Goal",10,"Utah Jazz",47,94,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,1,6,30,0,"Pullup Jump shot","2PT Field Goal",15,"New Orleans Pelicans",-112,103,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,3,6,31,0,"Pullup Jump shot","2PT Field Goal",13,"Minnesota Timberwolves",128,40,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,1,0,02,1,"Pullup Jump shot","2PT Field Goal",18,"Oklahoma City Thunder",-28,186,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,3,3,41,0,"Pullup Jump shot","2PT Field Goal",11,"San Antonio Spurs",-8,115,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,2,11,12,0,"Pullup Jump shot","3PT Field Goal",27,"Dallas Mavericks",65,271,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,5,1,40,0,"Pullup Jump shot","2PT Field Goal",4,"Chicago Bulls",-36,27,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,3,9,44,1,"Putback Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,2,1,08,0,"Putback Dunk Shot","2PT Field Goal",3,"Oklahoma City Thunder",-9,32,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-04,2017,3102531,1610612752,400975532,4,0,01,0,"Putback Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,3,11,32,0,"Putback Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,3,10,54,1,"Putback Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,3,4,11,1,"Putback Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,2,2,48,1,"Putback Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",-7,4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,4,2,55,0,"Putback Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,2,2,43,1,"Putback Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-9,7,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,4,6,06,0,"Putback Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,4,6,37,1,"Putback Layup Shot","2PT Field Goal",0,"Brooklyn Nets",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,4,7,45,1,"Putback Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",10,5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-14,2017,3102531,1610612752,400975165,1,2,58,1,"Reverse Dunk Shot","2PT Field Goal",1,"Brooklyn Nets",6,9,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,1,8,44,0,"Reverse Layup Shot","2PT Field Goal",2,"Denver Nuggets",-18,11,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,1,2,20,0,"Reverse Layup Shot","2PT Field Goal",0,"Sacramento Kings",4,5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,3,10,53,1,"Reverse Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-1,16,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-26,2017,3102531,1610612752,400975469,3,8,24,1,"Running Dunk Shot","2PT Field Goal",0,"Phoenix Suns",3,8,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,2,1,42,0,"Running Dunk Shot","2PT Field Goal",1,"Denver Nuggets",6,15,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,3,5,39,0,"Running Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",67,250,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,3,11,07,1,"Running Jump Shot","2PT Field Goal",12,"Indiana Pacers",22,120,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,4,8,04,1,"Running Jump Shot","2PT Field Goal",11,"Phoenix Suns",-84,80,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,3,5,29,1,"Running Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-21,150,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,2,1,17,0,"Running Jump Shot","3PT Field Goal",24,"Atlanta Hawks",5,248,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,4,3,25,0,"Running Jump Shot","2PT Field Goal",8,"Utah Jazz",-52,62,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,2,3,23,0,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-10,8,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,1,0,30,1,"Running Layup Shot","2PT Field Goal",4,"Oklahoma City Thunder",-23,36,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,4,3,51,0,"Running Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-4,4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,3,6,16,0,"Running Layup Shot","2PT Field Goal",1,"Boston Celtics",-11,16,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,4,0,36,0,"Running Layup Shot","2PT Field Goal",3,"Minnesota Timberwolves",7,30,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,3,8,44,1,"Step Back Bank Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-104,85,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-14,2017,3102531,1610612752,400975165,1,9,27,1,"Step Back Jump shot","2PT Field Goal",11,"Brooklyn Nets",-116,14,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,2,2,49,1,"Step Back Jump shot","2PT Field Goal",17,"Denver Nuggets",-33,174,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,1,11,30,0,"Step Back Jump shot","3PT Field Goal",27,"Boston Celtics",36,269,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,1,7,12,0,"Step Back Jump shot","2PT Field Goal",22,"Boston Celtics",-9,224,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,1,5,07,0,"Step Back Jump shot","2PT Field Goal",17,"Atlanta Hawks",92,147,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,1,10,50,0,"Step Back Jump shot","2PT Field Goal",14,"Philadelphia 76ers",115,88,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,3,9,56,1,"Step Back Jump shot","3PT Field Goal",25,"Atlanta Hawks",63,246,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,3,8,22,0,"Step Back Jump shot","3PT Field Goal",24,"Brooklyn Nets",125,216,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,4,1,27,0,"Tip Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,4,6,04,0,"Tip Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,2,1,22,1,"Tip Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,2,3,13,0,"Tip Layup Shot","2PT Field Goal",0,"San Antonio Spurs",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,1,5,39,1,"Tip Layup Shot","2PT Field Goal",0,"San Antonio Spurs",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,3,7,20,0,"Tip Layup Shot","2PT Field Goal",0,"San Antonio Spurs",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,1,8,54,0,"Tip Layup Shot","2PT Field Goal",0,"Brooklyn Nets",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,4,3,53,0,"Tip Layup Shot","2PT Field Goal",0,"Denver Nuggets",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,2,7,33,0,"Tip Layup Shot","2PT Field Goal",0,"Chicago Bulls",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,3,8,58,0,"Tip Layup Shot","2PT Field Goal",4,"Minnesota Timberwolves",-44,-5,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,2,2,27,0,"Tip Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,4,0,08,0,"Tip Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-26,2017,3102531,1610612752,400975469,2,0,23,0,"Tip Layup Shot","2PT Field Goal",0,"Phoenix Suns",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,3,11,25,0,"Tip Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,-6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,4,1,01,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",12,"Denver Nuggets",-97,79,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,1,4,10,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",10,"Brooklyn Nets",55,93,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,3,9,28,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",9,"Memphis Grizzlies",-95,23,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,1,11,14,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",9,"Chicago Bulls",79,53,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,2,4,39,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",10,"Sacramento Kings",71,84,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,1,4,35,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",9,"Detroit Pistons",-94,26,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,3,7,40,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",-89,66,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,1,10,35,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",12,"Detroit Pistons",90,81,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,4,7,26,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",11,"San Antonio Spurs",-115,21,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,3,7,18,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",14,"Chicago Bulls",-125,69,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,4,6,22,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",-143,119,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,3,4,01,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",4,"Sacramento Kings",-30,38,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,3,6,49,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",7,"Phoenix Suns",-50,54,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,1,8,32,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",0,58,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,3,2,10,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",12,"Detroit Pistons",-125,32,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,3,7,19,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",13,"Charlotte Hornets",-102,82,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,2,3,32,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",12,"Brooklyn Nets",-111,62,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,1,6,06,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",8,"Atlanta Hawks",77,45,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,1,7,25,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",7,"Dallas Mavericks",-68,24,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,4,4,26,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",8,"Memphis Grizzlies",-87,-7,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,3,8,15,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",9,"Boston Celtics",-82,41,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,1,4,58,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Chicago Bulls",93,-3,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,1,1,08,1,"Turnaround Fadeaway shot","2PT Field Goal",17,"Dallas Mavericks",115,129,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,4,7,48,1,"Turnaround Fadeaway shot","2PT Field Goal",21,"Los Angeles Lakers",-46,211,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-14,2017,3102531,1610612752,400975165,2,6,09,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Brooklyn Nets",-38,119,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-06,2017,3102531,1610612752,400975547,1,11,13,1,"Turnaround Fadeaway shot","2PT Field Goal",16,"Milwaukee Bucks",125,101,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,1,7,11,0,"Turnaround Fadeaway shot","2PT Field Goal",18,"Washington Wizards",-80,169,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,2,0,50,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Memphis Grizzlies",15,89,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,4,5,35,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Denver Nuggets",101,94,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,1,8,51,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Los Angeles Lakers",-104,4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,4,0,55,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Dallas Mavericks",-107,39,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,3,9,54,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Dallas Mavericks",48,130,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,3,4,57,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Dallas Mavericks",54,122,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,1,9,13,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Toronto Raptors",-119,25,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,1,8,45,1,"Turnaround Fadeaway shot","2PT Field Goal",17,"Los Angeles Lakers",-101,141,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,1,4,00,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Los Angeles Lakers",47,131,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,4,9,01,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Washington Wizards",57,147,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,3,7,12,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Chicago Bulls",107,47,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,2,3,09,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Boston Celtics",-63,66,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,3,8,41,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Utah Jazz",138,18,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,1,4,11,0,"Turnaround Fadeaway shot","2PT Field Goal",7,"Boston Celtics",58,53,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,3,6,28,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Memphis Grizzlies",-95,36,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,4,5,10,1,"Turnaround Hook Shot","2PT Field Goal",2,"San Antonio Spurs",-22,4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-24,2017,3102531,1610612752,400974802,4,6,47,1,"Turnaround Hook Shot","2PT Field Goal",5,"Boston Celtics",48,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,1,10,26,0,"Turnaround Hook Shot","2PT Field Goal",7,"San Antonio Spurs",-8,77,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,4,4,00,0,"Turnaround Hook Shot","2PT Field Goal",15,"Los Angeles Lakers",150,48,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,2,5,00,1,"Turnaround Jump Shot","2PT Field Goal",8,"Denver Nuggets",57,58,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,2,6,50,0,"Turnaround Jump Shot","2PT Field Goal",17,"Denver Nuggets",87,150,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,1,11,46,1,"Turnaround Jump Shot","2PT Field Goal",9,"Brooklyn Nets",88,42,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,4,5,13,1,"Turnaround Jump Shot","2PT Field Goal",15,"Denver Nuggets",-150,36,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-25,2017,3102531,1610612752,400975458,1,11,27,1,"Turnaround Jump Shot","2PT Field Goal",11,"Denver Nuggets",-35,109,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-03,2017,3102531,1610612752,400975302,4,7,01,1,"Turnaround Jump Shot","2PT Field Goal",10,"Washington Wizards",103,33,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-20,2017,3102531,1610612752,400974996,1,7,21,1,"Turnaround Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-100,100,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,2,4,05,0,"Turnaround Jump Shot","2PT Field Goal",19,"Toronto Raptors",1,190,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,1,7,49,0,"Turnaround Jump Shot","2PT Field Goal",8,"Toronto Raptors",-63,62,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,1,8,18,0,"Turnaround Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",-131,91,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,1,10,49,0,"Turnaround Jump Shot","2PT Field Goal",9,"Utah Jazz",84,51,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,1,9,34,1,"Turnaround Jump Shot","2PT Field Goal",13,"Chicago Bulls",-46,125,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,1,3,02,1,"Turnaround Jump Shot","2PT Field Goal",10,"New Orleans Pelicans",85,67,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-17,2017,3102531,1610612752,400974972,1,10,08,0,"Turnaround Jump Shot","2PT Field Goal",14,"Toronto Raptors",-133,45,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-21,2017,3102531,1610612752,400975219,2,4,53,0,"Turnaround Jump Shot","2PT Field Goal",15,"Boston Celtics",-32,147,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,4,6,34,0,"Turnaround Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",117,104,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-21,2017,3102531,1610612752,400975430,1,9,41,1,"Turnaround Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",-177,109,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,4,6,33,0,"Turnaround Jump Shot","2PT Field Goal",15,"Detroit Pistons",-132,88,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,2,0,01,0,"Turnaround Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",-127,80,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-22,2017,3102531,1610612752,400975222,3,4,45,0,"Turnaround Jump Shot","2PT Field Goal",10,"Detroit Pistons",48,94,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-21,2017,3102531,1610612752,400975219,2,4,21,0,"Turnaround Jump Shot","2PT Field Goal",9,"Boston Celtics",-82,40,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,1,6,05,0,"Turnaround Jump Shot","2PT Field Goal",8,"Boston Celtics",-57,59,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,4,0,37,1,"Turnaround Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",-64,37,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,1,6,28,0,"Turnaround Jump Shot","2PT Field Goal",11,"Toronto Raptors",-101,44,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,2,7,25,0,"Turnaround Jump Shot","2PT Field Goal",11,"Indiana Pacers",-111,10,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-05,2017,3102531,1610612752,400974893,3,1,26,1,"Turnaround Jump Shot","2PT Field Goal",18,"Indiana Pacers",104,150,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,1,3,55,1,"Turnaround Jump Shot","2PT Field Goal",11,"Toronto Raptors",19,113,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,3,9,10,1,"Turnaround Jump Shot","2PT Field Goal",12,"Brooklyn Nets",-67,102,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,2,4,17,0,"Turnaround Jump Shot","2PT Field Goal",6,"Chicago Bulls",-47,47,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,2,4,30,1,"Turnaround Jump Shot","2PT Field Goal",11,"Toronto Raptors",-27,110,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,4,5,07,0,"Turnaround Jump Shot","2PT Field Goal",7,"Brooklyn Nets",-73,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,4,3,36,0,"Turnaround Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",115,142,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,1,9,59,0,"Turnaround Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",115,36,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,1,8,57,0,"Turnaround Jump Shot","2PT Field Goal",14,"San Antonio Spurs",141,20,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,1,1,51,1,"Turnaround Jump Shot","2PT Field Goal",6,"San Antonio Spurs",6,64,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-31,2017,3102531,1610612752,400975504,1,10,16,1,"Turnaround Jump Shot","2PT Field Goal",16,"Boston Celtics",-98,136,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,2,4,09,0,"Turnaround Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-109,59,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,3,7,24,1,"Turnaround Jump Shot","2PT Field Goal",13,"San Antonio Spurs",60,116,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,4,1,29,1,"Turnaround Jump Shot","2PT Field Goal",15,"Denver Nuggets",134,75,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,2,4,50,1,"Turnaround Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",112,99,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-26,2017,3102531,1610612752,400975469,3,6,22,1,"Turnaround Jump Shot","2PT Field Goal",18,"Phoenix Suns",92,157,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,1,8,16,1,"Turnaround Jump Shot","2PT Field Goal",9,"Chicago Bulls",-68,62,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,2,1,02,0,"Turnaround Jump Shot","2PT Field Goal",7,"Brooklyn Nets",-75,17,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,1,8,35,1,"Turnaround Jump Shot","2PT Field Goal",17,"Chicago Bulls",55,163,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-21,2017,3102531,1610612752,400975219,2,6,30,0,"Turnaround Jump Shot","2PT Field Goal",13,"Boston Celtics",-91,105,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,1,10,22,1,"Turnaround Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",93,125,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-26,2017,3102531,1610612752,400975469,3,4,38,0,"Turnaround Jump Shot","2PT Field Goal",17,"Phoenix Suns",-45,165,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,3,11,24,1,"Turnaround Jump Shot","2PT Field Goal",13,"Chicago Bulls",62,120,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-21,2017,3102531,1610612752,400974781,4,9,06,1,"Turnaround Jump Shot","2PT Field Goal",6,"Detroit Pistons",-32,51,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,2,3,31,1,"Turnaround Jump Shot","2PT Field Goal",8,"Chicago Bulls",79,26,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,2,0,29,0,"Turnaround Jump Shot","2PT Field Goal",12,"Minnesota Timberwolves",106,58,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,2,5,36,0,"Turnaround Jump Shot","2PT Field Goal",13,"Houston Rockets",90,97,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,1,3,11,1,"Turnaround Jump Shot","2PT Field Goal",13,"Houston Rockets",-50,120,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,4,4,43,0,"Turnaround Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",100,106,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,1,5,47,1,"Turnaround Jump Shot","2PT Field Goal",15,"Phoenix Suns",98,114,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,2,1,31,0,"Turnaround Jump Shot","2PT Field Goal",9,"Phoenix Suns",-90,10,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,4,6,21,0,"Turnaround Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",48,115,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,3,0,55,0,"Turnaround Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",81,179,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,4,2,12,1,"Turnaround Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",120,116,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,1,3,36,1,"Turnaround Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",96,98,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-01,2017,3102531,1610612752,400974862,1,7,49,1,"Turnaround Jump Shot","2PT Field Goal",11,"Houston Rockets",-19,110,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,4,1,28,0,"Turnaround Jump Shot","2PT Field Goal",15,"Chicago Bulls",-97,124,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-02,2017,3102531,1610612752,400975296,3,8,03,1,"Turnaround Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-138,52,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,1,3,35,1,"Turnaround Jump Shot","2PT Field Goal",8,"Philadelphia 76ers",-59,66,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-03,2017,3102531,1610612752,400974875,1,0,25,0,"Turnaround Jump Shot","2PT Field Goal",11,"Phoenix Suns",73,85,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-10,2017,3102531,1610612752,400975141,4,1,24,1,"Turnaround Jump Shot","2PT Field Goal",10,"Atlanta Hawks",-40,94,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-27,2017,3102531,1610612752,400974824,3,8,17,1,"Turnaround Jump Shot","2PT Field Goal",16,"Brooklyn Nets",-115,117,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,1,6,46,1,"Turnaround Jump Shot","2PT Field Goal",9,"Los Angeles Lakers",35,92,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,3,6,30,1,"Turnaround Jump Shot","2PT Field Goal",10,"Cleveland Cavaliers",-23,107,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-12,2017,3102531,1610612752,400975150,2,6,01,0,"Turnaround Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",-101,69,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,3,9,03,0,"Turnaround Jump Shot","2PT Field Goal",16,"Chicago Bulls",92,142,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,4,9,20,0,"Turnaround Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",-49,4,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-24,2017,3102531,1610612752,400975019,1,8,17,1,"Turnaround Jump Shot","2PT Field Goal",6,"Atlanta Hawks",-56,34,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,4,8,50,0,"Turnaround Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",105,106,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-12,2017,3102531,1610612752,400975369,3,9,21,0,"Turnaround Jump Shot","2PT Field Goal",11,"Minnesota Timberwolves",-87,79,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,1,3,47,0,"Turnaround Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-102,140,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,2,10,48,0,"Turnaround Jump Shot","2PT Field Goal",14,"Dallas Mavericks",8,148,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,1,2,25,0,"Turnaround Jump Shot","2PT Field Goal",9,"San Antonio Spurs",14,90,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,2,5,20,0,"Turnaround Jump Shot","2PT Field Goal",13,"Utah Jazz",-91,98,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,3,4,39,1,"Turnaround Jump Shot","2PT Field Goal",14,"Chicago Bulls",99,111,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-02-02,2017,3102531,1610612752,400975517,3,10,34,0,"Turnaround Jump Shot","2PT Field Goal",12,"Milwaukee Bucks",57,107,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,1,6,55,0,"Turnaround Jump Shot","2PT Field Goal",14,"Chicago Bulls",54,136,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,4,1,04,0,"Turnaround Jump Shot","2PT Field Goal",19,"Dallas Mavericks",98,163,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,4,1,54,0,"Turnaround Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",-93,67,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-17,2017,3102531,1610612752,400975404,1,8,00,0,"Turnaround Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",-120,-14,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,3,2,38,1,"Turnaround Jump Shot","2PT Field Goal",11,"Utah Jazz",93,71,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-07,2017,3102531,1610612752,400975333,3,0,31,0,"Turnaround Jump Shot","2PT Field Goal",13,"Dallas Mavericks",-16,130,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,1,9,35,1,"Turnaround Jump Shot","2PT Field Goal",15,"Chicago Bulls",149,49,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-30,2017,3102531,1610612752,400975491,1,7,05,0,"Turnaround Jump Shot","2PT Field Goal",12,"Brooklyn Nets",115,37,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,1,7,32,1,"Turnaround Jump Shot","2PT Field Goal",8,"Utah Jazz",89,11,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,1,4,12,1,"Turnaround Jump Shot","2PT Field Goal",17,"Chicago Bulls",-2,176,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,2,5,00,0,"Turnaround Jump Shot","2PT Field Goal",20,"San Antonio Spurs",-4,206,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-13,2017,3102531,1610612752,400974944,3,6,23,0,"Turnaround Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-86,119,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-25,2017,3102531,1610612752,400974445,2,3,10,1,"Turnaround Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",7,150,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-10,2017,3102531,1610612752,400975353,1,3,17,0,"Turnaround Jump Shot","2PT Field Goal",13,"Chicago Bulls",100,85,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-07,2017,3102531,1610612752,400974903,3,5,45,1,"Turnaround Jump Shot","2PT Field Goal",9,"Charlotte Hornets",-67,72,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-15,2017,0,1610612752,0,1,6,20,0,"Turnaround Jump Shot","2PT Field Goal",8,"Utah Jazz",-37,74,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,3,9,54,1,"Turnaround Jump Shot","2PT Field Goal",13,"San Antonio Spurs",-132,6,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,3,10,33,0,"Turnaround Jump Shot","2PT Field Goal",9,"Oklahoma City Thunder",89,24,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-22,2017,3102531,1610612752,400975009,4,0,55,1,"Turnaround Jump Shot","2PT Field Goal",11,"Toronto Raptors",109,43,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,1,5,55,0,"Turnaround Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",-127,53,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-30,2017,3102531,1610612752,400975278,2,3,00,1,"Turnaround Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",-125,66,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,2,7,11,0,"Turnaround Jump Shot","2PT Field Goal",8,"Chicago Bulls",-1,89,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-27,2017,3102531,1610612752,400975255,4,4,56,0,"Turnaround Jump Shot","2PT Field Goal",8,"Chicago Bulls",32,78,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,4,3,24,1,"Turnaround Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",104,166,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-11,2017,3102531,1610612752,400974930,3,11,15,0,"Turnaround Jump Shot","2PT Field Goal",22,"Sacramento Kings",-11,222,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,2,0,04,1,"Turnaround Jump Shot","2PT Field Goal",13,"Denver Nuggets",136,28,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,4,7,29,0,"Turnaround Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",-75,77,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-30,2017,3102531,1610612752,400974845,1,3,11,0,"Turnaround Jump Shot","2PT Field Goal",16,"Denver Nuggets",-67,154,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-06,2017,3102531,1610612752,400975108,1,11,29,1,"Turnaround Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",36,170,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,2,9,03,1,"Turnaround Jump Shot","2PT Field Goal",1,"Oklahoma City Thunder",5,16,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-28,2017,3102531,1610612752,400975265,1,5,44,0,"Turnaround Jump Shot","2PT Field Goal",7,"San Antonio Spurs",8,79,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-29,2017,3102531,1610612752,400974841,1,0,48,1,"Turnaround Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",66,136,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-10-19,2017,3102531,1610612752,400974441,2,7,34,0,"Turnaround Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",-23,55,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-21,2017,3102531,1610612752,400975219,1,7,33,0,"Turnaround Jump Shot","2PT Field Goal",13,"Boston Celtics",-116,62,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-14,2017,3102531,1610612752,400975381,5,1,34,0,"Turnaround Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",109,114,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-12-09,2017,3102531,1610612752,400975131,1,6,13,1,"Turnaround Jump Shot","2PT Field Goal",8,"Chicago Bulls",-20,84,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2018-01-19,2017,3102531,1610612752,400975418,3,3,11,0,"Turnaround Jump Shot","2PT Field Goal",9,"Utah Jazz",89,26,0,0.00,,0.00,0.00
+"Kristaps Porzingis","New York Knicks",2017-11-27,2017,3102531,1610612752,400975044,1,6,06,1,"Turnaround Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",98,142,0,0.00,,0.00,0.00

@@ -1,0 +1,796 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Dwight Howard","Charlotte Hornets",2018-02-27,2017,2384,1610612766,400975653,1,11,07,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Chicago Bulls",-7,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-06,2017,2384,1610612766,400975109,3,7,56,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Golden State Warriors",-3,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-27,2017,2384,1610612766,400975653,1,6,29,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Chicago Bulls",-9,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,3,6,08,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Orlando Magic",5,-7,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-20,2017,2384,1610612766,400975422,1,4,44,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Miami Heat",-6,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,3,2,38,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Washington Wizards",11,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-16,2017,2384,1610612766,400975180,1,3,41,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",3,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-20,2017,2384,1610612766,400975422,3,4,21,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Miami Heat",0,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-27,2017,2384,1610612766,400975653,3,11,20,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Chicago Bulls",1,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,2,2,49,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Orlando Magic",-1,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-18,2017,2384,1610612766,400974979,2,6,20,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Los Angeles Clippers",4,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-20,2017,2384,1610612766,400975205,3,4,49,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Toronto Raptors",-3,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,2,5,27,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Indiana Pacers",1,14,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-24,2017,2384,1610612766,400975839,4,3,58,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",-2,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-03,2017,2384,1610612766,400974877,3,7,03,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"San Antonio Spurs",-2,17,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-11,2017,2384,1610612766,400975579,1,9,29,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Toronto Raptors",-7,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,1,4,37,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",4,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,2,3,21,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Indiana Pacers",1,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-23,2017,2384,1610612766,400975621,1,9,03,1,"Alley Oop Dunk Shot","2PT Field Goal",3,"Washington Wizards",-18,25,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-11,2017,2384,1610612766,400975579,1,11,51,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Toronto Raptors",-6,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-02,2017,2384,1610612766,400975673,1,9,36,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Philadelphia 76ers",2,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-25,2017,2384,1610612766,400975638,3,4,20,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Detroit Pistons",-11,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-20,2017,2384,1610612766,400974992,2,2,48,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",4,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,3,6,40,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Orlando Magic",-2,27,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,1,9,55,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Orlando Magic",4,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-05,2017,2384,1610612766,400975540,1,6,09,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Denver Nuggets",1,25,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,3,2,41,0,"Alley Oop Dunk Shot","2PT Field Goal",1,"Orlando Magic",3,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-03,2017,2384,1610612766,400974877,1,6,59,0,"Alley Oop Dunk Shot","2PT Field Goal",1,"San Antonio Spurs",13,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,1,7,03,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"New York Knicks",-6,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,3,2,38,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Brooklyn Nets",-3,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-05,2017,2384,1610612766,400974894,1,10,54,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",2,2,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-27,2017,2384,1610612766,400975653,3,3,33,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Chicago Bulls",-2,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-06,2017,2384,1610612766,400975928,1,5,54,0,"Alley Oop Dunk Shot","2PT Field Goal",2,"Orlando Magic",-18,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-22,2017,2384,1610612766,400975227,1,7,39,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",-4,-1,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-06,2017,2384,1610612766,400975928,1,1,40,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Orlando Magic",8,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,1,9,25,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Orlando Magic",0,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-06,2017,2384,1610612766,400975928,1,8,22,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Orlando Magic",-1,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-06,2017,2384,1610612766,400975928,1,6,50,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Orlando Magic",0,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-28,2017,2384,1610612766,400975862,1,1,04,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Cleveland Cavaliers",0,18,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,1,2,34,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Phoenix Suns",1,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,2,0,26,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",5,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-23,2017,2384,1610612766,400975232,1,2,43,0,"Alley Oop Dunk Shot","2PT Field Goal",2,"Milwaukee Bucks",-11,23,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-12,2017,2384,1610612766,400975364,1,9,49,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Utah Jazz",-4,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,1,6,03,0,"Alley Oop Dunk Shot","2PT Field Goal",3,"Washington Wizards",-9,33,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-23,2017,2384,1610612766,400975232,3,1,33,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",-4,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-07,2017,2384,1610612766,400974903,1,5,35,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"New York Knicks",5,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-23,2017,2384,1610612766,400975232,1,6,59,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Milwaukee Bucks",-7,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,4,3,42,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"New York Knicks",1,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,1,3,58,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Oklahoma City Thunder",5,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-28,2017,2384,1610612766,400975862,1,10,03,0,"Alley Oop Dunk Shot","2PT Field Goal",2,"Cleveland Cavaliers",-3,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-07,2017,2384,1610612766,400974903,1,6,25,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"New York Knicks",-4,14,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-08,2017,2384,1610612766,400975560,1,0,12,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",-5,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-02,2017,2384,1610612766,400975512,1,8,04,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Indiana Pacers",-6,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-25,2017,2384,1610612766,400975028,3,4,01,0,"Alley Oop Dunk Shot","2PT Field Goal",4,"San Antonio Spurs",-5,44,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-24,2017,2384,1610612766,400975839,1,2,29,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",-5,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-05,2017,2384,1610612766,400974894,2,6,02,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",-3,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,3,6,50,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Orlando Magic",13,-5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,3,2,46,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Boston Celtics",-18,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-22,2017,2384,1610612766,400975433,1,5,50,1,"Alley Oop Layup shot","2PT Field Goal",0,"Sacramento Kings",3,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,3,2,43,1,"Alley Oop Layup shot","2PT Field Goal",2,"Sacramento Kings",18,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,4,5,29,1,"Alley Oop Layup shot","2PT Field Goal",1,"Washington Wizards",-9,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-25,2017,2384,1610612766,400975638,1,3,41,1,"Alley Oop Layup shot","2PT Field Goal",1,"Detroit Pistons",-9,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-25,2017,2384,1610612766,400975638,1,5,14,1,"Alley Oop Layup shot","2PT Field Goal",1,"Detroit Pistons",4,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-01,2017,2384,1610612766,400974856,3,8,35,0,"Alley Oop Layup shot","2PT Field Goal",1,"Milwaukee Bucks",1,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,1,6,29,1,"Alley Oop Layup shot","2PT Field Goal",2,"Houston Rockets",-8,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,2,3,30,1,"Alley Oop Layup shot","2PT Field Goal",2,"Boston Celtics",22,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-26,2017,2384,1610612766,400975460,2,2,42,1,"Alley Oop Layup shot","2PT Field Goal",0,"Atlanta Hawks",-3,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-27,2017,2384,1610612766,400975252,1,5,17,0,"Alley Oop Layup shot","2PT Field Goal",3,"Boston Celtics",-30,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-29,2017,2384,1610612766,400975058,3,11,45,1,"Alley Oop Layup shot","2PT Field Goal",13,"Toronto Raptors",-50,122,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-07,2017,2384,1610612766,400974903,2,2,01,1,"Alley Oop Layup shot","2PT Field Goal",1,"New York Knicks",9,14,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,1,6,19,0,"Alley Oop Layup shot","2PT Field Goal",0,"Phoenix Suns",-3,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-23,2017,2384,1610612766,400975621,1,6,33,1,"Alley Oop Layup shot","2PT Field Goal",2,"Washington Wizards",-8,25,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-23,2017,2384,1610612766,400975621,1,3,13,1,"Alley Oop Layup shot","2PT Field Goal",4,"Washington Wizards",-13,38,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,1,8,05,1,"Alley Oop Layup shot","2PT Field Goal",1,"New Orleans Pelicans",-1,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-20,2017,2384,1610612766,400975422,2,3,14,1,"Cutting Dunk Shot","2PT Field Goal",1,"Miami Heat",-6,18,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-05,2017,2384,1610612766,400975540,1,10,32,1,"Cutting Dunk Shot","2PT Field Goal",1,"Denver Nuggets",0,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-25,2017,2384,1610612766,400975638,1,8,06,1,"Cutting Dunk Shot","2PT Field Goal",0,"Detroit Pistons",-6,7,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,2,4,32,1,"Cutting Dunk Shot","2PT Field Goal",2,"Sacramento Kings",5,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,1,7,55,1,"Cutting Dunk Shot","2PT Field Goal",1,"Miami Heat",-16,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,1,9,16,1,"Cutting Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",-5,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,1,8,44,1,"Cutting Dunk Shot","2PT Field Goal",1,"Washington Wizards",5,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,1,10,32,1,"Cutting Dunk Shot","2PT Field Goal",0,"Sacramento Kings",3,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,2,4,50,1,"Cutting Dunk Shot","2PT Field Goal",1,"Golden State Warriors",6,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-02,2017,2384,1610612766,400975512,1,11,06,1,"Cutting Dunk Shot","2PT Field Goal",0,"Indiana Pacers",-1,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-01,2017,2384,1610612766,400974856,1,8,39,1,"Cutting Dunk Shot","2PT Field Goal",1,"Milwaukee Bucks",4,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-07,2017,2384,1610612766,400974903,3,6,34,1,"Cutting Dunk Shot","2PT Field Goal",1,"New York Knicks",-1,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,1,5,37,0,"Cutting Finger Roll Layup Shot","2PT Field Goal",2,"Indiana Pacers",3,24,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,3,7,37,1,"Cutting Layup Shot","2PT Field Goal",1,"Miami Heat",17,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-29,2017,2384,1610612766,400975058,4,2,23,1,"Cutting Layup Shot","2PT Field Goal",1,"Toronto Raptors",14,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,3,3,43,1,"Cutting Layup Shot","2PT Field Goal",3,"Boston Celtics",-30,17,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-25,2017,2384,1610612766,400975028,1,11,17,1,"Cutting Layup Shot","2PT Field Goal",0,"San Antonio Spurs",2,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-27,2017,2384,1610612766,400975252,3,9,43,1,"Cutting Layup Shot","2PT Field Goal",1,"Boston Celtics",-11,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,3,5,21,1,"Cutting Layup Shot","2PT Field Goal",1,"Chicago Bulls",-3,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,2,0,58,0,"Cutting Layup Shot","2PT Field Goal",3,"Golden State Warriors",-8,35,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-04,2017,2384,1610612766,400975690,2,2,02,0,"Driving Bank Hook Shot","2PT Field Goal",3,"Toronto Raptors",-27,14,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-04,2017,2384,1610612766,400975690,3,3,10,1,"Driving Bank Hook Shot","2PT Field Goal",2,"Toronto Raptors",-17,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-29,2017,2384,1610612766,400975058,2,3,09,1,"Driving Dunk Shot","2PT Field Goal",1,"Toronto Raptors",-8,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-17,2017,2384,1610612766,400974973,1,7,58,1,"Driving Dunk Shot","2PT Field Goal",0,"Chicago Bulls",-3,7,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-29,2017,2384,1610612766,400975058,3,6,12,1,"Driving Dunk Shot","2PT Field Goal",1,"Toronto Raptors",-6,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,1,2,56,1,"Driving Dunk Shot","2PT Field Goal",1,"Golden State Warriors",-11,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,4,4,45,1,"Driving Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",-5,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-17,2017,2384,1610612766,400974973,3,8,59,1,"Driving Dunk Shot","2PT Field Goal",1,"Chicago Bulls",11,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,4,1,47,1,"Driving Dunk Shot","2PT Field Goal",1,"Orlando Magic",6,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,1,6,33,1,"Driving Dunk Shot","2PT Field Goal",1,"Chicago Bulls",0,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,2,2,48,1,"Driving Dunk Shot","2PT Field Goal",1,"Boston Celtics",-9,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-08,2017,2384,1610612766,400975943,2,2,53,1,"Driving Dunk Shot","2PT Field Goal",1,"Indiana Pacers",0,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,1,5,29,1,"Driving Dunk Shot","2PT Field Goal",0,"Golden State Warriors",-4,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,1,2,55,0,"Driving Finger Roll Layup Shot","2PT Field Goal",6,"Washington Wizards",7,63,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,1,10,18,1,"Driving Finger Roll Layup Shot","2PT Field Goal",5,"Brooklyn Nets",-9,50,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,4,2,26,1,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Brooklyn Nets",-28,23,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-23,2017,2384,1610612766,400975621,3,11,13,0,"Driving Finger Roll Layup Shot","2PT Field Goal",4,"Washington Wizards",-27,42,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,3,5,47,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Washington Wizards",-3,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-05,2017,2384,1610612766,400975323,1,5,28,0,"Driving Floating Bank Jump Shot","2PT Field Goal",4,"Los Angeles Lakers",-7,46,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,4,1,05,1,"Driving Floating Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",47,114,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,3,10,13,0,"Driving Floating Jump Shot","2PT Field Goal",1,"New York Knicks",-18,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,1,3,08,1,"Driving Hook Shot","2PT Field Goal",11,"Atlanta Hawks",-3,112,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,2,4,58,0,"Driving Hook Shot","2PT Field Goal",6,"Indiana Pacers",56,35,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,2,5,05,1,"Driving Hook Shot","2PT Field Goal",5,"Washington Wizards",-44,35,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,1,4,03,0,"Driving Hook Shot","2PT Field Goal",2,"Phoenix Suns",19,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,2,5,26,1,"Driving Hook Shot","2PT Field Goal",7,"Houston Rockets",5,73,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,3,3,31,0,"Driving Hook Shot","2PT Field Goal",7,"Indiana Pacers",-7,78,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-02,2017,2384,1610612766,400975673,3,5,56,1,"Driving Hook Shot","2PT Field Goal",6,"Philadelphia 76ers",-35,58,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,1,4,10,0,"Driving Hook Shot","2PT Field Goal",1,"New York Knicks",-18,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-29,2017,2384,1610612766,400975058,3,7,02,0,"Driving Hook Shot","2PT Field Goal",7,"Toronto Raptors",-13,73,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-08,2017,2384,1610612766,400975560,1,8,31,0,"Driving Hook Shot","2PT Field Goal",3,"Portland Trail Blazers",22,30,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-08,2017,2384,1610612766,400975560,1,3,54,0,"Driving Hook Shot","2PT Field Goal",4,"Portland Trail Blazers",-3,45,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-19,2017,2384,1610612766,400975798,4,4,23,0,"Driving Hook Shot","2PT Field Goal",8,"Philadelphia 76ers",5,84,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-17,2017,2384,1610612766,400974973,1,5,16,0,"Driving Hook Shot","2PT Field Goal",6,"Chicago Bulls",2,63,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-03,2017,2384,1610612766,400975906,3,1,15,1,"Driving Hook Shot","2PT Field Goal",4,"Chicago Bulls",-6,43,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,4,3,23,0,"Driving Hook Shot","2PT Field Goal",4,"Washington Wizards",33,23,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-01,2017,2384,1610612766,400974856,1,10,28,1,"Driving Hook Shot","2PT Field Goal",2,"Milwaukee Bucks",6,29,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-05,2017,2384,1610612766,400975540,1,8,07,1,"Driving Hook Shot","2PT Field Goal",3,"Denver Nuggets",-2,34,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-10,2017,2384,1610612766,400974921,2,9,15,0,"Driving Hook Shot","2PT Field Goal",5,"Boston Celtics",11,53,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-04,2017,2384,1610612766,400975690,1,9,26,0,"Driving Hook Shot","2PT Field Goal",5,"Toronto Raptors",-10,53,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-03,2017,2384,1610612766,400975906,1,8,40,0,"Driving Hook Shot","2PT Field Goal",4,"Chicago Bulls",22,38,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,1,8,25,1,"Driving Layup Shot","2PT Field Goal",6,"New York Knicks",7,68,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,3,1,16,0,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",-14,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,3,10,18,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",-20,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-10,2017,2384,1610612766,400974921,2,10,51,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",6,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-10,2017,2384,1610612766,400974921,1,10,15,0,"Driving Layup Shot","2PT Field Goal",4,"Boston Celtics",1,47,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-17,2017,2384,1610612766,400974973,3,3,04,1,"Driving Layup Shot","2PT Field Goal",0,"Chicago Bulls",-5,3,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-18,2017,2384,1610612766,400974700,3,7,41,1,"Driving Layup Shot","2PT Field Goal",3,"Detroit Pistons",-28,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,4,2,05,1,"Driving Layup Shot","2PT Field Goal",0,"Washington Wizards",5,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-09,2017,2384,1610612766,400975570,3,10,18,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",-9,23,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-08,2017,2384,1610612766,400975560,1,2,12,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-2,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-07,2017,2384,1610612766,400974903,1,7,44,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",7,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,3,10,42,1,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",11,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,1,6,00,1,"Driving Layup Shot","2PT Field Goal",3,"Boston Celtics",29,24,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,2,1,30,1,"Driving Layup Shot","2PT Field Goal",3,"Oklahoma City Thunder",-32,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,3,8,03,0,"Driving Layup Shot","2PT Field Goal",3,"New York Knicks",22,27,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,1,4,28,0,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-27,7,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-19,2017,2384,1610612766,400975798,1,11,08,0,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",13,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,1,3,05,0,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",-21,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-23,2017,2384,1610612766,400975621,3,11,49,0,"Driving Layup Shot","2PT Field Goal",6,"Washington Wizards",-40,47,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,1,4,35,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",8,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,3,10,18,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-8,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-01,2017,2384,1610612766,400975072,1,5,29,0,"Driving Layup Shot","2PT Field Goal",0,"Miami Heat",-5,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,3,5,25,1,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",-5,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-17,2017,2384,1610612766,400974973,2,3,11,1,"Driving Layup Shot","2PT Field Goal",3,"Chicago Bulls",30,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-30,2017,2384,1610612766,400974847,2,0,31,0,"Driving Layup Shot","2PT Field Goal",8,"Memphis Grizzlies",-11,88,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-05,2017,2384,1610612766,400975540,1,3,53,1,"Driving Layup Shot","2PT Field Goal",3,"Denver Nuggets",-24,24,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,3,10,02,0,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",-10,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,3,4,04,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",19,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-11,2017,2384,1610612766,400975579,3,3,40,1,"Driving Layup Shot","2PT Field Goal",0,"Toronto Raptors",-4,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,1,5,32,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",27,7,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,3,3,02,0,"Driving Layup Shot","2PT Field Goal",6,"Indiana Pacers",-19,58,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-31,2017,0,1610612766,0,3,10,15,0,"Driving Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",5,32,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-20,2017,2384,1610612766,400975422,1,4,10,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",16,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-03,2017,2384,1610612766,400975906,3,2,19,1,"Driving Reverse Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,3,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-11,2017,2384,1610612766,400975579,3,7,01,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Toronto Raptors",13,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-29,2017,2384,1610612766,400975058,3,5,24,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Toronto Raptors",20,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-19,2017,2384,1610612766,400975798,1,8,45,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-17,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-19,2017,2384,1610612766,400975798,3,10,45,0,"Driving Reverse Layup Shot","2PT Field Goal",4,"Philadelphia 76ers",25,34,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,2,1,38,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Boston Celtics",16,0,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,1,4,56,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Golden State Warriors",-13,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,1,1,43,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Boston Celtics",13,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-03,2017,2384,1610612766,400975906,3,9,42,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",8,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-03,2017,2384,1610612766,400974877,1,7,28,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"San Antonio Spurs",24,1,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-03,2017,2384,1610612766,400975906,1,10,50,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",16,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,3,1,00,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Sacramento Kings",17,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,1,7,51,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Indiana Pacers",5,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,3,10,48,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Brooklyn Nets",22,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,2,4,29,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Washington Wizards",7,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-05,2017,2384,1610612766,400975323,3,4,55,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",1,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,4,3,35,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Houston Rockets",-1,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,4,3,14,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Orlando Magic",2,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-06,2017,2384,1610612766,400975928,1,2,19,0,"Driving Reverse Layup Shot","2PT Field Goal",3,"Orlando Magic",21,28,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-03,2017,2384,1610612766,400974877,4,0,31,1,"Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",2,0,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,4,2,56,1,"Dunk Shot","2PT Field Goal",0,"Houston Rockets",-2,7,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,3,9,52,1,"Dunk Shot","2PT Field Goal",1,"Boston Celtics",-17,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-02,2017,2384,1610612766,400975673,4,3,25,1,"Dunk Shot","2PT Field Goal",2,"Philadelphia 76ers",8,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-23,2017,2384,1610612766,400975232,3,5,34,1,"Dunk Shot","2PT Field Goal",1,"Milwaukee Bucks",6,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,1,11,42,0,"Dunk Shot","2PT Field Goal",1,"Oklahoma City Thunder",2,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-10,2017,2384,1610612766,400974921,1,9,20,1,"Dunk Shot","2PT Field Goal",1,"Boston Celtics",9,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-19,2017,2384,1610612766,400975798,1,7,53,1,"Dunk Shot","2PT Field Goal",2,"Philadelphia 76ers",-3,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,2,3,15,0,"Dunk Shot","2PT Field Goal",1,"Orlando Magic",8,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-07,2017,2384,1610612766,400974903,2,1,09,1,"Dunk Shot","2PT Field Goal",1,"New York Knicks",1,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-16,2017,2384,1610612766,400975180,3,9,39,1,"Dunk Shot","2PT Field Goal",3,"Portland Trail Blazers",-8,31,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-20,2017,2384,1610612766,400975422,3,2,46,1,"Dunk Shot","2PT Field Goal",0,"Miami Heat",1,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,3,0,31,1,"Dunk Shot","2PT Field Goal",1,"Sacramento Kings",7,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-10,2017,2384,1610612766,400975349,3,8,23,1,"Dunk Shot","2PT Field Goal",1,"Dallas Mavericks",9,17,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,1,5,33,1,"Dunk Shot","2PT Field Goal",1,"Cleveland Cavaliers",-6,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,3,3,17,1,"Dunk Shot","2PT Field Goal",0,"Washington Wizards",5,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-25,2017,2384,1610612766,400974806,3,5,09,1,"Dunk Shot","2PT Field Goal",2,"Denver Nuggets",9,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-29,2017,2384,1610612766,400975058,1,4,35,1,"Dunk Shot","2PT Field Goal",1,"Toronto Raptors",0,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-03,2017,2384,1610612766,400975906,3,11,06,1,"Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,3,2,42,1,"Dunk Shot","2PT Field Goal",1,"Miami Heat",-4,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-05,2017,2384,1610612766,400975323,1,4,49,1,"Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",2,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,1,9,53,1,"Dunk Shot","2PT Field Goal",0,"Indiana Pacers",-6,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,2,7,30,1,"Dunk Shot","2PT Field Goal",0,"Houston Rockets",3,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-01,2017,2384,1610612766,400974856,3,11,47,0,"Dunk Shot","2PT Field Goal",1,"Milwaukee Bucks",8,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-20,2017,2384,1610612766,400974770,3,4,48,1,"Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",3,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,4,5,23,1,"Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",-8,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,1,7,26,1,"Dunk Shot","2PT Field Goal",1,"Houston Rockets",6,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-30,2017,2384,1610612766,400974847,1,6,00,0,"Dunk Shot","2PT Field Goal",1,"Memphis Grizzlies",-7,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-20,2017,2384,1610612766,400974770,3,4,20,1,"Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",-7,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-23,2017,2384,1610612766,400974795,2,1,02,1,"Dunk Shot","2PT Field Goal",1,"Milwaukee Bucks",7,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-13,2017,2384,1610612766,400975375,2,2,26,1,"Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",-2,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,1,10,01,1,"Dunk Shot","2PT Field Goal",1,"Houston Rockets",8,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,4,3,07,1,"Dunk Shot","2PT Field Goal",1,"Chicago Bulls",-5,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-22,2017,2384,1610612766,400975227,1,7,53,0,"Dunk Shot","2PT Field Goal",1,"Milwaukee Bucks",-6,14,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,1,9,06,1,"Dunk Shot","2PT Field Goal",1,"Indiana Pacers",2,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-20,2017,2384,1610612766,400974770,1,4,40,1,"Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",2,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-26,2017,2384,1610612766,400975460,4,4,32,1,"Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",0,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-05,2017,2384,1610612766,400974894,4,6,48,1,"Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",-3,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,3,7,33,1,"Dunk Shot","2PT Field Goal",1,"Houston Rockets",-7,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,1,1,14,1,"Dunk Shot","2PT Field Goal",1,"Indiana Pacers",9,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,1,2,36,0,"Dunk Shot","2PT Field Goal",2,"Sacramento Kings",-3,28,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-03,2017,2384,1610612766,400975906,4,3,33,1,"Dunk Shot","2PT Field Goal",0,"Chicago Bulls",2,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-06,2017,2384,1610612766,400975928,2,0,14,1,"Dunk Shot","2PT Field Goal",1,"Orlando Magic",9,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,1,8,03,1,"Dunk Shot","2PT Field Goal",1,"Washington Wizards",-3,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-27,2017,2384,1610612766,400975653,1,10,22,1,"Dunk Shot","2PT Field Goal",1,"Chicago Bulls",9,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-20,2017,2384,1610612766,400974770,3,8,43,1,"Finger Roll Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-2,25,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-05,2017,2384,1610612766,400975540,2,1,55,1,"Finger Roll Layup Shot","2PT Field Goal",1,"Denver Nuggets",-3,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,3,6,14,1,"Finger Roll Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-9,18,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,3,2,13,0,"Finger Roll Layup Shot","2PT Field Goal",2,"Houston Rockets",-4,26,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,3,6,15,0,"Finger Roll Layup Shot","2PT Field Goal",0,"Indiana Pacers",-3,-3,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,1,10,22,0,"Floating Jump shot","2PT Field Goal",11,"Washington Wizards",89,75,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-12,2017,2384,1610612766,400975364,3,10,36,0,"Hook Bank Shot","2PT Field Goal",10,"Utah Jazz",91,44,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,3,6,45,1,"Hook Bank Shot","2PT Field Goal",8,"Chicago Bulls",52,71,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-03,2017,2384,1610612766,400974877,3,9,19,1,"Hook Bank Shot","2PT Field Goal",0,"San Antonio Spurs",3,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,2,4,00,1,"Hook Bank Shot","2PT Field Goal",7,"Sacramento Kings",52,49,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-29,2017,2384,1610612766,400975058,3,10,09,1,"Hook Bank Shot","2PT Field Goal",3,"Toronto Raptors",21,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-11,2017,2384,1610612766,400975579,1,1,52,1,"Hook Bank Shot","2PT Field Goal",4,"Toronto Raptors",9,41,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,3,0,56,0,"Hook Shot","2PT Field Goal",6,"New Orleans Pelicans",11,61,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,2,2,44,0,"Hook Shot","2PT Field Goal",9,"Atlanta Hawks",-19,90,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,3,5,17,0,"Hook Shot","2PT Field Goal",8,"Boston Celtics",-1,89,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,2,4,40,1,"Hook Shot","2PT Field Goal",3,"Houston Rockets",7,31,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,4,6,25,0,"Hook Shot","2PT Field Goal",6,"Houston Rockets",4,69,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,4,3,38,1,"Hook Shot","2PT Field Goal",7,"Oklahoma City Thunder",76,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,3,10,40,0,"Hook Shot","2PT Field Goal",7,"Houston Rockets",4,76,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,4,5,29,0,"Hook Shot","2PT Field Goal",7,"Houston Rockets",5,75,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,2,5,18,0,"Hook Shot","2PT Field Goal",5,"New York Knicks",-1,50,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,3,6,02,0,"Hook Shot","2PT Field Goal",5,"Houston Rockets",29,47,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,1,7,04,1,"Hook Shot","2PT Field Goal",9,"Orlando Magic",-90,17,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,1,5,09,1,"Hook Shot","2PT Field Goal",3,"Los Angeles Lakers",27,18,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,1,4,39,0,"Hook Shot","2PT Field Goal",6,"New York Knicks",6,60,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,2,4,32,1,"Hook Shot","2PT Field Goal",5,"Orlando Magic",-1,52,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,4,4,09,1,"Hook Shot","2PT Field Goal",5,"New York Knicks",27,47,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,2,3,15,1,"Hook Shot","2PT Field Goal",8,"Atlanta Hawks",-9,84,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,1,11,42,0,"Hook Shot","2PT Field Goal",8,"Los Angeles Lakers",-81,32,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,1,7,23,1,"Hook Shot","2PT Field Goal",6,"Sacramento Kings",-30,58,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-24,2017,2384,1610612766,400975839,4,1,30,0,"Hook Shot","2PT Field Goal",3,"Dallas Mavericks",-13,34,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-03,2017,2384,1610612766,400974877,3,6,29,0,"Hook Shot","2PT Field Goal",4,"San Antonio Spurs",-6,48,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,1,7,01,0,"Hook Shot","2PT Field Goal",2,"Brooklyn Nets",29,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-29,2017,2384,1610612766,400975058,2,6,54,0,"Hook Shot","2PT Field Goal",3,"Toronto Raptors",32,17,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-30,2017,2384,1610612766,400974847,3,9,56,0,"Hook Shot","2PT Field Goal",5,"Memphis Grizzlies",0,52,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-01,2017,2384,1610612766,400975889,1,8,55,0,"Hook Shot","2PT Field Goal",3,"Philadelphia 76ers",18,25,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-01,2017,2384,1610612766,400975889,1,7,42,1,"Hook Shot","2PT Field Goal",7,"Philadelphia 76ers",67,32,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-01,2017,2384,1610612766,400975889,1,2,48,1,"Hook Shot","2PT Field Goal",3,"Philadelphia 76ers",-2,34,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-16,2017,2384,1610612766,400975180,2,2,45,0,"Hook Shot","2PT Field Goal",7,"Portland Trail Blazers",29,66,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,2,2,26,0,"Hook Shot","2PT Field Goal",9,"Phoenix Suns",-24,93,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,3,2,06,0,"Hook Shot","2PT Field Goal",11,"Phoenix Suns",-47,105,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-28,2017,2384,1610612766,400975862,3,3,26,1,"Hook Shot","2PT Field Goal",6,"Cleveland Cavaliers",-55,42,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-11,2017,2384,1610612766,400975579,3,6,05,0,"Hook Shot","2PT Field Goal",5,"Toronto Raptors",-54,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-09,2017,2384,1610612766,400975570,1,8,01,0,"Hook Shot","2PT Field Goal",5,"Utah Jazz",-2,53,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-11,2017,2384,1610612766,400975579,2,3,35,0,"Hook Shot","2PT Field Goal",5,"Toronto Raptors",-51,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,1,11,41,0,"Hook Shot","2PT Field Goal",5,"Sacramento Kings",-33,39,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-02,2017,2384,1610612766,400975512,2,2,22,0,"Hook Shot","2PT Field Goal",5,"Indiana Pacers",20,52,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-09,2017,2384,1610612766,400975570,3,9,10,0,"Hook Shot","2PT Field Goal",5,"Utah Jazz",8,59,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,3,5,20,1,"Hook Shot","2PT Field Goal",1,"Washington Wizards",-6,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-22,2017,2384,1610612766,400975433,3,9,41,0,"Hook Shot","2PT Field Goal",5,"Sacramento Kings",3,50,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,3,11,44,0,"Hook Shot","2PT Field Goal",8,"Washington Wizards",62,56,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,2,6,17,0,"Hook Shot","2PT Field Goal",3,"Washington Wizards",16,32,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-16,2017,2384,1610612766,400975180,3,1,47,0,"Hook Shot","2PT Field Goal",6,"Portland Trail Blazers",-2,67,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,2,0,46,1,"Hook Shot","2PT Field Goal",2,"Orlando Magic",-8,26,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-18,2017,2384,1610612766,400974700,1,11,09,0,"Hook Shot","2PT Field Goal",5,"Detroit Pistons",47,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-18,2017,2384,1610612766,400974700,3,6,14,0,"Hook Shot","2PT Field Goal",7,"Detroit Pistons",-70,1,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,4,4,34,1,"Hook Shot","2PT Field Goal",0,"New Orleans Pelicans",-4,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-31,2017,0,1610612766,0,1,7,12,0,"Hook Shot","2PT Field Goal",6,"Los Angeles Clippers",62,-8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-31,2017,0,1610612766,0,3,8,41,0,"Hook Shot","2PT Field Goal",8,"Los Angeles Clippers",-42,71,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-31,2017,0,1610612766,0,2,3,39,0,"Hook Shot","2PT Field Goal",5,"Los Angeles Clippers",6,54,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,1,11,13,0,"Hook Shot","2PT Field Goal",6,"Orlando Magic",-14,67,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-10,2017,2384,1610612766,400975349,1,11,00,1,"Hook Shot","2PT Field Goal",4,"Dallas Mavericks",2,47,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-25,2017,2384,1610612766,400975028,3,11,28,1,"Hook Shot","2PT Field Goal",5,"San Antonio Spurs",-16,52,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,1,11,46,1,"Hook Shot","2PT Field Goal",8,"Chicago Bulls",-8,80,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-19,2017,2384,1610612766,400975798,1,9,17,1,"Hook Shot","2PT Field Goal",9,"Philadelphia 76ers",-71,62,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-23,2017,2384,1610612766,400975232,4,4,36,1,"Hook Shot","2PT Field Goal",3,"Milwaukee Bucks",-3,36,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-27,2017,2384,1610612766,400975252,3,10,47,0,"Hook Shot","2PT Field Goal",7,"Boston Celtics",-58,42,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,2,1,46,0,"Hook Shot","2PT Field Goal",9,"Miami Heat",6,90,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-27,2017,2384,1610612766,400975252,1,8,12,0,"Hook Shot","2PT Field Goal",7,"Boston Celtics",5,74,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-12,2017,2384,1610612766,400975364,4,4,35,0,"Hook Shot","2PT Field Goal",7,"Utah Jazz",4,73,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-25,2017,2384,1610612766,400975028,3,7,06,0,"Hook Shot","2PT Field Goal",1,"San Antonio Spurs",-6,17,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,3,6,07,1,"Hook Shot","2PT Field Goal",9,"Orlando Magic",-89,25,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,3,7,15,0,"Hook Shot","2PT Field Goal",7,"Chicago Bulls",-11,79,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,1,6,39,0,"Hook Shot","2PT Field Goal",2,"Miami Heat",-18,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-22,2017,2384,1610612766,400975227,1,11,07,0,"Hook Shot","2PT Field Goal",6,"Milwaukee Bucks",25,57,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,4,2,49,1,"Hook Shot","2PT Field Goal",7,"Oklahoma City Thunder",30,74,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-12,2017,2384,1610612766,400975364,3,8,58,1,"Hook Shot","2PT Field Goal",4,"Utah Jazz",22,37,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-06,2017,2384,1610612766,400975928,3,9,05,0,"Hook Shot","2PT Field Goal",11,"Orlando Magic",-8,115,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-25,2017,2384,1610612766,400975028,1,10,08,0,"Hook Shot","2PT Field Goal",2,"San Antonio Spurs",-16,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,4,2,39,0,"Hook Shot","2PT Field Goal",5,"Chicago Bulls",-46,30,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,1,5,45,1,"Hook Shot","2PT Field Goal",8,"Washington Wizards",60,53,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-25,2017,2384,1610612766,400975028,1,9,42,0,"Hook Shot","2PT Field Goal",1,"San Antonio Spurs",-3,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,3,11,23,1,"Hook Shot","2PT Field Goal",3,"Houston Rockets",0,38,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-05,2017,2384,1610612766,400975540,3,10,52,0,"Hook Shot","2PT Field Goal",7,"Denver Nuggets",-45,54,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-20,2017,2384,1610612766,400974770,2,7,54,0,"Hook Shot","2PT Field Goal",6,"Atlanta Hawks",5,62,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,3,4,52,0,"Hook Shot","2PT Field Goal",6,"Boston Celtics",-17,60,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-01,2017,2384,1610612766,400974856,2,4,34,0,"Hook Shot","2PT Field Goal",2,"Milwaukee Bucks",-23,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,1,8,55,0,"Hook Shot","2PT Field Goal",5,"New Orleans Pelicans",-3,58,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-20,2017,2384,1610612766,400974770,2,3,51,1,"Hook Shot","2PT Field Goal",6,"Atlanta Hawks",9,67,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-05,2017,2384,1610612766,400975540,3,6,48,0,"Hook Shot","2PT Field Goal",5,"Denver Nuggets",-54,18,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,3,9,38,1,"Hook Shot","2PT Field Goal",8,"Indiana Pacers",-2,83,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-05,2017,2384,1610612766,400975540,4,4,00,1,"Hook Shot","2PT Field Goal",7,"Denver Nuggets",69,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-05,2017,2384,1610612766,400975323,3,8,46,0,"Hook Shot","2PT Field Goal",4,"Los Angeles Lakers",-8,45,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,1,8,54,1,"Hook Shot","2PT Field Goal",7,"Sacramento Kings",-2,75,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-27,2017,2384,1610612766,400975653,3,2,19,1,"Hook Shot","2PT Field Goal",6,"Chicago Bulls",-63,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,1,3,41,0,"Hook Shot","2PT Field Goal",7,"Los Angeles Lakers",-7,71,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,1,5,37,1,"Hook Shot","2PT Field Goal",9,"Los Angeles Lakers",-5,91,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,3,4,21,0,"Hook Shot","2PT Field Goal",9,"Los Angeles Lakers",28,88,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,2,5,13,0,"Hook Shot","2PT Field Goal",6,"Los Angeles Lakers",-30,62,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-20,2017,2384,1610612766,400975205,3,3,12,1,"Hook Shot","2PT Field Goal",7,"Toronto Raptors",6,79,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-20,2017,2384,1610612766,400975205,1,11,40,0,"Hook Shot","2PT Field Goal",7,"Toronto Raptors",-62,44,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,1,6,32,1,"Hook Shot","2PT Field Goal",5,"New Orleans Pelicans",25,54,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-23,2017,2384,1610612766,400975621,3,4,35,0,"Jump Bank Shot","2PT Field Goal",15,"Washington Wizards",-120,92,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,2,2,36,0,"Jump Bank Shot","2PT Field Goal",16,"Washington Wizards",136,94,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-19,2017,2384,1610612766,400975798,1,5,26,0,"Jump Bank Shot","2PT Field Goal",13,"Philadelphia 76ers",-115,79,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,1,3,36,0,"Jump Bank Shot","2PT Field Goal",3,"Miami Heat",-23,28,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,1,8,40,1,"Jump Bank Shot","2PT Field Goal",12,"Phoenix Suns",-117,35,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-07,2017,2384,1610612766,400974903,1,7,11,0,"Jump Bank Shot","2PT Field Goal",13,"New York Knicks",-101,89,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-30,2017,2384,1610612766,400974847,1,10,58,0,"Jump Bank Shot","2PT Field Goal",10,"Memphis Grizzlies",100,-15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-06,2017,2384,1610612766,400975928,1,11,20,0,"Jump Bank Shot","2PT Field Goal",15,"Orlando Magic",-125,88,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-01,2017,2384,1610612766,400975072,1,2,47,1,"Jump Bank Shot","2PT Field Goal",5,"Miami Heat",-54,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,1,3,45,0,"Jump Bank Shot","2PT Field Goal",15,"Houston Rockets",121,90,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,3,1,56,0,"Jump Bank Shot","2PT Field Goal",17,"Chicago Bulls",142,105,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-30,2017,2384,1610612766,400974847,1,3,42,0,"Jump Bank Shot","2PT Field Goal",18,"Memphis Grizzlies",183,-11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,2,8,19,0,"Jump Bank Shot","2PT Field Goal",16,"Phoenix Suns",159,30,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,1,3,51,0,"Jump Bank Shot","2PT Field Goal",14,"Brooklyn Nets",134,53,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-13,2017,2384,1610612766,400975375,2,6,30,0,"Jump Bank Shot","2PT Field Goal",14,"Oklahoma City Thunder",135,49,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-27,2017,2384,1610612766,400975653,1,3,18,0,"Jump Bank Shot","2PT Field Goal",8,"Chicago Bulls",70,52,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,1,10,18,0,"Jump Bank Shot","2PT Field Goal",9,"Orlando Magic",95,27,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,1,11,11,0,"Jump Bank Shot","2PT Field Goal",12,"Houston Rockets",119,46,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-03,2017,2384,1610612766,400974877,1,10,50,0,"Jump Bank Shot","2PT Field Goal",16,"San Antonio Spurs",142,92,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-16,2017,2384,1610612766,400975180,2,1,51,0,"Jump Bank Shot","2PT Field Goal",11,"Portland Trail Blazers",110,37,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,1,11,27,0,"Jump Bank Shot","2PT Field Goal",16,"Washington Wizards",-113,125,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,4,8,49,1,"Jump Bank Shot","2PT Field Goal",15,"Golden State Warriors",139,71,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-20,2017,2384,1610612766,400975422,3,9,48,1,"Jump Bank Shot","2PT Field Goal",9,"Miami Heat",52,75,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-08,2017,2384,1610612766,400975560,3,10,19,1,"Jump Bank Shot","2PT Field Goal",23,"Portland Trail Blazers",-5,230,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,1,10,10,1,"Jump Bank Shot","2PT Field Goal",12,"Miami Heat",111,65,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,1,10,34,1,"Jump Bank Shot","2PT Field Goal",15,"New York Knicks",136,64,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,1,7,15,1,"Jump Bank Shot","2PT Field Goal",16,"Oklahoma City Thunder",-133,91,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,1,10,09,1,"Jump Bank Shot","2PT Field Goal",19,"Indiana Pacers",183,56,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-08,2017,2384,1610612766,400975560,3,6,20,0,"Jump Bank Shot","2PT Field Goal",4,"Portland Trail Blazers",-34,29,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-08,2017,2384,1610612766,400975560,3,11,05,0,"Jump Bank Shot","2PT Field Goal",8,"Portland Trail Blazers",78,43,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-09,2017,2384,1610612766,400975570,3,10,44,1,"Jump Bank Shot","2PT Field Goal",14,"Utah Jazz",135,59,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-02,2017,2384,1610612766,400975673,3,8,13,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-25,168,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-05,2017,2384,1610612766,400975323,3,10,29,0,"Jump Shot","2PT Field Goal",21,"Los Angeles Lakers",104,192,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,3,9,17,0,"Jump Shot","2PT Field Goal",3,"Houston Rockets",13,28,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-05,2017,2384,1610612766,400975540,3,5,06,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",84,154,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-05,2017,2384,1610612766,400975323,2,4,54,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",92,172,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-24,2017,2384,1610612766,400975839,2,0,00,0,"Jump Shot","3PT Field Goal",55,"Dallas Mavericks",-48,557,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-16,2017,2384,1610612766,400975180,3,10,44,0,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",-6,216,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,1,7,04,0,"Jump Shot","2PT Field Goal",6,"Chicago Bulls",-6,69,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-16,2017,2384,1610612766,400975180,1,10,59,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",6,172,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-18,2017,2384,1610612766,400974700,3,11,22,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",161,27,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-04,2017,2384,1610612766,400975690,3,10,06,0,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",-83,201,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-24,2017,2384,1610612766,400975839,1,7,26,1,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-136,129,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,3,0,00,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",68,190,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-09,2017,2384,1610612766,400975570,2,2,53,0,"Jump Shot","2PT Field Goal",3,"Utah Jazz",17,25,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,3,6,21,0,"Jump Shot","2PT Field Goal",15,"New York Knicks",13,152,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-24,2017,2384,1610612766,400975839,3,10,48,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",-132,159,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,2,2,02,1,"Jump Shot","2PT Field Goal",20,"Orlando Magic",-125,159,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-06,2017,2384,1610612766,400975109,3,11,48,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",1,32,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,4,3,58,1,"Jump Shot","2PT Field Goal",19,"Orlando Magic",96,173,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,3,1,49,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-17,184,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-01,2017,2384,1610612766,400975889,3,10,28,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",96,168,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,3,11,24,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",76,188,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-17,2017,2384,1610612766,400974973,3,11,09,0,"Jump Shot","2PT Field Goal",8,"Chicago Bulls",16,80,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-10,2017,2384,1610612766,400974921,3,7,02,0,"Jump Shot","2PT Field Goal",9,"Boston Celtics",25,91,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,1,5,34,0,"Jump Shot","2PT Field Goal",21,"New York Knicks",-44,214,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,1,4,45,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",169,46,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-30,2017,2384,1610612766,400974847,1,9,58,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",91,196,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,3,7,48,1,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",85,168,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,3,7,36,1,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-52,181,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,4,0,06,0,"Jump Shot","2PT Field Goal",20,"Orlando Magic",-185,83,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,4,3,23,0,"Jump Shot","2PT Field Goal",20,"Orlando Magic",-14,203,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-20,2017,2384,1610612766,400974770,4,3,56,0,"Jump Shot","2PT Field Goal",7,"Atlanta Hawks",-14,73,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-24,2017,2384,1610612766,400975839,3,5,35,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-122,158,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,3,9,44,0,"Jump Shot","2PT Field Goal",21,"New York Knicks",-92,196,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,3,11,19,0,"Jump Shot","2PT Field Goal",20,"Orlando Magic",-48,195,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,4,0,00,0,"Jump Shot","3PT Field Goal",53,"Indiana Pacers",125,520,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-28,2017,2384,1610612766,400975862,3,11,12,1,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",172,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-01,2017,2384,1610612766,400974856,1,4,21,0,"Jump Shot","2PT Field Goal",2,"Milwaukee Bucks",-12,23,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,4,5,18,0,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",-79,193,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,3,2,51,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",-94,170,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-01,2017,2384,1610612766,400975072,3,11,29,1,"Jump Shot","2PT Field Goal",14,"Miami Heat",-122,85,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-09,2017,2384,1610612766,400975570,4,5,06,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",-34,206,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-01,2017,2384,1610612766,400975072,1,8,36,1,"Jump Shot","2PT Field Goal",21,"Miami Heat",-60,206,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,1,8,51,0,"Jump Shot","2PT Field Goal",13,"Atlanta Hawks",130,49,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,1,5,02,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",-136,-10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,1,4,57,0,"Jump Shot","2PT Field Goal",13,"Miami Heat",59,123,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-17,2017,2384,1610612766,400974973,2,4,59,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-79,200,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-17,2017,2384,1610612766,400974973,1,10,19,0,"Jump Shot","2PT Field Goal",5,"Chicago Bulls",-35,37,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-18,2017,2384,1610612766,400974700,2,1,16,1,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-5,206,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,1,11,03,0,"Jump Shot","2PT Field Goal",7,"Orlando Magic",2,76,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,1,4,02,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",33,197,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-19,2017,2384,1610612766,400975798,1,10,44,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-106,168,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-31,2017,0,1610612766,0,1,8,24,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",-152,70,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,3,3,15,1,"Jump Shot","2PT Field Goal",20,"New York Knicks",-201,42,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,1,9,00,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",87,169,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-20,2017,2384,1610612766,400974992,2,0,00,0,"Jump Shot","3PT Field Goal",31,"Minnesota Timberwolves",-134,289,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-31,2017,0,1610612766,0,3,8,20,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",100,158,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-31,2017,0,1610612766,0,3,6,20,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-146,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-31,2017,0,1610612766,0,4,0,13,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",1,248,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-05,2017,2384,1610612766,400975540,1,8,48,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",160,99,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-31,2017,0,1610612766,0,2,3,10,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",-58,181,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,5,0,32,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",38,263,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,3,4,52,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",14,199,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,4,9,05,0,"Jump Shot","2PT Field Goal",1,"Miami Heat",9,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-29,2017,2384,1610612766,400975058,1,10,07,1,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",177,24,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-18,2017,2384,1610612766,400974979,1,5,47,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-51,172,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,1,5,01,0,"Jump Shot","2PT Field Goal",21,"Oklahoma City Thunder",-110,179,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-08,2017,2384,1610612766,400975560,3,1,33,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-36,197,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-29,2017,2384,1610612766,400975058,3,11,17,1,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",-76,176,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,1,1,42,0,"Jump Shot","2PT Field Goal",7,"Indiana Pacers",76,14,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-06,2017,2384,1610612766,400975109,1,11,29,0,"Jump Shot","2PT Field Goal",8,"Golden State Warriors",-33,73,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,3,9,28,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",126,100,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,3,11,36,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",-24,187,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,2,4,53,0,"Jump Shot","2PT Field Goal",14,"Miami Heat",-109,100,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,4,0,08,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-61,254,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-27,2017,2384,1610612766,400975252,2,1,34,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-42,180,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,2,8,48,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-112,142,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,3,5,04,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",2,205,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,3,5,34,1,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",19,197,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,4,2,30,0,"Jump Shot","2PT Field Goal",23,"Phoenix Suns",3,233,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-17,2017,2384,1610612766,400974973,1,8,43,0,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",-109,107,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,2,4,01,0,"Jump Shot","2PT Field Goal",10,"Atlanta Hawks",-2,105,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-27,2017,2384,1610612766,400975252,1,10,18,0,"Jump Shot","2PT Field Goal",17,"Boston Celtics",30,168,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-06,2017,2384,1610612766,400975109,1,4,46,0,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",-144,58,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,4,3,49,1,"Jump Shot","2PT Field Goal",0,"Washington Wizards",5,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,1,10,41,0,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",0,43,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-08,2017,2384,1610612766,400975560,4,0,00,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",2,190,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,2,0,48,0,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",112,109,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,3,8,42,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",91,153,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-03,2017,2384,1610612766,400975906,1,4,05,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-71,197,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-04,2017,2384,1610612766,400975690,3,11,16,1,"Jump Shot","2PT Field Goal",14,"Toronto Raptors",-141,26,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,1,10,56,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-10,188,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,1,8,12,1,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",-55,187,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,1,10,25,0,"Layup Shot","2PT Field Goal",3,"Chicago Bulls",-7,32,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-13,2017,2384,1610612766,400975375,4,4,47,0,"Layup Shot","2PT Field Goal",3,"Oklahoma City Thunder",1,31,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-28,2017,2384,1610612766,400975862,3,9,01,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-20,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-28,2017,2384,1610612766,400975862,3,8,13,1,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",5,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,4,5,07,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-13,3,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-13,2017,2384,1610612766,400975375,1,5,56,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-14,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-13,2017,2384,1610612766,400975375,3,11,49,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-6,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-23,2017,2384,1610612766,400975621,1,8,17,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",9,26,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-28,2017,2384,1610612766,400975862,3,6,52,0,"Layup Shot","2PT Field Goal",7,"Cleveland Cavaliers",-3,75,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-28,2017,2384,1610612766,400975862,3,0,43,1,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-9,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,1,4,01,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",11,7,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,1,8,18,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",6,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,2,4,42,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-8,27,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-05,2017,2384,1610612766,400974894,3,8,37,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",0,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,1,11,22,1,"Layup Shot","2PT Field Goal",3,"Washington Wizards",-29,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,1,2,41,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-6,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,3,10,15,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-14,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-20,2017,2384,1610612766,400974992,1,7,53,1,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-16,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-20,2017,2384,1610612766,400974992,2,2,13,1,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-18,23,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-20,2017,2384,1610612766,400974992,2,5,58,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",8,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-20,2017,2384,1610612766,400974992,3,9,22,0,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",2,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,1,9,59,0,"Layup Shot","2PT Field Goal",4,"Washington Wizards",-18,37,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-05,2017,2384,1610612766,400975323,1,9,01,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",15,25,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,2,0,26,0,"Layup Shot","2PT Field Goal",4,"Golden State Warriors",-5,42,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,3,6,07,1,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-3,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,1,2,33,0,"Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",-22,31,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,3,5,55,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-4,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,3,5,13,0,"Layup Shot","2PT Field Goal",5,"New Orleans Pelicans",0,59,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,2,5,17,0,"Layup Shot","2PT Field Goal",4,"New Orleans Pelicans",-38,31,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,2,2,31,1,"Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",10,37,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,4,1,31,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-27,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,2,5,08,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",2,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,1,3,03,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",3,23,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,3,3,46,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",1,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,3,8,50,0,"Layup Shot","2PT Field Goal",1,"Houston Rockets",4,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,3,9,27,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",8,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,3,3,14,0,"Layup Shot","2PT Field Goal",3,"Orlando Magic",-3,30,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,1,7,30,0,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-16,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,1,4,23,0,"Layup Shot","2PT Field Goal",2,"Orlando Magic",13,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,1,11,17,0,"Layup Shot","2PT Field Goal",6,"Orlando Magic",-24,55,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-02,2017,2384,1610612766,400975673,4,2,51,0,"Layup Shot","2PT Field Goal",3,"Philadelphia 76ers",-21,31,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-23,2017,2384,1610612766,400975232,3,0,00,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",11,24,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-15,2017,0,1610612766,0,1,5,20,0,"Layup Shot","2PT Field Goal",3,"Cleveland Cavaliers",3,34,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-23,2017,2384,1610612766,400974795,2,0,34,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",3,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-26,2017,2384,1610612766,400975460,4,0,13,1,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",16,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-26,2017,2384,1610612766,400975460,1,7,18,0,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-10,24,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-23,2017,2384,1610612766,400975621,3,10,47,1,"Layup Shot","2PT Field Goal",0,"Washington Wizards",-7,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-07,2017,2384,1610612766,400974903,1,10,26,1,"Layup Shot","2PT Field Goal",2,"New York Knicks",-3,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-07,2017,2384,1610612766,400974903,4,5,59,1,"Layup Shot","2PT Field Goal",0,"New York Knicks",-7,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-07,2017,2384,1610612766,400974903,3,8,06,1,"Layup Shot","2PT Field Goal",0,"New York Knicks",5,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-07,2017,2384,1610612766,400974903,3,8,10,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",4,26,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-26,2017,2384,1610612766,400975460,2,6,17,0,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",2,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-09,2017,2384,1610612766,400975570,1,9,57,0,"Layup Shot","2PT Field Goal",3,"Utah Jazz",-19,26,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-02,2017,2384,1610612766,400975512,2,2,48,0,"Layup Shot","2PT Field Goal",5,"Indiana Pacers",-20,46,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-02,2017,2384,1610612766,400975512,1,6,38,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-12,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-02,2017,2384,1610612766,400975512,1,2,37,1,"Layup Shot","2PT Field Goal",5,"Indiana Pacers",-55,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-02,2017,2384,1610612766,400975512,1,3,06,1,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-13,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-10,2017,2384,1610612766,400975349,3,3,25,1,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",22,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,2,3,23,1,"Layup Shot","2PT Field Goal",5,"Washington Wizards",-33,39,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,2,1,21,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",4,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,1,3,33,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",21,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,1,5,45,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",-8,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-16,2017,2384,1610612766,400975180,3,10,13,0,"Layup Shot","2PT Field Goal",3,"Portland Trail Blazers",5,33,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-25,2017,2384,1610612766,400974806,3,3,21,0,"Layup Shot","2PT Field Goal",0,"Denver Nuggets",6,3,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-18,2017,2384,1610612766,400974700,1,8,40,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-4,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-18,2017,2384,1610612766,400974700,1,7,06,0,"Layup Shot","2PT Field Goal",5,"Detroit Pistons",-51,31,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-18,2017,2384,1610612766,400974700,1,8,03,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",-14,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-06,2017,2384,1610612766,400975109,1,8,40,1,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",19,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-06,2017,2384,1610612766,400975109,1,3,21,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-9,18,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-06,2017,2384,1610612766,400975109,3,5,09,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",14,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-06,2017,2384,1610612766,400975109,3,4,09,0,"Layup Shot","2PT Field Goal",3,"Golden State Warriors",24,24,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-20,2017,2384,1610612766,400974770,1,9,42,1,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",6,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,1,2,02,0,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",16,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,2,6,23,1,"Layup Shot","2PT Field Goal",4,"Chicago Bulls",2,46,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-25,2017,2384,1610612766,400974806,4,6,02,1,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",1,14,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,2,2,25,0,"Layup Shot","2PT Field Goal",3,"Chicago Bulls",-24,26,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-18,2017,2384,1610612766,400974979,1,9,56,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",2,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-25,2017,2384,1610612766,400974806,3,5,49,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",-9,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-23,2017,2384,1610612766,400975232,3,6,09,1,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",9,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-23,2017,2384,1610612766,400975232,1,9,52,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",9,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,1,6,40,1,"Layup Shot","2PT Field Goal",3,"Washington Wizards",-11,38,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,2,6,24,0,"Layup Shot","2PT Field Goal",6,"Washington Wizards",29,59,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-23,2017,2384,1610612766,400975232,2,2,59,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-2,28,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-26,2017,2384,1610612766,400975460,2,5,48,0,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-9,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,1,9,05,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",3,17,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-01,2017,2384,1610612766,400974856,1,3,03,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",5,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,1,5,17,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",15,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-01,2017,2384,1610612766,400975072,2,3,48,0,"Layup Shot","2PT Field Goal",1,"Miami Heat",2,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-06,2017,2384,1610612766,400975928,3,11,10,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-9,17,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-20,2017,2384,1610612766,400974770,1,6,43,1,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",8,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-10,2017,2384,1610612766,400974921,4,6,02,0,"Layup Shot","2PT Field Goal",1,"Boston Celtics",-11,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-11,2017,2384,1610612766,400975579,1,5,52,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-5,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-04,2017,2384,1610612766,400975690,1,5,28,0,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-4,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-11,2017,2384,1610612766,400975579,3,2,12,1,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",14,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,3,9,26,0,"Layup Shot","2PT Field Goal",1,"Houston Rockets",1,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-18,2017,2384,1610612766,400974979,2,2,21,1,"Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",-17,33,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-18,2017,2384,1610612766,400974979,2,4,25,1,"Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",-18,32,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,1,3,12,1,"Layup Shot","2PT Field Goal",5,"Sacramento Kings",-43,32,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,1,10,39,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-7,23,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,2,2,18,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-16,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,3,10,32,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",1,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-25,2017,2384,1610612766,400975638,2,3,32,1,"Layup Shot","2PT Field Goal",3,"Detroit Pistons",-23,29,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-25,2017,2384,1610612766,400975638,3,10,34,0,"Layup Shot","2PT Field Goal",3,"Detroit Pistons",-3,30,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,1,10,40,1,"Layup Shot","2PT Field Goal",5,"Chicago Bulls",46,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,3,1,05,1,"Layup Shot","2PT Field Goal",5,"Chicago Bulls",-10,52,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,4,6,02,0,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",16,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,4,3,24,0,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",0,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-28,2017,2384,1610612766,400975862,4,4,10,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-19,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,4,3,47,0,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",6,17,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-20,2017,2384,1610612766,400975422,1,8,20,0,"Layup Shot","2PT Field Goal",1,"Miami Heat",14,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,3,8,18,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",-6,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,2,3,12,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",12,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,2,2,34,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",1,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,2,3,56,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",2,1,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,3,3,51,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",5,28,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,4,1,26,0,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-1,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-11,2017,2384,1610612766,400975579,2,6,08,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-5,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-25,2017,2384,1610612766,400975028,2,4,17,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-13,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-20,2017,2384,1610612766,400975205,3,6,18,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-3,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-20,2017,2384,1610612766,400975205,1,11,00,0,"Layup Shot","2PT Field Goal",3,"Toronto Raptors",30,18,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-20,2017,2384,1610612766,400975205,1,8,08,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",0,23,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-20,2017,2384,1610612766,400975205,1,3,23,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-7,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,1,6,33,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",7,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,2,7,24,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-7,17,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,4,1,04,1,"Layup Shot","2PT Field Goal",6,"Los Angeles Lakers",51,34,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-24,2017,2384,1610612766,400975839,3,6,16,1,"Layup Shot","2PT Field Goal",0,"Dallas Mavericks",0,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-24,2017,2384,1610612766,400975839,1,10,45,0,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",8,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-08,2017,2384,1610612766,400975943,1,9,53,1,"Layup Shot","2PT Field Goal",3,"Indiana Pacers",-11,31,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-08,2017,2384,1610612766,400975943,3,1,56,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-16,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-25,2017,2384,1610612766,400975028,2,1,51,1,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-5,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-25,2017,2384,1610612766,400975028,2,1,13,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",9,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,2,7,51,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-5,14,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,3,2,50,0,"Layup Shot","2PT Field Goal",5,"Indiana Pacers",-28,50,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,2,0,42,1,"Layup Shot","2PT Field Goal",3,"New York Knicks",-4,31,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-22,2017,2384,1610612766,400975433,1,0,27,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",18,18,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-22,2017,2384,1610612766,400975433,1,0,50,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-19,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-27,2017,2384,1610612766,400975653,3,1,49,0,"Layup Shot","2PT Field Goal",4,"Chicago Bulls",33,36,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-12,2017,2384,1610612766,400975364,1,4,32,0,"Layup Shot","2PT Field Goal",3,"Utah Jazz",2,34,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-12,2017,2384,1610612766,400975364,3,2,32,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",13,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-12,2017,2384,1610612766,400975364,3,6,50,0,"Layup Shot","2PT Field Goal",5,"Utah Jazz",-19,55,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-01,2017,2384,1610612766,400975889,3,6,25,1,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-8,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-27,2017,2384,1610612766,400975252,4,9,33,1,"Layup Shot","2PT Field Goal",4,"Boston Celtics",-32,25,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-27,2017,2384,1610612766,400975252,4,4,15,0,"Layup Shot","2PT Field Goal",5,"Boston Celtics",-54,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,4,7,09,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",12,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,3,10,02,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",11,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-27,2017,2384,1610612766,400975653,3,4,49,1,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",2,17,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-27,2017,2384,1610612766,400975653,3,0,53,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-9,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-27,2017,2384,1610612766,400975653,3,6,48,1,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",-14,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-22,2017,2384,1610612766,400975433,1,8,23,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-3,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-22,2017,2384,1610612766,400975433,1,2,53,0,"Layup Shot","2PT Field Goal",3,"Sacramento Kings",20,31,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-01,2017,2384,1610612766,400975889,1,5,44,0,"Layup Shot","2PT Field Goal",4,"Philadelphia 76ers",6,47,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,1,9,10,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",3,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,1,2,30,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",9,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,5,2,14,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",-5,14,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,2,3,28,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",8,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,1,3,34,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-3,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,2,4,45,1,"Layup Shot","2PT Field Goal",3,"New York Knicks",5,38,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,2,3,41,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",8,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,1,11,19,1,"Layup Shot","2PT Field Goal",2,"New York Knicks",-5,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-10,2017,2384,1610612766,400975959,1,4,16,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",23,3,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-19,2017,2384,1610612766,400975798,3,8,05,0,"Layup Shot","2PT Field Goal",4,"Philadelphia 76ers",33,25,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,4,3,11,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-2,17,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-29,2017,2384,1610612766,400975058,1,3,40,0,"Pullup Jump shot","2PT Field Goal",6,"Toronto Raptors",-60,34,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,3,5,05,1,"Putback Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,3,8,37,1,"Putback Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-20,2017,2384,1610612766,400974770,4,4,38,1,"Putback Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-18,2017,2384,1610612766,400974979,1,4,44,0,"Putback Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-23,2017,2384,1610612766,400975232,2,3,17,1,"Putback Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-27,2017,2384,1610612766,400975252,4,0,54,1,"Putback Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-20,2017,2384,1610612766,400974992,3,6,31,1,"Putback Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-20,2017,2384,1610612766,400975422,2,3,37,1,"Putback Dunk Shot","2PT Field Goal",0,"Miami Heat",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-10,2017,2384,1610612766,400975349,1,3,44,1,"Putback Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,3,5,38,1,"Putback Dunk Shot","2PT Field Goal",1,"Miami Heat",-2,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,1,10,59,1,"Putback Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-18,2017,2384,1610612766,400974979,1,7,18,1,"Putback Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-08,2017,2384,1610612766,400975118,3,10,53,1,"Putback Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,3,2,25,1,"Putback Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-05,2017,2384,1610612766,400974894,4,6,12,1,"Putback Dunk Shot","2PT Field Goal",1,"Minnesota Timberwolves",-18,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,3,10,04,1,"Putback Dunk Shot","2PT Field Goal",0,"New York Knicks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-28,2017,2384,1610612766,400975862,1,1,30,1,"Putback Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-03,2017,2384,1610612766,400975906,2,0,54,1,"Putback Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,3,3,18,1,"Putback Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-20,2017,2384,1610612766,400974992,3,3,13,1,"Putback Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-28,2017,2384,1610612766,400975862,1,2,23,1,"Putback Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-20,2017,2384,1610612766,400974992,1,5,33,1,"Putback Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-20,2017,2384,1610612766,400974770,4,2,30,0,"Putback Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",4,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-05,2017,2384,1610612766,400974894,2,0,35,1,"Putback Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-23,2017,2384,1610612766,400974795,1,6,16,1,"Putback Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,1,6,50,1,"Putback Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-01,2017,2384,1610612766,400974856,3,8,30,1,"Putback Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-01,2017,2384,1610612766,400974856,1,3,56,1,"Putback Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-25,2017,2384,1610612766,400975638,1,6,37,1,"Putback Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-16,2017,2384,1610612766,400975180,3,11,03,1,"Putback Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-11,2017,2384,1610612766,400975579,1,6,31,0,"Putback Layup Shot","2PT Field Goal",0,"Toronto Raptors",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,1,1,41,1,"Putback Layup Shot","2PT Field Goal",5,"Indiana Pacers",35,37,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,3,6,34,1,"Putback Layup Shot","2PT Field Goal",4,"Sacramento Kings",41,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-18,2017,2384,1610612766,400974979,4,3,33,0,"Putback Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-05,2017,2384,1610612766,400974894,3,4,55,0,"Putback Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-04,2017,2384,1610612766,400975690,3,6,58,1,"Putback Layup Shot","2PT Field Goal",0,"Toronto Raptors",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-27,2017,2384,1610612766,400974821,3,7,25,1,"Putback Layup Shot","2PT Field Goal",0,"Houston Rockets",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-08,2017,2384,1610612766,400975560,2,5,13,0,"Putback Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-3,18,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,3,4,28,1,"Putback Layup Shot","2PT Field Goal",0,"Washington Wizards",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-23,2017,2384,1610612766,400975232,1,2,43,1,"Putback Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-25,2017,2384,1610612766,400974806,1,6,45,1,"Putback Layup Shot","2PT Field Goal",0,"Denver Nuggets",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-17,2017,2384,1610612766,400974973,3,8,21,0,"Putback Layup Shot","2PT Field Goal",1,"Chicago Bulls",1,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-06,2017,2384,1610612766,400975109,1,5,22,1,"Putback Layup Shot","2PT Field Goal",0,"Golden State Warriors",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-23,2017,2384,1610612766,400974795,3,9,50,1,"Putback Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-5,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-01,2017,2384,1610612766,400975889,2,4,08,1,"Putback Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-13,2017,2384,1610612766,400975375,2,0,30,1,"Putback Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,3,11,21,1,"Putback Layup Shot","2PT Field Goal",0,"Brooklyn Nets",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,2,1,05,0,"Putback Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-14,14,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,3,11,50,1,"Putback Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-3,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-24,2017,2384,1610612766,400975447,1,7,35,1,"Putback Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,2,1,43,1,"Putback Layup Shot","2PT Field Goal",0,"New York Knicks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-03,2017,2384,1610612766,400975906,1,2,09,1,"Putback Layup Shot","2PT Field Goal",1,"Chicago Bulls",2,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,2,1,35,0,"Putback Layup Shot","2PT Field Goal",0,"Orlando Magic",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,3,5,00,1,"Putback Layup Shot","2PT Field Goal",0,"New York Knicks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,2,5,11,0,"Putback Layup Shot","2PT Field Goal",0,"Orlando Magic",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-15,2017,0,1610612766,0,1,5,14,1,"Putback Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,1,11,29,1,"Putback Layup Shot","2PT Field Goal",0,"Boston Celtics",-8,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,2,2,36,1,"Putback Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-20,2017,2384,1610612766,400975205,3,5,43,1,"Putback Layup Shot","2PT Field Goal",0,"Toronto Raptors",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,2,7,46,1,"Putback Layup Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,1,4,56,1,"Putback Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",8,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-08,2017,2384,1610612766,400975943,1,4,39,1,"Putback Layup Shot","2PT Field Goal",0,"Indiana Pacers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-08,2017,2384,1610612766,400975943,3,8,20,1,"Putback Layup Shot","2PT Field Goal",0,"Indiana Pacers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-23,2017,2384,1610612766,400975621,3,2,54,1,"Reverse Dunk Shot","2PT Field Goal",2,"Washington Wizards",5,25,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-04,2017,2384,1610612766,400975690,1,10,32,1,"Reverse Layup Shot","2PT Field Goal",1,"Toronto Raptors",16,1,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-01,2017,2384,1610612766,400974856,3,9,12,1,"Reverse Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-3,16,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-27,2017,2384,1610612766,400975252,3,8,59,0,"Reverse Layup Shot","2PT Field Goal",2,"Boston Celtics",19,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,2,2,58,0,"Reverse Layup Shot","2PT Field Goal",1,"New York Knicks",-11,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,1,10,35,1,"Reverse Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-5,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-18,2017,2384,1610612766,400974700,1,3,00,1,"Reverse Layup Shot","2PT Field Goal",1,"Detroit Pistons",9,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-15,2017,0,1610612766,0,4,7,16,1,"Reverse Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",0,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-05,2017,2384,1610612766,400974894,2,1,21,1,"Reverse Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-1,18,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-09,2017,2384,1610612766,400975128,1,8,04,0,"Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",13,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-25,2017,2384,1610612766,400975638,2,4,05,1,"Reverse Layup Shot","2PT Field Goal",0,"Detroit Pistons",5,7,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-13,2017,2384,1610612766,400975375,3,5,04,0,"Reverse Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",17,24,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-02,2017,2384,1610612766,400975673,3,9,55,0,"Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",19,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-03,2017,2384,1610612766,400974877,3,8,07,0,"Reverse Layup Shot","2PT Field Goal",2,"San Antonio Spurs",20,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-13,2017,2384,1610612766,400975375,1,2,14,1,"Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",11,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,3,4,01,1,"Reverse Layup Shot","2PT Field Goal",2,"Washington Wizards",14,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-30,2017,2384,1610612766,400974847,2,1,42,0,"Reverse Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",1,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,3,3,15,0,"Reverse Layup Shot","2PT Field Goal",1,"Golden State Warriors",9,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-26,2017,2384,1610612766,400975460,4,7,02,1,"Reverse Layup Shot","2PT Field Goal",1,"Atlanta Hawks",2,12,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-24,2017,2384,1610612766,400975839,3,4,13,1,"Running Alley Oop Dunk Shot","2PT Field Goal",1,"Dallas Mavericks",-6,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-18,2017,2384,1610612766,400974979,2,4,59,1,"Running Dunk Shot","2PT Field Goal",1,"Los Angeles Clippers",-6,8,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,2,4,31,1,"Running Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",3,3,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,1,9,40,1,"Running Finger Roll Layup Shot","2PT Field Goal",0,"Orlando Magic",-1,7,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-02,2017,2384,1610612766,400975673,3,10,44,0,"Running Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-5,27,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-10,2017,2384,1610612766,400975349,1,3,23,1,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-11,4,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,2,3,53,1,"Running Layup Shot","2PT Field Goal",3,"Orlando Magic",-20,25,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,1,6,49,1,"Running Layup Shot","2PT Field Goal",1,"Golden State Warriors",-3,14,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,1,8,43,0,"Running Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-8,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,3,4,50,1,"Step Back Bank Jump Shot","2PT Field Goal",14,"Orlando Magic",137,41,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,1,9,44,0,"Step Back Jump shot","2PT Field Goal",22,"Brooklyn Nets",142,169,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,1,1,38,1,"Tip Dunk Shot","2PT Field Goal",0,"New York Knicks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-05,2017,2384,1610612766,400975323,3,10,49,1,"Tip Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-03,2017,2384,1610612766,400974877,3,9,45,1,"Tip Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-01,2017,2384,1610612766,400975072,1,3,36,0,"Tip Dunk Shot","2PT Field Goal",0,"Miami Heat",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,3,7,15,1,"Tip Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-05,2017,2384,1610612766,400975323,3,9,02,1,"Tip Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-25,2017,2384,1610612766,400975638,3,6,26,0,"Tip Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-03,2017,2384,1610612766,400974877,3,10,11,1,"Tip Layup Shot","2PT Field Goal",0,"San Antonio Spurs",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-25,2017,2384,1610612766,400975028,2,0,30,0,"Tip Layup Shot","2PT Field Goal",0,"San Antonio Spurs",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-13,2017,2384,1610612766,400975375,4,4,49,0,"Tip Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",22,7,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-04,2017,2384,1610612766,400975690,2,3,39,0,"Tip Layup Shot","2PT Field Goal",0,"Toronto Raptors",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-16,2017,2384,1610612766,400975180,3,2,14,0,"Tip Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,1,2,02,1,"Tip Layup Shot","2PT Field Goal",0,"Washington Wizards",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-17,2017,2384,1610612766,400975399,1,2,05,0,"Tip Layup Shot","2PT Field Goal",0,"Washington Wizards",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-12,2017,2384,1610612766,400975364,3,3,03,0,"Tip Layup Shot","2PT Field Goal",0,"Utah Jazz",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-22,2017,2384,1610612766,400975433,1,8,19,1,"Tip Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-25,2017,2384,1610612766,400974806,1,10,57,1,"Tip Layup Shot","2PT Field Goal",0,"Denver Nuggets",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-23,2017,2384,1610612766,400974795,1,4,50,0,"Tip Layup Shot","2PT Field Goal",7,"Milwaukee Bucks",2,71,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-23,2017,2384,1610612766,400974795,1,4,50,0,"Tip Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,7,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-30,2017,2384,1610612766,400974847,1,11,39,1,"Tip Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,3,5,15,1,"Tip Layup Shot","2PT Field Goal",0,"Brooklyn Nets",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-05,2017,2384,1610612766,400975323,3,7,39,1,"Tip Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-08,2017,2384,1610612766,400975560,2,5,15,0,"Tip Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-28,2017,2384,1610612766,400975862,1,2,25,0,"Tip Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,5,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-29,2017,2384,1610612766,400974839,2,6,20,0,"Tip Layup Shot","2PT Field Goal",0,"Orlando Magic",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,3,10,33,0,"Tip Layup Shot","2PT Field Goal",0,"Brooklyn Nets",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,3,4,37,0,"Tip Layup Shot","2PT Field Goal",0,"New York Knicks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-22,2017,2384,1610612766,400975433,4,0,40,1,"Tip Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-12,2017,2384,1610612766,400975364,3,11,28,0,"Tip Layup Shot","2PT Field Goal",0,"Utah Jazz",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-18,2017,2384,1610612766,400974979,3,4,27,1,"Tip Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-02,2017,2384,1610612766,400975512,4,5,39,1,"Tip Layup Shot","2PT Field Goal",0,"Indiana Pacers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-17,2017,2384,1610612766,400975784,2,0,43,0,"Tip Layup Shot","2PT Field Goal",0,"New York Knicks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,1,2,51,1,"Tip Layup Shot","2PT Field Goal",2,"Washington Wizards",8,19,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-26,2017,2384,1610612766,400975849,1,7,56,0,"Tip Layup Shot","2PT Field Goal",0,"New York Knicks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,1,4,05,1,"Tip Layup Shot","2PT Field Goal",0,"Miami Heat",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-27,2017,2384,1610612766,400975473,1,4,07,0,"Tip Layup Shot","2PT Field Goal",0,"Miami Heat",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,1,3,57,1,"Tip Layup Shot","2PT Field Goal",0,"Washington Wizards",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,5,0,54,1,"Tip Layup Shot","2PT Field Goal",0,"Washington Wizards",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-29,2017,2384,1610612766,400975484,1,5,06,0,"Tip Layup Shot","2PT Field Goal",0,"Indiana Pacers",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-24,2017,2384,1610612766,400975839,1,11,02,0,"Tip Layup Shot","2PT Field Goal",0,"Dallas Mavericks",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-25,2017,2384,1610612766,400975638,1,9,33,1,"Tip Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,-6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-02,2017,2384,1610612766,400975298,3,11,22,0,"Turnaround Bank Hook Shot","2PT Field Goal",6,"Sacramento Kings",61,26,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-10,2017,2384,1610612766,400974921,1,7,13,0,"Turnaround Bank Hook Shot","2PT Field Goal",7,"Boston Celtics",38,68,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-06,2017,2384,1610612766,400975109,4,9,43,1,"Turnaround Bank Hook Shot","2PT Field Goal",7,"Golden State Warriors",62,48,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-20,2017,2384,1610612766,400974992,1,8,46,1,"Turnaround Bank Hook Shot","2PT Field Goal",2,"Minnesota Timberwolves",9,20,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,1,10,26,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",14,"Boston Celtics",121,74,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-05,2017,2384,1610612766,400975540,1,2,23,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",3,"Denver Nuggets",-31,10,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-11,2017,2384,1610612766,400975145,1,10,13,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",4,"Oklahoma City Thunder",-38,31,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-10,2017,2384,1610612766,400974921,1,5,25,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",10,"Boston Celtics",-93,52,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,3,8,05,1,"Turnaround Hook Shot","2PT Field Goal",7,"Houston Rockets",-68,23,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-24,2017,2384,1610612766,400975839,1,10,01,1,"Turnaround Hook Shot","2PT Field Goal",3,"Dallas Mavericks",-22,32,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,1,10,29,0,"Turnaround Hook Shot","2PT Field Goal",3,"Houston Rockets",-36,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-04,2017,2384,1610612766,400975535,2,9,20,0,"Turnaround Hook Shot","2PT Field Goal",7,"Phoenix Suns",-65,32,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,1,4,43,1,"Turnaround Hook Shot","2PT Field Goal",6,"Houston Rockets",3,66,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-31,2017,2384,1610612766,400975884,3,8,30,1,"Turnaround Hook Shot","2PT Field Goal",7,"Washington Wizards",-55,55,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-04,2017,2384,1610612766,400975090,1,7,04,1,"Turnaround Hook Shot","2PT Field Goal",6,"Orlando Magic",-11,62,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,4,5,50,0,"Turnaround Hook Shot","2PT Field Goal",8,"Cleveland Cavaliers",26,81,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,3,5,54,1,"Turnaround Hook Shot","2PT Field Goal",6,"Washington Wizards",17,64,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,3,9,21,1,"Turnaround Hook Shot","2PT Field Goal",2,"Brooklyn Nets",-12,22,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-22,2017,2384,1610612766,400975004,5,4,22,1,"Turnaround Hook Shot","2PT Field Goal",1,"Washington Wizards",-14,13,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-15,2017,0,1610612766,0,1,6,18,1,"Turnaround Hook Shot","2PT Field Goal",6,"Cleveland Cavaliers",-33,52,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-30,2017,2384,1610612766,400974847,2,6,26,0,"Turnaround Hook Shot","2PT Field Goal",5,"Memphis Grizzlies",-33,48,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,4,4,39,0,"Turnaround Hook Shot","2PT Field Goal",9,"Cleveland Cavaliers",-93,36,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-03,2017,2384,1610612766,400975906,2,4,23,1,"Turnaround Hook Shot","2PT Field Goal",5,"Chicago Bulls",-5,59,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-01,2017,2384,1610612766,400975072,1,3,24,1,"Turnaround Hook Shot","2PT Field Goal",5,"Miami Heat",44,24,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,3,5,38,0,"Turnaround Hook Shot","2PT Field Goal",2,"Cleveland Cavaliers",27,6,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,1,3,43,0,"Turnaround Hook Shot","2PT Field Goal",11,"Atlanta Hawks",-2,110,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-25,2017,2384,1610612766,400974806,1,4,49,0,"Turnaround Hook Shot","2PT Field Goal",5,"Denver Nuggets",-51,11,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-31,2017,2384,1610612766,400975501,1,11,41,1,"Turnaround Hook Shot","2PT Field Goal",8,"Atlanta Hawks",-79,18,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-10-20,2017,2384,1610612766,400974770,4,6,54,0,"Turnaround Hook Shot","2PT Field Goal",8,"Atlanta Hawks",-66,46,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-03-21,2017,2384,1610612766,0,4,4,55,1,"Turnaround Hook Shot","2PT Field Goal",4,"Brooklyn Nets",-2,41,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,3,9,33,1,"Turnaround Hook Shot","2PT Field Goal",12,"Cleveland Cavaliers",-99,75,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-01-05,2017,2384,1610612766,400975323,3,8,20,0,"Turnaround Hook Shot","2PT Field Goal",3,"Los Angeles Lakers",-35,15,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-29,2017,2384,1610612766,400975274,1,10,36,0,"Turnaround Hook Shot","2PT Field Goal",6,"Golden State Warriors",-64,27,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-15,2017,0,1610612766,0,2,4,48,0,"Turnaround Hook Shot","2PT Field Goal",5,"Cleveland Cavaliers",-17,49,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-04-06,2017,2384,1610612766,400975928,3,6,18,0,"Turnaround Hook Shot","2PT Field Goal",7,"Orlando Magic",-52,47,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-27,2017,2384,1610612766,400975653,3,4,01,1,"Turnaround Hook Shot","2PT Field Goal",5,"Chicago Bulls",-52,9,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-14,2017,2384,1610612766,400975600,2,5,04,0,"Turnaround Hook Shot","2PT Field Goal",2,"Orlando Magic",8,21,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2018-02-28,2017,2384,1610612766,400975662,3,10,36,0,"Turnaround Hook Shot","2PT Field Goal",8,"Boston Celtics",-51,67,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-11-24,2017,2384,1610612766,400975021,3,5,10,0,"Turnaround Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",-3,63,0,0.00,,0.00,0.00
+"Dwight Howard","Charlotte Hornets",2017-12-13,2017,2384,1610612766,400975163,1,6,48,0,"Turnaround Jump Shot","2PT Field Goal",14,"Houston Rockets",-147,10,0,0.00,,0.00,0.00
