@@ -1,6 +1,9 @@
-
-\title{Bayesian Semiparametric Model for Spatial Nonhomogeneous Poisson Process with Applications}
-\author{Jieying Jiao, Jun Yan, Guanyu Hu \footnote{\baselineskip=10pt (to whom correspondence should be addressed), Email: {guanyu.hu@uconn.edu}, Department of Statistics, University of Connecticut}}
+\title{Bayesian Semiparametric Model for Spatial Nonhomogeneous
+  Poisson Process with Applications}
+\author{Jieying Jiao, Jun Yan, Guanyu Hu \footnote{\baselineskip=10pt
+    (to whom correspondence should be addressed), Email:
+    {guanyu.hu@uconn.edu}, Department of Statistics, University of
+    Connecticut}}
 \date{\today}
 
 \documentclass[12pt]{article}
@@ -47,7 +50,9 @@
 \RequirePackage[colorlinks,citecolor=blue,urlcolor=blue]{hyperref}
 \newcommand{\R}[1]{{\textsf{#1}}}
 \newcommand{\abs}[1]{\left\vert#1\right\vert}
+\newcommand{\dd}{\mathrm{d}}
 \def\m{\mathcal}
+
 \begin{document}
 \maketitle
 \begin{abstract}
@@ -57,63 +62,298 @@
 \section{Introduction}\label{sec:intro}
 \section{Methodology}\label{sec:method}
 \subsection{Spatial Poisson Process}
-
 \subsection{Chinese Restaurant Process }
-The natural semiparametric model for $\lambda(s)$ is to give gamma Dirichlet Process prior on $u_i$. Let $\m U_{n, k} = \big\{(u_1, \ldots, u_n) : u_i \in \{1, \ldots, k\}, 1 \le i \le n \big\}$ denote all possible clusterings of $n$ observations into $k$ clusters, where $u_i \in \{1, \ldots, k\}$ denotes the cluster assignment of the $i$th observation. The Chinese restaurant process (CRP)\citep{pitman1995exchangeable, neal2000markov} offer choices to allow uncertainty in the number of clusters by assigning a prior distribution on $(u_1, u_2, \ldots, u_n)$. In CRP, $u_i, i=2, \ldots, n$ are defined through the following conditional distribution  (also called a P\'{o}lya urn scheme \cite{blackwell1973ferguson})
+The natural semiparametric model for $\lambda(s)$ is to give gamma
+Dirichlet Process prior on $u_i$. Let
+$\m U_{n, k} = \big\{(u_1, \ldots, u_n) : u_i \in \{1, \ldots, k\}, 1 \le i \le n \big\}$
+denote all possible clusterings of $n$ observations into $k$ clusters,
+where $u_i \in \{1, \ldots, k\}$ denotes the cluster assignment of the
+$i$th observation. The Chinese restaurant process
+(CRP)\citep{pitman1995exchangeable, neal2000markov} offer choices to
+allow uncertainty in the number of clusters by assigning a prior
+distribution on $(u_1, u_2, \ldots, u_n)$. In CRP, $u_i, i=2, \ldots,
+n$ are defined through the following conditional distribution  (also
+called a P\'{o}lya urn scheme \cite{blackwell1973ferguson})
 \begin{eqnarray}\label{eq:crp}
-P(u_{i} = c \mid u_{1}, \ldots, u_{i-1})  \propto
-\begin{cases}
-\abs{c}  , \quad  \text{at an existing cluster labeled}\, c\\
-\alpha,  \quad \quad \quad \, \text{at a new cluster}.
-\end{cases}
+  P(u_{i} = c \mid u_{1}, \ldots, u_{i-1})  \propto
+  \begin{cases}
+    \abs{c}  , \quad  \text{at an existing cluster labeled}\, c\\
+    \alpha,  \quad \quad \quad \, \text{at a new cluster}.
+  \end{cases}
 \end{eqnarray}
 
-	CRP: As customers enter, they may sit at an occupied table with probability proportionate to how many customers are already seated there, or they may sit at an unoccupied table with probability proportionate to $\alpha$. Also, at each table, a dish is selected and shared by the customers seated there; this is analogous to a draw $\theta$ from the base measure H. We can also see from this example that the distribution does not depend on the ordering in which the customers arrived; this is the property of exchangeability. This way, each customer can be treated independently, as if they were the last to arrive; this is a useful property for Gibbs sampling in Dirichlet Processes.
+CRP: As customers enter, they may sit at an occupied table with
+probability proportionate to how many customers are already seated
+there, or they may sit at an unoccupied table with probability
+proportionate to $\alpha$. Also, at each table, a dish is selected and
+shared by the customers seated there; this is analogous to a draw
+$\theta$ from the base measure H. We can also see from this example
+that the distribution does not depend on the ordering in which the
+customers arrived; this is the property of exchangeability. This way,
+each customer can be treated independently, as if they were the last
+to arrive; this is a useful property for Gibbs sampling in Dirichlet
+Processes.
 
 
 \subsection{Bayesian Semiparametric Model}
-\subsection{Bayesian Variable Selection}
+Adapting CRP to the NPP setting, our model and prior can be expressed
+hierarchically as:
+\begin{align}
+  \label{eq:MFMNPP}
+  \begin{split}
+    & \lambda_r \stackrel{\text{ind}} \sim \mbox{Gamma}(a, b), \quad
+    r = 1, \ldots, k,\\
+    & \mbox{pr}(z_i = j \mid \pi, k) = \pi_j, \quad j = 1, \ldots, k,
+    \, i = 1, \ldots, m,\\
+    & \pi \mid k \sim \mbox{Dirichlet}(\gamma, \ldots, \gamma),\\
+    & \bm{\beta} \sim \mbox{MVN}(0,\sigma^2_0I),\\
+    & (s_1,\cdots,s_N) \sim \prod_{i=1}^N \frac{\lambda_0(s_i)
+      \exp(X(s_i)\bm{\beta})}{\int_{\mathcal{B}} \lambda_0(s)
+      \exp(X(s)\bm{\beta}) \dd s}
+  \end{split}
+\end{align}
+where $n$ is the number of areas in the sample space, $k$ is the
+number of clusters, $N_i$ is the number of points in area $i$.
+
 \section{Computation}\label{sec:bayes_comp}
 \subsection{Priors and Posterior}
+Data for Poisson spatial point process on area
+$\mathcal{B} \subset \mathbb{R}^2$ is
+$\mathbf{S} = \{\mathbf{s}_1, \mathbf{s}_2, \dots, \mathbf{s}_N\}$
+where each $\mathbf{s}_i \in \mathcal {B}$ showing the location of the
+observed point. The likelihood of the data is:
+\begin{align*}
+  \begin{split}
+    L(\bm{\Theta} \mid \mathbf{S}) &= \frac{\prod_{i=1}^N
+      \lambda(\mathbf{s}_i)}
+    {\exp(\int_\mathcal{B}\lambda(\mathbf{s}_i)\dd \mathbf{s})}\\
+    \lambda(\mathbf{s}) &=
+    \lambda_0(\mathbf{s})\exp(\mathbf{X}^\top(\mathbf{s})\bm{\beta})
+  \end{split}
+\end{align*}
+where $\bm{\Theta}$ is the parameter vector in our model,
+$\lambda_0(\mathbf{s})$ is the basline od intensity at location
+$\mathbf{s}$, $\mathbf{X}(\mathbf{s})$ is the length $q$ vector of
+covariates in intensity model and $\bm{\beta}$ is the corresponding
+coefficient vector.
+
+
+We assume the baseline intensity $\lambda_0(\mathbf{s})$ has different
+clusters. In order to use Chinese Restaurant Process (CPR) to
+distinguish these clusters, we first partition the area $\mathcal{B}$
+in to n grid: $\mathcal{B} = \cup_{i=1}^n \mathcal{A}_i$ and then
+perform clustering on these grids. Assume there are actually $k$
+clusters and the different values are:
+$\tilde{\bm{\lambda}}_0 = \{\tilde{\lambda}_{0, 1}, \tilde{\lambda}_{0, 2},\dots, \tilde{\lambda}_{0, k}\}$, 
+where $k$ and each $\tilde{\lambda}_{0, i}$ are unknown. We define a
+index variable for each grid to show which cluster it belongs to:
+$\mathbf{Z} = \{Z_1, Z_2, \dots, Z_n\}$ with each $Z_i$ take the
+integer value from 1 to $k$. The index vector $\mathbf{Z}$ follows CPR
+and once the cluster of each grid is identified, the cluster of each
+data point will be naturally determined.
+
+
+The priors we use are as follow:
+\begin{align*}
+  \begin{split}
+    \tilde{\lambda}_{0, i} &\stackrel{i.i.d}{\sim} \mathrm{Gamma}(a,
+    b),\quad i = 1, 2, \dots, k\\
+    \beta_i &\stackrel{i.i.d}{\sim} \mathrm{Normal}(0, \sigma^2)\\
+    \mathbf{Z}\mid k &\sim \mathrm{Categorial}(\pi_1, \pi_2, \dots, \pi_k)\\
+    (\pi_1, \pi_2, \dots, \pi_k)\mid k &\sim
+    \mathrm{Dirichlet}(\alpha/k, \dots, \alpha/k)
+  \end{split}
+\end{align*}
+where $a, b, \sigma$ and $\alpha$ are hyper-parameters.
+
+
+Before we derive the posteriors for each parameters, one thing to
+notice that for each $\tilde{\lambda}_{0, i}$, we only need to focuse
+on those data points that are in the $i_{th}$ cluster, since the
+likelihood for other data points won't involve
+$\tilde{\lambda}_{0, i}$ and will get cancelled when we calculate
+posteriors. Similar for $Z_i$, we only need to focuse on the data
+points on $i_{th}$ grid. Besides, we choose to use same covariate
+values for the data in same grid. In other words, the covariate vector
+can be expressed as:
+$\mathbf{X}(\mathbf{s}) = \mathbf{X}(\mathcal{A}_i) = \mathbf{X}_i$ for
+$\mathbf{s} \in \mathcal{A}_i, i = 1, 2, \dots, n$. Under this
+setting, the intensity in each grid will become a constant:
+$\lambda_i = \tilde{\lambda}_{0, Z_i}\exp(\mathrm{X}^\top_i\bm{\beta})$.
+By the property of Poisson point process, the data distribution on
+grid $\mathcal{A}_i$ will be $\mathrm{Poisson}(A_i\lambda_i)$ with
+$A_i$ being the value of area for $\mathcal{A}_i$. With all data
+likelihood and priors ready, we can derive the following marginal
+posteriors:
+\begin{align}\label{eq:prior_lambda_beta}
+  \begin{split}
+    \pi(\tilde{\lambda}_{0, i} \mid \mathbf{S}, \mathbf{Z},
+    \bm{\beta}) &\propto \prod_{j:\,Z_j = i}
+    P_{Poi}\left(n_j \mid A_j\tilde{\lambda}_{0,i}\exp(\mathbf{X}_j^\top\bm{\beta})\right)
+    f_{Gam}(\tilde{\lambda}_{0, i} \mid a, b)\\
+    &\propto \prod_{j:\,Z_j=i} \frac{\left(A_j\tilde{\lambda}_{0, i}
+        \exp(\mathbf{X}_j^\top \bm{\beta})\right)^{n_j}
+      \exp\left(-A_j\tilde{\lambda}_{0, i}
+        \exp(\mathbf{X}_j^\top\bm{\beta})\right)}{n_j!}
+    \tilde{\lambda}_{0, i}^{a-1}\exp(-b\tilde{\lambda}_{0, i})\\
+    &\propto \tilde{\lambda}_{0, i}^{\sum_{j:\,Z_j = i}
+      n_j+a-1}e^{-\left(\sum_{j:\,Z_j = i}
+        A_j\exp(\mathbf{X}_j^\top\bm{\beta}) +
+        b\right)\tilde{\lambda}_{0, i}}\\
+    &\sim \mathrm{Gamma}\left(\sum_{j:\,Z_j = i} n_j+a,\,\sum_{j:\,Z_j
+        = i}A_j\exp(\mathbf{X}_j^\top\bm{\beta})+b \right)\\
+    \pi(\bm{\beta}\mid \mathbf{S}, \mathbf{Z},
+    \tilde{\bm{\lambda}}_0) &\propto \pi(\bm{\beta})L(\bm{\Theta}\mid
+    \mathrm{S})\\
+    &\propto \prod_{i=1}^q f_{N}(\beta_i\mid 0, \sigma)
+    \prod_{i=1}^n P_{Poi} \left(n_i \mid
+      A_i\tilde{\lambda}_{0, Z_i} \exp(\mathrm{X}_i^\top\bm{\beta})\right)
+  \end{split}
+\end{align}
+where $n_i$ is the number of data points in $i_{th}$ grid
+$\mathcal{A}_i$ and $\sum_{i=1}^n n_i = N$,
+$f_{N}(x\mid \mu, \sigma)$ is the Normal($\mu$, $\sigma^2$)
+density function evaluated at value $x$ and $P_{Poi}(n_i\mid\lambda)$
+is the Poisson($\lambda$) probability mass function evaluated at value
+$n_i$. For the marginal posterior for $\mathbf{Z}$, using the
+conclusion from \cite{neal2000markov}, we have seperate expression
+when the $i_{th}$ grid goes to a existing cluster and when it goes to
+a new cluster. The posterior probability that grid $\mathcal{A}_i$
+belongs to an existing cluster, i.e, $\exists j \ne i,\, z_i =
+z_j$ is as follow:
+\begin{align}\label{eq:prior_zexist}
+  \begin{split}
+    P\left(Z_i = z_i \mid \mathbf{S}, \mathbf{Z}_{-i},
+      \tilde{\bm{\lambda}}_0, \bm{\beta}\right) &\propto \frac{n_{-i,
+        z_i}}{n-1+\alpha} P_{Poi}\left(n_i\mid A_i\tilde{\lambda}_{0,
+        z_i}\exp(\mathbf{X}_i^\top\bm{\beta}) \right)\\
+    &= \frac{n_{-i, z_i} A_i^{n_i}\tilde{\lambda}_{0, z_i}^{n_i}
+      \exp\left(n_i\mathrm{X}_i^\top\bm{\beta} -
+        A_i\tilde{\lambda}_{0, z_i}\exp(\mathrm{X}_i^\top\bm{\beta})\right)}{(n-1+\alpha)\,n_i!}
+  \end{split}
+\end{align}
+where $\mathbf{Z}_{-i}$ is the vector $\mathbf{Z}$ with $i_{th}$
+element deleted, $n_{-i, z_i}$ is the number of grid in cluster $z_i$
+except grid $\mathcal{A}_i$, $n_i$ is still the number of data points
+in grid $\mathcal{A}_i$. When $\mathcal{A}_i$ belongs to a new
+cluster, i.e, $\forall j\ne i,\, z_i \ne z_j$, the posterior
+probability is:
+\begin{align}\label{eq:prior_znew}
+  \begin{split}
+    P\left(Z_i = z_i\mid \mathbf{S}, \mathbf{Z}_{-i},
+      \tilde{\bm{\lambda}}_0, \bm{\beta}\right) &\propto
+    \frac{\alpha}{n-1+\alpha} \int P_{Poi}\left(n_i\mid
+      A_i\tilde{\lambda}_{0,
+        z_i}\exp(\mathbf{X}_i^\top\bm{\beta})f_{Gam}(\tilde{\lambda}_{0,
+        z_i}\mid a, b)\right)\dd \tilde{\lambda}_{0, z_i}\\
+    &= \frac{\alpha b^a A_i^{n_i}\exp(n_i\mathbf{X}_i^\top
+      \bm{\beta})}{(n-1+\alpha) \Gamma(a)\, n_i!}\int
+    \tilde{\lambda}_{0,
+      z_i}^{n_i+a-1}e^{-\left(A_i\exp(\mathbf{X}_i^\top
+        \bm{\beta})+b\right)\tilde{\lambda}_{0, z_i}} \dd
+    \tilde{\lambda}_{0, z_i}\\
+    &= \frac{\alpha b^a
+      A_i^{n_i}\Gamma(n_i+a)}{(n-1+\alpha)\Gamma(a)\,
+      n_i!}\frac{\exp(n_i \mathbf{X}_i^\top \bm{\beta})}{\left(A_i
+        \exp(\mathbf{X}_i^\top \bm{\beta})+b\right)^{n_i+a}}
+  \end{split}
+\end{align}
+where all the notations are same as in \eqref{eq:prior_lambda_beta},
+\eqref{eq:prior_zexist} and \eqref{eq:prior_znew}.
+
+
+
+
 \subsection{The MCMC Sampling Schemes}
+\subsection{Inference of MCMC results}\label{sec:sum_mcmc}
+The estimated parameters including cluster assignment $z$, intensities $
+\lambda$ are determined for each replicate from the best post burn-in
+iteration selected using Dahl's method \citep{Dahl:2006}.
+
+
+In \cite{Dahl:2006}, he proposed a least-squares model-based
+clustering for estimating the clustering of observations using draws
+from a posterior clustering distribution. In this method, we need to
+get the membership matrices for each iteration as
+$B^{(1)},...,B^{(M)}$, in which $M$ is the number of posterior samples
+obtained after burn-in iterations. Membership matrix $B$ is defined as:
+\begin{align}
+  \begin{split}
+    B = (B(i,j))_{i,j\in \{1:n\}} = (z_i = z_j)_{n\times n}
+  \end{split}
+\end{align}
+where $B(i,j) = \{0,1\}$ for all $i,j = 1,...,n$. $B(i,j)=1$ means
+observations $i$ and $j$ are in the same cluster in a certain
+iteration. Then we calculate the least squares distance to Euclidean
+mean for each MCMC iteration and choose the the best of these
+iterations. The procedure can be described as below:
+\begin{itemize}
+\item Calculate the Euclidean mean for all membership matrices
+  $\bar{B} = \frac{1}{M} \sum_{t=1}^M B^{(t)}$. 
+\item Find the iteration that has the least squares distance to
+  $\bar{B}$ as:
+  \begin{align}
+    \begin{split}
+      C_{LS} = \text{argmin}_{c \in (1:M)} \sum_{i=1}^n \sum_{j=1}^n
+      (B(i,j)^{(c)} - \bar{B}(i,j))^2
+    \end{split}
+  \end{align}
+\end{itemize}
+
+
+The least-squares clustering has the advantage that it uses
+information from all the clusterings (via the pairwise probability
+matrix) and is intuitively appealing because it selects the “average”
+clustering (instead of forming a clustering via an external, ad hoc
+clustering algorithm).
+
+
 \subsection{Model Assessment}
-Logarithm of the Pseudo-marginal likelihood (LPML) is an important bayesian assessment criterion \cite{gelfand1994bayesian}. The LPML is defined as
+Logarithm of the Pseudo-marginal likelihood (LPML) is an important
+bayesian assessment criterion \cite{gelfand1994bayesian}. The LPML is
+defined as:
 \begin{align}
-\label{eq:defLPML}
-\text{LPML} = \sum_{i=1}^{n} \text{log}(\text{CPO}_i),
+  \label{eq:defLPML}
+  \text{LPML} = \sum_{i=1}^{n} \text{log}(\text{CPO}_i),
 \end{align}
-where $\text{CPO}_i$ is the conditional predictive ordinate (CPO) for the $i$-th subject. CPO is based on the leave-one-out-cross-validation. CPO estimates the probability of observing $y_i$ in the future
-after having already observed $y_1,\cdots,y_{i-1},y_{i+1},\cdots,y_n$. The CPO for the $i$-th subject is defined as
+where $\text{CPO}_i$ is the conditional predictive ordinate (CPO) for
+the $i$-th subject. CPO is based on the
+leave-one-out-cross-validation. CPO estimates the probability of
+observing $y_i$ in the future after having already observed
+$y_1,\cdots,y_{i-1},y_{i+1},\cdots,y_n$. The CPO for the $i$-th
+subject is defined as:
 \begin{align}
-	\text{CPO}_i=f(y_i|\bm{y}_{-i}) \equiv \int f(y_i|\bm{\theta})\pi(\bm{\theta}|\bm{y}_{(-i)})d\bm{\theta},
-	\label{cpo def}
+  \text{CPO}_i=f(y_i|\bm{y}_{-i}) \equiv \int f(y_i|\bm{\theta}) \pi
+  (\bm{\theta}|\bm{y}_{(-i)}) \dd \bm{\theta},
+  \label{eq:cpo_def}
 \end{align}
-where $\bm{y}_{-i}$ is $y_1,\cdots,y_{i-1},y_{i+1}\cdots,y_n$,
+where $\bm{y}_{-i}$ is $y_1,\cdots,y_{i-1},y_{i+1}, \cdots, y_n$,
 \begin{align}
-	\pi(\bm{\theta}|\bm{y}_{-i})=\frac{\prod_{j\neq i}f(y_j|\bm{\theta})\pi(\bm{\theta})}{c(\bm{y}_{-i})},
+  \pi(\bm{\theta}|\bm{y}_{-i}) = \frac{\prod_{j\neq i}
+  f(y_j|\bm{\theta}) \pi (\bm{\theta})}{c(\bm{y}_{-i})},
 \end{align}
-and $c(\bm{y}_{-i})$ is the normalizing constant.
-The $\text{CPO}_i$ in \eqref{cpo def} can be expressed as
+and $c(\bm{y}_{-i})$ is the normalizing constant. The $\text{CPO}_i$
+in \eqref{eq:cpo_def} can be expressed as:
 \begin{align}
-	\text{CPO}_i=\frac{1}{\int\frac{1}{f(y_i|\bm{\theta})}\pi(\bm{\theta}|\bm{y}_{-i})d\bm{\theta}}.
-	\label{CPO1}
+  \text{CPO}_i=\frac{1}{\int\frac{1}{f(y_i|\bm{\theta})}\pi(\bm{\theta}|\bm{y}_{-i})d\bm{\theta}}.
+  \label{eq:CPO1}
 \end{align}
 
 
-Based on \citet{hu2019bayesianmodel}, a natural Monte Carlo estimate of the LPML
-is given by
+Based on \citet{hu2019bayesianmodel}, a natural Monte Carlo estimate
+of the LPML is given by:
 \begin{equation}
-  \widehat{\text{LPML}}
-= \sum_{j=1}^k\log \widetilde{\lambda}(s_j)-\int_{\mathcal{B}}\overline{\lambda}(u)\,du,
+  \widehat{\text{LPML}} = \sum_{j=1}^k \log \widetilde{\lambda}(s_j) -
+  \int_{\mathcal{B}} \overline{\lambda}(u)\, \dd u,
 \end{equation}
 where
-$\widetilde{\lambda}(s_j)=(\frac{1}{B}\sum_{b=1}^B\lambda(s_j|\bm{\theta_b})^{-1})^{-1}$,
-$\overline{\lambda}(u)=\frac{1}{B}\sum_{b=1}^B
-\lambda(u|\bm{\theta_b}) $, and $\{\theta_1,\theta_2,\cdots,\theta_B\}$ is a sample
-from the posterior.
+$\widetilde{\lambda}(s_j)=(\frac{1}{B}\sum_{b=1}^B\lambda(s_j|\bm{\theta_b})^{-1})^{-1}$, 
+$\overline{\lambda}(u)=\frac{1}{B}\sum_{b=1}^B\lambda(u|\bm{\theta_b})$,
+and $\{\theta_1,\theta_2,\cdots,\theta_B\}$ is a sample from the
+posterior.
+
 
 \section{Simulation}\label{sec:simu}
-
 \section{Real Data Analysis}\label{sec:real_data}
 \subsection{Data Description}
 \subsection{Data Analysis}
